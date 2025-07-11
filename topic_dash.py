@@ -17,11 +17,12 @@ topic_data_root = "data"
 sentiment_data_root = os.path.join("data", "output_entities_sentiment_structured")
 
 platform_folders = {
-    "TikTok": os.path.join("data", "tiktok"),
-    "Twitter": os.path.join("data", "twitter"),
-    "YouTube": os.path.join("data", "youtube"),
-    "Bluesky": os.path.join("data", "bluesky")
+    "tiktok": os.path.join("data", "tiktok"),
+    "twitter": os.path.join("data", "twitter"),
+    "youtube": os.path.join("data", "youtube"),
+    "bluesky": os.path.join("data", "bluesky")
 }
+
 
 date_cols = {
     "TikTok": "create_time",
@@ -116,12 +117,13 @@ dataframes, file_date_ranges, outlets, outlet_platform_map = load_sentiment_csvs
 st.sidebar.header("Select First Media Outlet")
 outlet1 = st.sidebar.selectbox("Media Outlet 1", outlets)
 platforms1 = outlet_platform_map[outlet1]
-platform1 = st.sidebar.selectbox("Platform for Outlet 1", sorted(platforms1))
+platform1 = st.sidebar.selectbox("Platform for Outlet 1", sorted(platforms1)).lower()
+
 
 st.sidebar.header("Select Second Media Outlet")
 outlet2 = st.sidebar.selectbox("Media Outlet 2", outlets)
 platforms2 = outlet_platform_map[outlet2]
-platform2 = st.sidebar.selectbox("Platform for Outlet 2", sorted(platforms2))
+platform2 = st.sidebar.selectbox("Platform for Outlet 2", sorted(platforms2)).lower()
 
 selected_combinations = [(outlet1, platform1), (outlet2, platform2)]
 
