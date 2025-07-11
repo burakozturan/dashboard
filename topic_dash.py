@@ -31,9 +31,9 @@ date_cols = {
 }
 
 # ----------------------
-# Load Topic Distribution CSV
+#  Topic Distribution CSV
 # ----------------------
-def load_topic_csv(outlet, platform):
+def _topic_csv(outlet, platform):
     # Normalize platform name (case-insensitive lookup)
     platform_lookup = {k.lower(): v for k, v in platform_folders.items()}
     platform_key = platform.lower()
