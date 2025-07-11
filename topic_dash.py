@@ -45,11 +45,16 @@ def load_topic_csv(outlet, platform):
     folder_path = os.path.join(topic_data_root, platform_lookup[platform_key])
 
     try:
+        print("Files in folder:", os.listdir(folder_path))    
+        print("Looking for:", outlet.lower(), "in start and", platform.lower(), "in filename")
+
         matched_file = next(
     (f for f in os.listdir(folder_path)
      if f.lower().startswith(outlet.lower()) and platform.lower() in f.lower() and f.endswith("_with_sections.csv")),
     None
 )
+        print("Matched file:", matched_file)
+
         if not matched_file:
             return pd.DataFrame()
 
