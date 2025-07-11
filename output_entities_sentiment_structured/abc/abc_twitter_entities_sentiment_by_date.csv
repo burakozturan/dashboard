@@ -1,0 +1,953 @@
+outlet,platform,date,entity,sentiment
+abc,twitter,2025-07-02,lone wolf actor,0.04545454545454545
+abc,twitter,2025-07-02,Fourth of July,0.04545454545454545
+abc,twitter,2025-07-02,ABC News,0.04545454545454545
+abc,twitter,2025-07-02,"the Jan. 6, 2021",0.1875
+abc,twitter,2025-07-02,the Justice Department,0.1875
+abc,twitter,2025-07-02,Weaponization Working Group,0.1875
+abc,twitter,2025-07-02,last month,-0.03333333333333333
+abc,twitter,2025-07-02,the Houston Police Department,-0.03333333333333333
+abc,twitter,2025-07-02,Magellanic,-0.004166666666666666
+abc,twitter,2025-07-02,Scooter Braun,-0.15555555555555556
+abc,twitter,2025-07-02,HYBE America,-0.15555555555555556
+abc,twitter,2025-07-02,four years,-0.15555555555555556
+abc,twitter,2025-07-02,Alcatraz,0.1518939393939394
+abc,twitter,2025-07-02,2050,0.14166666666666666
+abc,twitter,2025-07-02,the American Association for Cancer Research,0.14166666666666666
+abc,twitter,2025-07-02,Bahamas,-0.3833333333333333
+abc,twitter,2025-07-02,The University of Pennsylvania,0.0
+abc,twitter,2025-07-02,Department of Education,0.0
+abc,twitter,2025-07-02,Thom Tillis,-0.06666666666666667
+abc,twitter,2025-07-02,2026,-0.06666666666666667
+abc,twitter,2025-07-02,Idaho,0.0875
+abc,twitter,2025-07-02,ABC News,0.0875
+abc,twitter,2025-07-02,The White House,0.3
+abc,twitter,2025-07-01,one year,-0.02840909090909091
+abc,twitter,2025-07-01,ABC News,0.07673611111111112
+abc,twitter,2025-07-01,over 100,0.0
+abc,twitter,2025-07-01,U-Haul,0.0
+abc,twitter,2025-07-01,60-day,0.016666666666666666
+abc,twitter,2025-07-01,Hamas,0.016666666666666666
+abc,twitter,2025-07-01,The Department of Justice,0.0
+abc,twitter,2025-07-01,The White House,0.1787878787878788
+abc,twitter,2025-07-01,Hakeem Jeffries,-1.0
+abc,twitter,2025-07-01,Karen Bass,-0.15000000000000002
+abc,twitter,2025-07-01,The Justice Department,-0.15000000000000002
+abc,twitter,2025-07-01,the enforcement of federal immigration,-0.15000000000000002
+abc,twitter,2025-07-01,Lululemon,0.55
+abc,twitter,2025-07-01,Costco,0.55
+abc,twitter,2025-07-01,last month,-0.03333333333333333
+abc,twitter,2025-07-01,DIDDY,0.21212121212121213
+abc,twitter,2025-07-01,9 a.m.,0.21212121212121213
+abc,twitter,2025-07-01,ABC News',0.0909090909090909
+abc,twitter,2025-07-01,Reena Roy,0.0909090909090909
+abc,twitter,2025-07-01,"Diddy"" Combs",0.0909090909090909
+abc,twitter,2025-07-01,DIDDY,0.1090909090909091
+abc,twitter,2025-07-01,Sean Combs,0.1090909090909091
+abc,twitter,2025-07-01,Counts 2,0.1090909090909091
+abc,twitter,2025-07-01,Arun Subramanian,0.1090909090909091
+abc,twitter,2025-07-01,Arun Subramanian,0.018181818181818174
+abc,twitter,2025-07-01,The State Department,-0.14583333333333331
+abc,twitter,2025-07-01,USAID,-0.14583333333333331
+abc,twitter,2025-07-01,"Diddy"" Combs",0.2
+abc,twitter,2025-07-01,Wilmington,-0.2
+abc,twitter,2025-07-01,Delaware,-0.2
+abc,twitter,2025-07-01,79-year-old,-0.2
+abc,twitter,2025-07-01,Delaware State Police,-0.2
+abc,twitter,2025-07-01,26-hour,0.2033333333333333
+abc,twitter,2025-07-01,Zohran Mamdani,0.07424242424242423
+abc,twitter,2025-07-01,The Department of Justice,0.21428571428571427
+abc,twitter,2025-07-01,DOJ,0.21428571428571427
+abc,twitter,2025-07-01,Elon Musk,0.0
+abc,twitter,2025-07-01,"up to 5,000",0.1
+abc,twitter,2025-07-01,Alcatraz,0.1
+abc,twitter,2025-07-01,Elon Musk,0.0
+abc,twitter,2025-07-01,BTS,0.018181818181818174
+abc,twitter,2025-07-01,2026,0.018181818181818174
+abc,twitter,2025-07-01,the U.S. Department of Health and Human Services,0.0
+abc,twitter,2025-07-01,early Tuesday,-0.0375
+abc,twitter,2025-07-01,Cabo da Roca,0.32499999999999996
+abc,twitter,2025-07-01,Coeur d'Alene,-0.39999999999999997
+abc,twitter,2025-07-01,Idaho,-0.39999999999999997
+abc,twitter,2025-07-01,"@ABC
+ News",-0.39999999999999997
+abc,twitter,2025-07-01,Taylor Fritz,0.39666666666666667
+abc,twitter,2025-07-01,Wimbledon,0.39666666666666667
+abc,twitter,2025-07-01,249,0.06818181818181818
+abc,twitter,2025-07-01,Chuck Schumer,0.25
+abc,twitter,2025-07-01,Pres,0.25
+abc,twitter,2025-07-01,three days,0.16875
+abc,twitter,2025-07-01,ABC News',0.16875
+abc,twitter,2025-07-01,Karen Travers,0.16875
+abc,twitter,2025-07-01,Chuck Schumer,0.0
+abc,twitter,2025-07-01,Pres,0.0
+abc,twitter,2025-07-01,Alcatraz,0.2833333333333333
+abc,twitter,2025-07-01,Coeur d'Alene,0.0
+abc,twitter,2025-07-01,Idaho,0.0
+abc,twitter,2025-07-01,20-year-old,0.0
+abc,twitter,2025-07-01,Jerome Powell,0.0
+abc,twitter,2025-07-01,this month,0.0
+abc,twitter,2025-07-01,50-50,0.25
+abc,twitter,2025-07-01,JD Vance,0.25
+abc,twitter,2025-07-01,@jayobtv,0.25
+abc,twitter,2025-07-01,50-50,0.25
+abc,twitter,2025-07-01,JD Vance,0.25
+abc,twitter,2025-07-01,50-50,0.0
+abc,twitter,2025-07-01,JD Vance,0.0
+abc,twitter,2025-07-01,University of Idaho,-0.07500000000000001
+abc,twitter,2025-07-01,Kaylee Goncalves,-0.07500000000000001
+abc,twitter,2025-07-01,Bryan Kohberger,-0.07500000000000001
+abc,twitter,2025-07-01,Alcatraz,0.05909090909090909
+abc,twitter,2025-07-01,Coeur d'Alene,0.0
+abc,twitter,2025-07-01,Idaho,0.0
+abc,twitter,2025-07-01,20-year-old,0.0
+abc,twitter,2025-07-01,the Eiffel Tower,0.16666666666666666
+abc,twitter,2025-07-01,early Tuesday,0.16666666666666666
+abc,twitter,2025-07-01,$305 million,-0.1
+abc,twitter,2025-07-01,23andMe,-0.1
+abc,twitter,2025-07-01,Anne Wojcicki,-0.1
+abc,twitter,2025-07-01,Elon Musk,0.5
+abc,twitter,2025-07-01,"Diddy"" Combs",0.25
+abc,twitter,2025-07-01,North Korea's,-0.1
+abc,twitter,2025-07-01,Idaho,0.0875
+abc,twitter,2025-07-01,Ethan Chapin,0.0875
+abc,twitter,2025-07-01,"@ABC
+ News",0.0875
+abc,twitter,2025-07-01,Lululemon,0.6
+abc,twitter,2025-07-01,Costco,0.6
+abc,twitter,2025-07-01,ABC News Live,0.25757575757575757
+abc,twitter,2025-07-01,3-on-3,-0.09999999999999998
+abc,twitter,2025-07-01,Roley,0.075
+abc,twitter,2025-07-01,nearly a month,0.03333333333333333
+abc,twitter,2025-07-01,Travis Decker,0.03333333333333333
+abc,twitter,2025-07-01,this summer,0.2708333333333333
+abc,twitter,2025-07-01,2050,0.14166666666666666
+abc,twitter,2025-07-01,the American Association for Cancer Research,0.14166666666666666
+abc,twitter,2025-07-01,Rachel Zegler,0.06818181818181818
+abc,twitter,2025-07-01,London Palladium,0.06818181818181818
+abc,twitter,2025-07-01,Eva Peron,0.06818181818181818
+abc,twitter,2025-07-01,Evita,0.06818181818181818
+abc,twitter,2025-07-01,Emerald Downs,0.0
+abc,twitter,2025-07-01,2025,0.0
+abc,twitter,2025-07-01,over 300,0.0
+abc,twitter,2025-07-01,Warren Buffett,0.06666666666666667
+abc,twitter,2025-07-01,$6 billion,0.06666666666666667
+abc,twitter,2025-07-01,roughly $60 billion,0.06666666666666667
+abc,twitter,2025-07-01,the White House,0.31212121212121213
+abc,twitter,2025-07-01,at least 36,-0.075
+abc,twitter,2025-07-01,about three dozen,-0.075
+abc,twitter,2025-07-01,Cambodia,0.06628787878787878
+abc,twitter,2025-07-01,a second day,0.0
+abc,twitter,2025-07-01,The U.S. National Hurricane Center,-0.1
+abc,twitter,2025-07-01,Flossie,-0.1
+abc,twitter,2025-07-01,80 mph,-0.1
+abc,twitter,2025-07-01,"Nearly 150,000 pounds",-0.012499999999999997
+abc,twitter,2025-07-01,Coeur d'Alene,-0.39999999999999997
+abc,twitter,2025-07-01,Idaho,-0.39999999999999997
+abc,twitter,2025-07-01,ABC News,-0.39999999999999997
+abc,twitter,2025-07-01,Bahamas,-0.3833333333333333
+abc,twitter,2025-07-01,Coeur d'Alene,0.0
+abc,twitter,2025-07-01,Idaho,0.0
+abc,twitter,2025-07-01,20-year-old,0.0
+abc,twitter,2025-07-01,Julie Chrisley,0.13333333333333333
+abc,twitter,2025-07-01,92-year-old,-0.6
+abc,twitter,2025-07-01,the Transportation Security Administration,0.3181818181818182
+abc,twitter,2025-07-01,Idaho,-0.2
+abc,twitter,2025-07-01,Pres,0.27249999999999996
+abc,twitter,2025-07-01,Trump’s One Big Beautiful Bill Act,0.27249999999999996
+abc,twitter,2025-07-01,the Brooklyn Bridge,0.22727272727272724
+abc,twitter,2025-07-01,last month,0.22727272727272724
+abc,twitter,2025-07-01,Mexican Navy,0.22727272727272724
+abc,twitter,2025-07-01,more than 6,0.22727272727272724
+abc,twitter,2025-07-01,Ayatollah Ali Khamenei,0.25
+abc,twitter,2025-07-01,"The ""Devil Wears Prada",0.0
+abc,twitter,2025-07-01,Bryan Kohberger,0.16666666666666666
+abc,twitter,2025-07-01,Idaho,0.16666666666666666
+abc,twitter,2025-06-30,Coeur d'Alene,0.475
+abc,twitter,2025-06-30,Idaho,0.475
+abc,twitter,2025-06-30,one day,0.475
+abc,twitter,2025-06-30,ABC News',0.475
+abc,twitter,2025-06-30,Matt Gutman,0.475
+abc,twitter,2025-06-30,Julie Chrisley,0.13333333333333333
+abc,twitter,2025-06-30,the Alien Enemies Act,-0.25
+abc,twitter,2025-06-30,Tren de Aragua,-0.25
+abc,twitter,2025-06-30,July 4,0.45
+abc,twitter,2025-06-30,100 degrees,0.0
+abc,twitter,2025-06-30,July 4,0.5
+abc,twitter,2025-06-30,The Justice Department,0.0
+abc,twitter,2025-06-30,North Koreans,0.0
+abc,twitter,2025-06-30,Harvard University's,0.5
+abc,twitter,2025-06-30,the Civil Rights Act,0.5
+abc,twitter,2025-06-30,"Nearly 150,000 pounds",-0.012499999999999997
+abc,twitter,2025-06-30,Bryan Kohberger,0.0
+abc,twitter,2025-06-30,Idaho,0.0
+abc,twitter,2025-06-30,Bryan Kohberger,-0.5
+abc,twitter,2025-06-30,Idaho,-0.5
+abc,twitter,2025-06-30,Alcatraz,0.1090909090909091
+abc,twitter,2025-06-30,Karoline Leavitt,0.1090909090909091
+abc,twitter,2025-06-30,nearly a month,0.03333333333333333
+abc,twitter,2025-06-30,Travis Decker,0.03333333333333333
+abc,twitter,2025-06-30,The Devil Wears Prada,0.3666666666666667
+abc,twitter,2025-06-30,Anne Hathaway,0.3666666666666667
+abc,twitter,2025-06-30,Emily Blunt,0.3666666666666667
+abc,twitter,2025-06-30,Stanley Tucci,0.3666666666666667
+abc,twitter,2025-06-30,Century Studios,0.3666666666666667
+abc,twitter,2025-06-30,Good Morning America,0.3666666666666667
+abc,twitter,2025-06-30,Elon Musk,0.2477272727272727
+abc,twitter,2025-06-30,Pres,0.2477272727272727
+abc,twitter,2025-06-30,the RICO Act,0.0
+abc,twitter,2025-06-30,Sean Combs,0.0
+abc,twitter,2025-06-30,Chris Coons,0.16666666666666666
+abc,twitter,2025-06-30,the White House,0.16666666666666666
+abc,twitter,2025-06-30,ABC News,-0.4
+abc,twitter,2025-06-30,the past month,0.26285714285714284
+abc,twitter,2025-06-30,"late Sunday, days",-0.3
+abc,twitter,2025-06-30,Warren Buffett,0.06666666666666667
+abc,twitter,2025-06-30,$6 billion,0.06666666666666667
+abc,twitter,2025-06-30,roughly $60 billion,0.06666666666666667
+abc,twitter,2025-06-30,The Department of Justice,0.0
+abc,twitter,2025-06-30,Harvard University,-0.3
+abc,twitter,2025-06-30,the Civil Rights Act,-0.3
+abc,twitter,2025-06-30,sec,-0.3
+abc,twitter,2025-06-30,Karoline Leavitt,-0.3
+abc,twitter,2025-06-30,Thom Tillis,0.0
+abc,twitter,2025-06-30,Coeur,0.0
+abc,twitter,2025-06-30,Idaho,0.0
+abc,twitter,2025-06-30,July 4,0.0
+abc,twitter,2025-06-30,sec,-0.01060606060606061
+abc,twitter,2025-06-30,Karoline Leavitt,-0.01060606060606061
+abc,twitter,2025-06-30,Alcatraz,-0.01060606060606061
+abc,twitter,2025-06-30,Karoline Leavitt,0.014814814814814817
+abc,twitter,2025-06-30,Zohran Mamdani,0.014814814814814817
+abc,twitter,2025-06-30,NYC,0.014814814814814817
+abc,twitter,2025-06-30,WNBA,0.06818181818181818
+abc,twitter,2025-06-30,the next five years,0.06818181818181818
+abc,twitter,2025-06-30,Storm Flossie,0.0
+abc,twitter,2025-06-30,Pacific coast,0.0
+abc,twitter,2025-06-30,Storm Barry,0.0
+abc,twitter,2025-06-30,Disney Dream,0.0
+abc,twitter,2025-06-30,Fort Lauderdale,0.0
+abc,twitter,2025-06-30,Bahamas,0.0
+abc,twitter,2025-06-30,82-year-old,0.0
+abc,twitter,2025-06-30,Boulder,0.0
+abc,twitter,2025-06-30,The Wimbledon Championships,0.0
+abc,twitter,2025-06-30,the All England Lawn Tennis Club,0.0
+abc,twitter,2025-06-30,92-year-old,-0.6
+abc,twitter,2025-06-30,"Diddy"" Combs",-0.18181818181818182
+abc,twitter,2025-06-30,Harvard University's,-0.33181818181818185
+abc,twitter,2025-06-30,the Civil Rights Act,-0.33181818181818185
+abc,twitter,2025-06-30,"@ABC
+ News",-0.33181818181818185
+abc,twitter,2025-06-30,DIDDY,0.07878787878787878
+abc,twitter,2025-06-30,Sean Combs,0.07878787878787878
+abc,twitter,2025-06-30,more than two hours,0.07878787878787878
+abc,twitter,2025-06-30,Arun Subramanian,0.07878787878787878
+abc,twitter,2025-06-30,WNBA,0.0
+abc,twitter,2025-06-30,the next five years,0.0
+abc,twitter,2025-06-30,The Supreme Court,0.25
+abc,twitter,2025-06-30,The Supreme Court,0.0
+abc,twitter,2025-06-30,New York City's,0.10378787878787878
+abc,twitter,2025-06-30,Stonewall Inn,0.10378787878787878
+abc,twitter,2025-06-30,Eric Adams,0.10378787878787878
+abc,twitter,2025-06-30,ABC News',0.10378787878787878
+abc,twitter,2025-06-30,WABC,0.10378787878787878
+abc,twitter,2025-06-30,Los Angeles Police Department,0.0
+abc,twitter,2025-06-30,McDonald's,-0.03333333333333333
+abc,twitter,2025-06-30,Krispy Kreme,-0.03333333333333333
+abc,twitter,2025-06-30,Demi Lovato,0.0
+abc,twitter,2025-06-30,ABC News Live,0.25757575757575757
+abc,twitter,2025-06-30,Bob Vylan’s,-0.1
+abc,twitter,2025-06-30,the Glastonbury Festival,-0.1
+abc,twitter,2025-06-30,"@ABC
+ News",-0.4
+abc,twitter,2025-06-30,Zohran Mamdani,0.13636363636363635
+abc,twitter,2025-06-30,Idaho,-0.5
+abc,twitter,2025-06-30,early morning hours,0.24545454545454545
+abc,twitter,2025-06-30,ABC News',0.24545454545454545
+abc,twitter,2025-06-30,Mary Bruce,0.24545454545454545
+abc,twitter,2025-06-30,Somerset,0.0
+abc,twitter,2025-06-30,Dukes of Hazzard,0.0
+abc,twitter,2025-06-30,More than four years,0.09999999999999999
+abc,twitter,2025-06-30,Coeur d'Alene,0.13333333333333333
+abc,twitter,2025-06-30,Idaho,0.13333333333333333
+abc,twitter,2025-06-30,Coeur d'Alene,-0.05
+abc,twitter,2025-06-30,Idaho,-0.05
+abc,twitter,2025-06-30,@MattGutmanABC,-0.05
+abc,twitter,2025-06-30,Danish,-0.06666666666666667
+abc,twitter,2025-06-30,18 after Tuesday,-0.06666666666666667
+abc,twitter,2025-06-30,trillions of dollars,0.11875
+abc,twitter,2025-06-30,two-year,-0.033333333333333326
+abc,twitter,2025-06-30,Fukushima,-0.033333333333333326
+abc,twitter,2025-06-30,EF-1,0.2
+abc,twitter,2025-06-30,Chris Coons,0.04545454545454545
+abc,twitter,2025-06-30,the White House,0.04545454545454545
+abc,twitter,2025-06-30,Pres,0.25
+abc,twitter,2025-06-30,the Demilitarized Zone,0.25
+abc,twitter,2025-06-30,North and South Korea,0.25
+abc,twitter,2025-06-30,ABC News,-0.0053571428571428555
+abc,twitter,2025-06-30,French Pres,0.06818181818181818
+abc,twitter,2025-06-30,Chris Coons,0.04545454545454545
+abc,twitter,2025-06-30,the White House,0.04545454545454545
+abc,twitter,2025-06-30,the East Coast,0.16666666666666666
+abc,twitter,2025-06-30,the United States,0.16666666666666666
+abc,twitter,2025-06-30,the first week of summer,0.16666666666666666
+abc,twitter,2025-06-30,this spring,0.3
+abc,twitter,2025-06-30,more than a decade,0.3
+abc,twitter,2025-06-30,18th-century,0.05
+abc,twitter,2025-06-30,Croatia,0.05
+abc,twitter,2025-06-30,Dubrovnik,0.05
+abc,twitter,2025-06-30,Mark Carney,-0.3
+abc,twitter,2025-06-30,late Sunday,-0.3
+abc,twitter,2025-06-30,Bahama Breeze,0.0
+abc,twitter,2025-06-30,last month,0.0
+abc,twitter,2025-06-30,F1 The Movie,0.1708333333333333
+abc,twitter,2025-06-30,$55.6 million,0.1708333333333333
+abc,twitter,2025-06-30,North American,0.1708333333333333
+abc,twitter,2025-06-30,Universal’s “M3gan 2.0,0.1708333333333333
+abc,twitter,2025-06-30,F1,0.1708333333333333
+abc,twitter,2025-06-30,DoorDash,-0.2
+abc,twitter,2025-06-30,Bryan Kohberger,-0.2
+abc,twitter,2025-06-30,Independence Day,0.45
+abc,twitter,2025-06-30,60 million years ago,0.0
+abc,twitter,2025-06-30,CDC,0.0
+abc,twitter,2025-06-30,the Michelin Guide,0.25
+abc,twitter,2025-06-30,20-year,0.0
+abc,twitter,2025-06-30,Lake Michigan,0.0
+abc,twitter,2025-06-30,1950,0.0
+abc,twitter,2025-06-30,J.M. Smucker Co.,-0.6
+abc,twitter,2025-06-30,the end of 2027,-0.6
+abc,twitter,2025-06-30,K-12,-0.6
+abc,twitter,2025-06-30,2026-2027 school year,-0.6
+abc,twitter,2025-06-30,32 years,0.125
+abc,twitter,2025-06-30,Beyoncé,0.07500000000000001
+abc,twitter,2025-06-30,Cowboy Carter,0.07500000000000001
+abc,twitter,2025-06-30,New York City's,-0.0034090909090909102
+abc,twitter,2025-06-30,Stonewall Inn,-0.0034090909090909102
+abc,twitter,2025-06-30,Eric Adams,-0.0034090909090909102
+abc,twitter,2025-06-30,Nestle,0.07
+abc,twitter,2025-06-30,the middle of 2026,0.07
+abc,twitter,2025-06-30,Coeur d'Alene,0.15
+abc,twitter,2025-06-30,Idaho,0.15
+abc,twitter,2025-06-30,"at least 1,165 acres",0.011111111111111108
+abc,twitter,2025-06-30,Food Network,-0.25
+abc,twitter,2025-06-30,Anne Burrell's,-0.25
+abc,twitter,2025-06-30,Worst Cooks in America,-0.25
+abc,twitter,2025-06-30,last week,-0.25
+abc,twitter,2025-06-30,Army Rangers,0.0
+abc,twitter,2025-06-30,"6,500",0.0
+abc,twitter,2025-06-30,D. Wayne Lukas,0.39999999999999997
+abc,twitter,2025-06-30,the Hall of Famer,0.39999999999999997
+abc,twitter,2025-06-30,Tony Roma,0.42857142857142855
+abc,twitter,2025-06-30,"$350,000",0.42857142857142855
+abc,twitter,2025-06-30,Celestiq,0.42857142857142855
+abc,twitter,2025-06-30,Warren Buffett,0.175
+abc,twitter,2025-06-30,$6 billion,0.175
+abc,twitter,2025-06-30,roughly $60 billion,0.175
+abc,twitter,2025-06-30,Kroger,0.08333333333333333
+abc,twitter,2025-06-30,the next 18 months,0.08333333333333333
+abc,twitter,2025-06-30,2025 first quarter,0.08333333333333333
+abc,twitter,2025-06-30,Dick Van Dyke,-0.5
+abc,twitter,2025-06-30,Arlene Silver,-0.5
+abc,twitter,2025-06-29,Coeur d'Alene,0.15
+abc,twitter,2025-06-29,Idaho,0.15
+abc,twitter,2025-06-29,D. Wayne Lukas,0.35
+abc,twitter,2025-06-29,the Hall of Famer,0.35
+abc,twitter,2025-06-29,Coeur d'Alene,0.0
+abc,twitter,2025-06-29,Idaho,0.0
+abc,twitter,2025-06-29,Kootenai County Sheriff's,0.0
+abc,twitter,2025-06-29,Jeff Howard,0.0
+abc,twitter,2025-06-29,Coeur d'Alene,0.0
+abc,twitter,2025-06-29,Idaho,0.0
+abc,twitter,2025-06-29,Kootenai County Sheriff's,0.0
+abc,twitter,2025-06-29,Jeff Howard,0.0
+abc,twitter,2025-06-29,the American Cancer Society,0.03333333333333333
+abc,twitter,2025-06-29,2050,0.03333333333333333
+abc,twitter,2025-06-29,74%,0.03333333333333333
+abc,twitter,2025-06-29,the July Fourth holiday,-0.07916666666666666
+abc,twitter,2025-06-29,At least one,-0.053125000000000006
+abc,twitter,2025-06-29,early Sunday,-0.053125000000000006
+abc,twitter,2025-06-29,North Philadelphia,-0.053125000000000006
+abc,twitter,2025-06-29,Jim Harbaugh,0.1
+abc,twitter,2025-06-29,the University of Michigan,0.1
+abc,twitter,2025-06-29,Beyoncé,0.0
+abc,twitter,2025-06-29,Juneteenth,0.0
+abc,twitter,2025-06-29,Cowboy Carter,0.0
+abc,twitter,2025-06-29,Zohran Mamdani,0.10727272727272727
+abc,twitter,2025-06-29,New York's,0.10727272727272727
+abc,twitter,2025-06-29,Blue Origin,-0.03125
+abc,twitter,2025-06-29,Sunday morning,-0.03125
+abc,twitter,2025-06-29,Karman,-0.03125
+abc,twitter,2025-06-29,a little over 10 minutes,-0.03125
+abc,twitter,2025-06-29,Thom Tillis,0.24
+abc,twitter,2025-06-29,next year,0.24
+abc,twitter,2025-06-29,$3.3 trillion,0.3333333333333333
+abc,twitter,2025-06-29,the next decade,0.3333333333333333
+abc,twitter,2025-06-29,Congressional Budget Office,0.3333333333333333
+abc,twitter,2025-06-29,earlier this month,0.09999999999999999
+abc,twitter,2025-06-29,Jefferson County,0.09999999999999999
+abc,twitter,2025-06-29,Thom Tillis,0.0
+abc,twitter,2025-06-29,next year,0.0
+abc,twitter,2025-06-29,The Federal Trade Commission,0.5
+abc,twitter,2025-06-29,more than $126 million,0.5
+abc,twitter,2025-06-29,Fortnite,0.5
+abc,twitter,2025-06-29,Jim Harbaugh,0.2333333333333333
+abc,twitter,2025-06-29,the University of Michigan,0.2333333333333333
+abc,twitter,2025-06-29,Hakeem Jeffries,0.29545454545454547
+abc,twitter,2025-06-29,Zohran Mamdani,0.29545454545454547
+abc,twitter,2025-06-29,Hundreds of millions,0.0
+abc,twitter,2025-06-29,"1,600",0.4
+abc,twitter,2025-06-29,Bibles,0.4
+abc,twitter,2025-06-29,Lindsey Graham,0.03333333333333333
+abc,twitter,2025-06-29,Julie Chrisley,0.225
+abc,twitter,2025-06-29,the day on Thursday,0.0
+abc,twitter,2025-06-29,30-year-old,0.31666666666666665
+abc,twitter,2025-06-29,Hurricane season,0.5
+abc,twitter,2025-06-29,20-year-old,-0.02840909090909091
+abc,twitter,2025-06-29,Julie Chrisley,0.13333333333333333
+abc,twitter,2025-06-29,Dave Parker,0.0
+abc,twitter,2025-06-29,the Baseball Hall of Fame,0.0
+abc,twitter,2025-06-29,next month,0.0
+abc,twitter,2025-06-29,the Pittsburgh Pirates,0.0
+abc,twitter,2025-06-29,30-year-old,0.31666666666666665
+abc,twitter,2025-06-29,Cape Canaveral,0.7
+abc,twitter,2025-06-29,Samaritan,0.7
+abc,twitter,2025-06-29,the U.S. Coast Guard,0.7
+abc,twitter,2025-06-29,Rick Scott,0.22222222222222224
+abc,twitter,2025-06-29,Ron Johnson,0.22222222222222224
+abc,twitter,2025-06-29,Mike Lee,0.22222222222222224
+abc,twitter,2025-06-29,Cynthia Lummis,0.22222222222222224
+abc,twitter,2025-06-29,early Sunday,0.22222222222222224
+abc,twitter,2025-06-29,Lorde,-0.08787878787878789
+abc,twitter,2025-06-29,June 23,-0.03181818181818183
+abc,twitter,2025-06-29,ISNA News Agency,-0.03181818181818183
+abc,twitter,2025-06-29,the Michelin Guide,0.25
+abc,twitter,2025-06-29,Phoenix Zoo,0.5
+abc,twitter,2025-06-29,537,0.0
+abc,twitter,2025-06-29,F-16,0.0
+abc,twitter,2025-06-29,George Kittle,0.04761904761904761
+abc,twitter,2025-06-29,Taylor Swift,0.04761904761904761
+abc,twitter,2025-06-29,Love Story,0.04761904761904761
+abc,twitter,2025-06-29,Tight End University,0.04761904761904761
+abc,twitter,2025-06-29,the East Coast,0.16666666666666666
+abc,twitter,2025-06-29,the United States,0.16666666666666666
+abc,twitter,2025-06-29,the first week of summer,0.16666666666666666
+abc,twitter,2025-06-29,20-year-old,-0.02840909090909091
+abc,twitter,2025-06-29,Iranians,-0.03333333333333333
+abc,twitter,2025-06-29,Islamic Republic,-0.03333333333333333
+abc,twitter,2025-06-29,12-day,-0.03333333333333333
+abc,twitter,2025-06-29,Anchorage,0.0
+abc,twitter,2025-06-29,Warren Buffett,0.06666666666666667
+abc,twitter,2025-06-29,$6 billion,0.06666666666666667
+abc,twitter,2025-06-29,roughly $60 billion,0.06666666666666667
+abc,twitter,2025-06-29,Bismarck,-0.43333333333333335
+abc,twitter,2025-06-29,North Dakota,-0.43333333333333335
+abc,twitter,2025-06-29,Hurricane season,0.5
+abc,twitter,2025-06-29,Tens of thousands,-0.07500000000000001
+abc,twitter,2025-06-29,Melissa Hortman,-0.07500000000000001
+abc,twitter,2025-06-29,two weeks ago,-0.07500000000000001
+abc,twitter,2025-06-29,Iranians,-0.03333333333333333
+abc,twitter,2025-06-29,Islamic Republic,-0.03333333333333333
+abc,twitter,2025-06-29,12-day,-0.03333333333333333
+abc,twitter,2025-06-29,The Supreme Court,0.22088888888888886
+abc,twitter,2025-06-29,Day 1,0.22088888888888886
+abc,twitter,2025-06-28,Beyoncé,0.0
+abc,twitter,2025-06-28,Juneteenth,0.0
+abc,twitter,2025-06-28,Cowboy Carter,0.0
+abc,twitter,2025-06-28,Ecuador,0.5333333333333333
+abc,twitter,2025-06-28,January 2024,0.5333333333333333
+abc,twitter,2025-06-28,Tens of thousands,0.039999999999999994
+abc,twitter,2025-06-28,Melissa Hortman,0.039999999999999994
+abc,twitter,2025-06-28,two weeks ago,0.039999999999999994
+abc,twitter,2025-06-28,Tens of thousands,-0.07500000000000001
+abc,twitter,2025-06-28,Melissa Hortman,-0.07500000000000001
+abc,twitter,2025-06-28,two weeks ago,-0.07500000000000001
+abc,twitter,2025-06-28,Jeff Bezos,0.2
+abc,twitter,2025-06-28,Lauren Sánchez,0.2
+abc,twitter,2025-06-28,Venice,0.2
+abc,twitter,2025-06-28,32 years,0.125
+abc,twitter,2025-06-28,Kim Kardashian,0.4
+abc,twitter,2025-06-28,Bratz,0.4
+abc,twitter,2025-06-28,Amazon MGM Studios,0.4
+abc,twitter,2025-06-28,ABC Audio,0.4
+abc,twitter,2025-06-28,approximately 200,-0.4
+abc,twitter,2025-06-28,Jeff Bezos,-0.4
+abc,twitter,2025-06-28,Lauren Sánchez's,-0.4
+abc,twitter,2025-06-28,A week,0.3
+abc,twitter,2025-06-28,Lisa Kudrow,0.0
+abc,twitter,2025-06-28,The Comeback,0.0
+abc,twitter,2025-06-28,Bahama Breeze,0.0
+abc,twitter,2025-06-28,last month,0.0
+abc,twitter,2025-06-28,Zohran Mamdani's,0.2681818181818182
+abc,twitter,2025-06-28,the Club World Cup,-0.0625
+abc,twitter,2025-06-28,Ozempic,-0.125
+abc,twitter,2025-06-28,Wegovy,-0.125
+abc,twitter,2025-06-28,Zohran Mamdani's,0.4454545454545455
+abc,twitter,2025-06-28,Nearly 400,0.05
+abc,twitter,2025-06-28,Hartsfield-Jackson International Airport,0.05
+abc,twitter,2025-06-28,Blue Origin,0.0
+abc,twitter,2025-06-28,Jeff Bezos,0.0
+abc,twitter,2025-06-28,Lauren Sánchez,0.0
+abc,twitter,2025-06-28,The Supreme Court,0.2857142857142857
+abc,twitter,2025-06-28,Planned Parenthood,0.2857142857142857
+abc,twitter,2025-06-28,20-year-old,0.028787878787878782
+abc,twitter,2025-06-28,Amazon MGM Studios,0.0
+abc,twitter,2025-06-28,Dune,0.0
+abc,twitter,2025-06-28,Denis Villeneuve,0.0
+abc,twitter,2025-06-28,James Bond,0.0
+abc,twitter,2025-06-28,30-year-old,0.31666666666666665
+abc,twitter,2025-06-28,PayPal,0.075
+abc,twitter,2025-06-28,Lauren Sánchez,0.0
+abc,twitter,2025-06-28,Jeff Bezos,0.0
+abc,twitter,2025-06-28,60 years,-0.5
+abc,twitter,2025-06-28,2023,-0.5
+abc,twitter,2025-06-28,PayPal,0.075
+abc,twitter,2025-06-28,The Federal Trade Commission,0.5
+abc,twitter,2025-06-28,more than $126 million,0.5
+abc,twitter,2025-06-28,Fortnite,0.5
+abc,twitter,2025-06-28,the day on Thursday,0.0
+abc,twitter,2025-06-28,18th-century,0.05
+abc,twitter,2025-06-28,Croatia,0.05
+abc,twitter,2025-06-28,Dubrovnik,0.05
+abc,twitter,2025-06-28,Bahama Breeze,0.0
+abc,twitter,2025-06-28,last month,0.0
+abc,twitter,2025-06-28,Ozempic,-0.125
+abc,twitter,2025-06-28,Wegovy,-0.125
+abc,twitter,2025-06-28,CDC,0.0
+abc,twitter,2025-06-28,CDC,0.0
+abc,twitter,2025-06-28,RSV,0.0
+abc,twitter,2025-06-28,U.S. Marshals,0.033333333333333326
+abc,twitter,2025-06-28,this month,0.033333333333333326
+abc,twitter,2025-06-28,72.2 million,-0.06
+abc,twitter,2025-06-28,at least,-0.06
+abc,twitter,2025-06-28,the July Fourth holiday period,-0.06
+abc,twitter,2025-06-28,June 28 to July 6,-0.06
+abc,twitter,2025-06-28,AAA,-0.06
+abc,twitter,2025-06-28,The Supreme Court,0.22088888888888886
+abc,twitter,2025-06-28,Day 1,0.22088888888888886
+abc,twitter,2025-06-28,"Diddy"" Combs",0.425
+abc,twitter,2025-06-28,Cassie Ventura,0.425
+abc,twitter,2025-06-28,Gavin Newsom,0.0
+abc,twitter,2025-06-28,$787 million,0.0
+abc,twitter,2025-06-28,Biden,0.0
+abc,twitter,2025-06-28,Melissa Hortman,0.0
+abc,twitter,2025-06-28,earlier this month,0.0
+abc,twitter,2025-06-28,Lauren Sánchez,0.0
+abc,twitter,2025-06-28,Jeff Bezos,0.0
+abc,twitter,2025-06-28,"Diddy"" Combs",0.425
+abc,twitter,2025-06-28,Cassie Ventura,0.425
+abc,twitter,2025-06-28,about 240,-0.05
+abc,twitter,2025-06-28,roughly 30%,-0.05
+abc,twitter,2025-06-28,J.M. Smucker Co.,-0.6
+abc,twitter,2025-06-28,the end of 2027,-0.6
+abc,twitter,2025-06-28,nearly a month,3.96508223080413e-18
+abc,twitter,2025-06-28,Travis Decker,3.96508223080413e-18
+abc,twitter,2025-06-28,at least one,3.96508223080413e-18
+abc,twitter,2025-06-28,"@ABC
+ News",3.96508223080413e-18
+abc,twitter,2025-06-27,Melissa Hortman,0.19999999999999998
+abc,twitter,2025-06-27,June 14,0.19999999999999998
+abc,twitter,2025-06-27,the Democratic Republic of the Congo,-1.0
+abc,twitter,2025-06-27,Rwanda,-1.0
+abc,twitter,2025-06-27,76-year-old,0.0
+abc,twitter,2025-06-27,EF-1,0.0
+abc,twitter,2025-06-27,Sudan,-0.1
+abc,twitter,2025-06-27,the United Nations,-0.1
+abc,twitter,2025-06-27,El Fasher,-0.1
+abc,twitter,2025-06-27,more than a month,0.30727272727272725
+abc,twitter,2025-06-27,The U.S. Marshals Service,0.30727272727272725
+abc,twitter,2025-06-27,Antoine Massey,0.30727272727272725
+abc,twitter,2025-06-27,more than a month,0.30727272727272725
+abc,twitter,2025-06-27,The U.S. Marshals Service,0.30727272727272725
+abc,twitter,2025-06-27,Antoine Massey,0.30727272727272725
+abc,twitter,2025-06-27,Pete Hegseth,0.4166666666666667
+abc,twitter,2025-06-27,Oscar V. Peterson,0.4166666666666667
+abc,twitter,2025-06-27,just over four hours,0.5
+abc,twitter,2025-06-27,Marc Agnifilo,0.5
+abc,twitter,2025-06-27,Sean Combs,0.5
+abc,twitter,2025-06-27,more than a month,0.21212121212121213
+abc,twitter,2025-06-27,La Plata County,0.0
+abc,twitter,2025-06-27,Colorado Parks,0.0
+abc,twitter,2025-06-27,a week,0.0
+abc,twitter,2025-06-27,July Fourth,0.0
+abc,twitter,2025-06-27,this weekend,0.0
+abc,twitter,2025-06-27,Blue Origin,0.125
+abc,twitter,2025-06-27,Jeff Bezos,0.125
+abc,twitter,2025-06-27,Lauren Sánchez,0.125
+abc,twitter,2025-06-27,Blue Origin,0.125
+abc,twitter,2025-06-27,Jeff Bezos,0.125
+abc,twitter,2025-06-27,Lauren Sánchez,0.125
+abc,twitter,2025-06-27,an hour,0.10388888888888888
+abc,twitter,2025-06-27,"6,173",0.0074242424242424235
+abc,twitter,2025-06-27,Sonia Sotomayor,0.25
+abc,twitter,2025-06-27,the Supreme Court,0.25
+abc,twitter,2025-06-27,Minnesotans,0.024999999999999994
+abc,twitter,2025-06-27,Melissa Hortman,0.024999999999999994
+abc,twitter,2025-06-27,Melissa Hortman,0.024999999999999994
+abc,twitter,2025-06-27,the Minnesota House of Representatives,0.024999999999999994
+abc,twitter,2025-06-27,Leo XIV,-0.07777777777777778
+abc,twitter,2025-06-27,Catholic Church,-0.07777777777777778
+abc,twitter,2025-06-27,Gavin Newsom,0.0
+abc,twitter,2025-06-27,$787 million,0.0
+abc,twitter,2025-06-27,last week,-0.225
+abc,twitter,2025-06-27,The American Meteor Society,0.0
+abc,twitter,2025-06-27,215,0.0
+abc,twitter,2025-06-27,the day on Thursday,0.0
+abc,twitter,2025-06-27,"over 30,000 mph",0.0
+abc,twitter,2025-06-27,July Fourth,0.26666666666666666
+abc,twitter,2025-06-27,Bellville Sassoon,0.0
+abc,twitter,2025-06-27,"520,000",0.0
+abc,twitter,2025-06-27,Beverly Hills,0.0
+abc,twitter,2025-06-27,the day on Thursday,0.0
+abc,twitter,2025-06-27,EF-1,0.2
+abc,twitter,2025-06-27,Vance Boelter,0.16666666666666666
+abc,twitter,2025-06-27,ABC News’ Andrew Dymburt,0.16666666666666666
+abc,twitter,2025-06-27,late Thursday,-0.3
+abc,twitter,2025-06-27,the Supreme Court’s,0.0761904761904762
+abc,twitter,2025-06-27,Pam Bondi,0.18333333333333335
+abc,twitter,2025-06-27,the Supreme Court’s,0.18333333333333335
+abc,twitter,2025-06-27,the Supreme Court,0.22164502164502164
+abc,twitter,2025-06-27,the Supreme Court's,0.305
+abc,twitter,2025-06-27,The U.S. Supreme Court,0.5
+abc,twitter,2025-06-27,The Supreme Court,0.5
+abc,twitter,2025-06-27,The Supreme Court,0.5
+abc,twitter,2025-06-27,The U.S. Supreme Court,0.16666666666666666
+abc,twitter,2025-06-27,ABC News',-0.07777777777777778
+abc,twitter,2025-06-27,Mireya Villarreal,-0.07777777777777778
+abc,twitter,2025-06-27,the Supreme Court's,-0.07777777777777778
+abc,twitter,2025-06-27,The Supreme Court,0.0
+abc,twitter,2025-06-27,the Affordable Care Act,0.0
+abc,twitter,2025-06-27,The Supreme Court,0.022222222222222227
+abc,twitter,2025-06-27,the Affordable Care Act,0.022222222222222227
+abc,twitter,2025-06-27,"@ABC
+ News'",0.022222222222222227
+abc,twitter,2025-06-27,James Sample,0.022222222222222227
+abc,twitter,2025-06-27,The U.S. Supreme Court,0.16666666666666666
+abc,twitter,2025-06-27,The Supreme Court,0.0
+abc,twitter,2025-06-27,the Affordable Care Act,0.0
+abc,twitter,2025-06-27,Sonia Sotomayor,0.16875
+abc,twitter,2025-06-27,@rachelvscott,0.25
+abc,twitter,2025-06-27,SCOTUS,0.25
+abc,twitter,2025-06-27,Pres,0.25
+abc,twitter,2025-06-27,The Supreme Court,0.25
+abc,twitter,2025-06-27,ABC News',-0.1
+abc,twitter,2025-06-27,@WhitJohnson,-0.1
+abc,twitter,2025-06-27,the Supreme Court,-0.1
+abc,twitter,2025-06-27,The Supreme Court,0.25
+abc,twitter,2025-06-27,last year,0.1875
+abc,twitter,2025-06-27,Taylor Swift,0.1875
+abc,twitter,2025-06-27,DIDDY,0.0
+abc,twitter,2025-06-27,Sean Combs,0.0
+abc,twitter,2025-06-27,"6,156",0.2615909090909091
+abc,twitter,2025-06-27,more than 20%,0.2615909090909091
+abc,twitter,2025-06-27,Bryan Kohberger's,0.025
+abc,twitter,2025-06-27,Steven Hippler,0.025
+abc,twitter,2025-06-27,Kohberger,0.025
+abc,twitter,2025-06-27,Pete Hegseth,0.2765151515151515
+abc,twitter,2025-06-27,Oscar V. Peterson,0.2765151515151515
+abc,twitter,2025-06-27,"1,600",0.4
+abc,twitter,2025-06-27,Bibles,0.4
+abc,twitter,2025-06-27,Melissa Hortman,-0.0625
+abc,twitter,2025-06-27,the Club World Cup,0.14375000000000002
+abc,twitter,2025-06-27,Lincoln Financial Field,0.14375000000000002
+abc,twitter,2025-06-27,the day on Thursday,0.0
+abc,twitter,2025-06-27,nearly a month,0.0625
+abc,twitter,2025-06-27,Travis Decker,0.0625
+abc,twitter,2025-06-27,at least one,0.0625
+abc,twitter,2025-06-27,"@ABC
+ News",0.0625
+abc,twitter,2025-06-27,The Supreme Court,-0.25
+abc,twitter,2025-06-27,Pres,-0.25
+abc,twitter,2025-06-27,@DevinDwyer,-0.25
+abc,twitter,2025-06-27,Robert F. Kennedy Jr.,0.0
+abc,twitter,2025-06-27,Gavi,0.0
+abc,twitter,2025-06-27,The Democratic Republic of Congo,-0.2
+abc,twitter,2025-06-27,Rwanda,-0.2
+abc,twitter,2025-06-27,Congo,-0.2
+abc,twitter,2025-06-27,last year,0.08333333333333333
+abc,twitter,2025-06-27,Taylor Swift,0.08333333333333333
+abc,twitter,2025-06-27,nearly a month,3.96508223080413e-18
+abc,twitter,2025-06-27,Travis Decker,3.96508223080413e-18
+abc,twitter,2025-06-27,at least one,3.96508223080413e-18
+abc,twitter,2025-06-27,"@ABC
+ News",3.96508223080413e-18
+abc,twitter,2025-06-27,"up to $1,000",0.1388888888888889
+abc,twitter,2025-06-27,the Federal Register,0.1388888888888889
+abc,twitter,2025-06-27,"@ABC
+ News",0.1388888888888889
+abc,twitter,2025-06-27,"up to $1,000",-0.04166666666666666
+abc,twitter,2025-06-27,the Federal Register,-0.04166666666666666
+abc,twitter,2025-06-27,"@ABC
+ News",-0.04166666666666666
+abc,twitter,2025-06-27,late Thursday,-0.19999999999999998
+abc,twitter,2025-06-27,at least one,-0.19999999999999998
+abc,twitter,2025-06-27,late Thursday,-0.19999999999999998
+abc,twitter,2025-06-27,at least one,-0.19999999999999998
+abc,twitter,2025-06-27,more than 40 years,0.13166666666666665
+abc,twitter,2025-06-27,Windows “Blue Screen of Death,0.13166666666666665
+abc,twitter,2025-06-27,three years,0.35
+abc,twitter,2025-06-27,Barry Bonds,0.0
+abc,twitter,2025-06-27,the San Francisco Giants',0.0
+abc,twitter,2025-06-27,this spring,0.3
+abc,twitter,2025-06-27,more than a decade,0.3
+abc,twitter,2025-06-27,Andrew Cuomo,0.19545454545454546
+abc,twitter,2025-06-27,ABC News,0.19545454545454546
+abc,twitter,2025-06-27,0.5%,0.05
+abc,twitter,2025-06-27,January through March,0.05
+abc,twitter,2025-06-27,the Commerce Department,0.05
+abc,twitter,2025-06-27,The Super Bowl,0.2111111111111111
+abc,twitter,2025-06-27,Kendrick Lamar's,0.2111111111111111
+abc,twitter,2025-06-27,Sudan,0.2111111111111111
+abc,twitter,2025-06-27,the Louisiana State Police,0.2111111111111111
+abc,twitter,2025-06-27,The Advisory Committee on Immunization Practices,0.0
+abc,twitter,2025-06-27,Health and Human Services,0.0
+abc,twitter,2025-06-27,Robert F. Kennedy Jr.,0.0
+abc,twitter,2025-06-27,76-year-old,0.4666666666666667
+abc,twitter,2025-06-27,Vance Boelter,0.0
+abc,twitter,2025-06-27,ABC News,-0.0053571428571428555
+abc,twitter,2025-06-27,Altadena,0.0
+abc,twitter,2025-06-27,the Eaton Fire,0.0
+abc,twitter,2025-06-27,more than six weeks,0.25
+abc,twitter,2025-06-27,"Diddy"" Combs",0.25
+abc,twitter,2025-06-27,Valley City,-0.24
+abc,twitter,2025-06-27,North Dakota,-0.24
+abc,twitter,2025-06-27,last week,-0.24
+abc,twitter,2025-06-27,At least three,-0.24
+abc,twitter,2025-06-27,Lalo Schifrin,0.41111111111111115
+abc,twitter,2025-06-27,the age of 93,0.41111111111111115
+abc,twitter,2025-06-27,@DavidMuir,0.41111111111111115
+abc,twitter,2025-06-27,over 100,0.41111111111111115
+abc,twitter,2025-06-27,Amanda Seyfried,0.0
+abc,twitter,2025-06-27,this spring,0.3
+abc,twitter,2025-06-27,more than a decade,0.3
+abc,twitter,2025-06-27,bison jam,1.0
+abc,twitter,2025-06-27,Wyoming,1.0
+abc,twitter,2025-06-27,lone bison,1.0
+abc,twitter,2025-06-27,Yellowstone,1.0
+abc,twitter,2025-06-27,Elissa Slotkin,-0.5
+abc,twitter,2025-06-27,Europeans,-0.09999999999999998
+abc,twitter,2025-06-27,Teslas,-0.09999999999999998
+abc,twitter,2025-06-27,a fifth month in a row,-0.09999999999999998
+abc,twitter,2025-06-27,Elon Musk,-0.09999999999999998
+abc,twitter,2025-06-27,Eric Adams,0.06818181818181818
+abc,twitter,2025-06-27,City Hall,0.06818181818181818
+abc,twitter,2025-06-27,The Super Bowl,0.30833333333333335
+abc,twitter,2025-06-27,Sudan,0.30833333333333335
+abc,twitter,2025-06-27,Kendrick Lamar's,0.30833333333333335
+abc,twitter,2025-06-27,Louisiana State Police,0.30833333333333335
+abc,twitter,2025-06-27,the day on Thursday,0.0
+abc,twitter,2025-06-26,Lilo & Stitch,0.0
+abc,twitter,2025-06-26,the Michelin Guide,0.25
+abc,twitter,2025-06-26,Newark,0.1321212121212121
+abc,twitter,2025-06-26,Newark,0.1321212121212121
+abc,twitter,2025-06-26,"Diddy"" Combs",0.16666666666666666
+abc,twitter,2025-06-26,Aaron Katersky,0.16666666666666666
+abc,twitter,2025-06-26,Brad Pitt's,-0.1
+abc,twitter,2025-06-26,Army Rangers,0.0
+abc,twitter,2025-06-26,"6,500",0.0
+abc,twitter,2025-06-26,30-year-old,0.31666666666666665
+abc,twitter,2025-06-26,Kilmar Abrego Garcia's,0.0
+abc,twitter,2025-06-26,Paula Xinis,0.0
+abc,twitter,2025-06-26,Abrego Garcia,0.0
+abc,twitter,2025-06-26,the day on Thursday,0.0
+abc,twitter,2025-06-26,Brad Pitt's,0.0
+abc,twitter,2025-06-26,ABC News,0.0
+abc,twitter,2025-06-26,Bill Moyers,0.16666666666666666
+abc,twitter,2025-06-26,Tom Homan,0.425
+abc,twitter,2025-06-26,Kilmar Abrego Garcia,0.0
+abc,twitter,2025-06-26,Zohran Mamdani’s,0.13636363636363635
+abc,twitter,2025-06-26,New York’s,0.13636363636363635
+abc,twitter,2025-06-26,the Democratic Party,0.13636363636363635
+abc,twitter,2025-06-26,Brian Johnson,0.18888888888888888
+abc,twitter,2025-06-26,Liver King,0.18888888888888888
+abc,twitter,2025-06-26,Austin's,0.18888888888888888
+abc,twitter,2025-06-26,Four Seasons Hotel,0.18888888888888888
+abc,twitter,2025-06-26,Joe Rogan,0.18888888888888888
+abc,twitter,2025-06-26,Faith Kipyegon,-0.01666666666666667
+abc,twitter,2025-06-26,76-year-old,0.4666666666666667
+abc,twitter,2025-06-26,ABC News,0.4666666666666667
+abc,twitter,2025-06-26,Amazon MGM Studios,0.0
+abc,twitter,2025-06-26,Dune,0.0
+abc,twitter,2025-06-26,Denis Villeneuve,0.0
+abc,twitter,2025-06-26,James Bond,0.0
+abc,twitter,2025-06-26,60 years,-0.5
+abc,twitter,2025-06-26,2023,-0.5
+abc,twitter,2025-06-26,PayPal,0.075
+abc,twitter,2025-06-26,Zohran Mamdani,0.2465909090909091
+abc,twitter,2025-06-26,ABC News,0.2465909090909091
+abc,twitter,2025-06-26,The Supreme Court,0.2857142857142857
+abc,twitter,2025-06-26,Planned Parenthood,0.2857142857142857
+abc,twitter,2025-06-26,The Federal Trade Commission,0.5
+abc,twitter,2025-06-26,more than $126 million,0.5
+abc,twitter,2025-06-26,Fortnite,0.5
+abc,twitter,2025-06-26,Fortnite,0.5
+abc,twitter,2025-06-26,"July 9, 2025",0.5
+abc,twitter,2025-06-26,Anna Wintour,0.3181818181818182
+abc,twitter,2025-06-26,Vogue,0.3181818181818182
+abc,twitter,2025-06-26,Vogue U.S.,0.3181818181818182
+abc,twitter,2025-06-26,CDC,0.0
+abc,twitter,2025-06-26,Anna Wintour,0.13636363636363635
+abc,twitter,2025-06-26,Vogue,0.13636363636363635
+abc,twitter,2025-06-26,Vogue U.S.,0.13636363636363635
+abc,twitter,2025-06-26,the Union County Sheriff's Office,0.21428571428571427
+abc,twitter,2025-06-26,Pete Hegseth,0.6
+abc,twitter,2025-06-26,Vance Boelter,0.0
+abc,twitter,2025-06-26,Katy Perry,0.0
+abc,twitter,2025-06-26,Orlando Bloom,0.0
+abc,twitter,2025-06-26,last week,-0.033333333333333326
+abc,twitter,2025-06-26,the Labor Department,-0.033333333333333326
+abc,twitter,2025-06-26,Karoline Leavitt,0.0
+abc,twitter,2025-06-26,the United States,0.0
+abc,twitter,2025-06-26,Dan Caine,0.25
+abc,twitter,2025-06-26,the Joint Chiefs of Staff,0.25
+abc,twitter,2025-06-26,Fordow,0.25
+abc,twitter,2025-06-26,30-year,-0.016666666666666663
+abc,twitter,2025-06-26,6.77%,-0.016666666666666663
+abc,twitter,2025-06-26,last week,-0.016666666666666663
+abc,twitter,2025-06-26,early May,-0.016666666666666663
+abc,twitter,2025-06-26,76-year-old,0.4666666666666667
+abc,twitter,2025-06-26,Pete Hegseth,0.18
+abc,twitter,2025-06-26,30-hour,0.18
+abc,twitter,2025-06-26,Idaho,-0.06666666666666667
+abc,twitter,2025-06-26,the Fundamentalist Church of Jesus Christ of Latter-day Saints,-0.06666666666666667
+abc,twitter,2025-06-26,"@ABC
+ News",-0.06666666666666667
+abc,twitter,2025-06-26,0.5%,0.05
+abc,twitter,2025-06-26,January through March,0.05
+abc,twitter,2025-06-26,the Commerce Department,0.05
+abc,twitter,2025-06-26,Robert F. Kennedy Jr.,0.0
+abc,twitter,2025-06-26,Gavi,0.0
+abc,twitter,2025-06-26,South Africa’s,-0.15
+abc,twitter,2025-06-26,Eastern Cape,-0.15
+abc,twitter,2025-06-26,two weeks ago,-0.15
+abc,twitter,2025-06-26,at least 101,-0.15
+abc,twitter,2025-06-26,12-month-old,-0.15
+abc,twitter,2025-06-26,CDC,0.0
+abc,twitter,2025-06-26,RSV,0.0
+abc,twitter,2025-06-26,Duke University,0.2
+abc,twitter,2025-06-26,Cooper Flagg,0.2
+abc,twitter,2025-06-26,The Federal Trade Commission,0.5
+abc,twitter,2025-06-26,more than $126 million,0.5
+abc,twitter,2025-06-26,Fortnite,0.5
+abc,twitter,2025-06-26,Pete Hegseth,0.1
+abc,twitter,2025-06-26,30-hour,0.1
+abc,twitter,2025-06-26,Defense Sec,0.15
+abc,twitter,2025-06-26,Pete Hegseth,0.15
+abc,twitter,2025-06-26,a dozen,0.25
+abc,twitter,2025-06-26,ABC News',0.25
+abc,twitter,2025-06-26,Ginger Zee,0.25
+abc,twitter,2025-06-26,ABC News Live,0.25757575757575757
+abc,twitter,2025-06-26,the first day,0.375
+abc,twitter,2025-06-26,Glastonbury,0.375
+abc,twitter,2025-06-26,Somerset,0.375
+abc,twitter,2025-06-26,Zohran Mamdani,0.13636363636363635
+abc,twitter,2025-06-26,"@ABC
+ News",0.13636363636363635
+abc,twitter,2025-06-26,New Yorkers,0.13636363636363635
+abc,twitter,2025-06-26,next week,0.1875
+abc,twitter,2025-06-26,"@ABC
+ News'",0.1875
+abc,twitter,2025-06-26,@JonKarl,0.1875
+abc,twitter,2025-06-26,Ayatollah Khamenei,0.15
+abc,twitter,2025-06-26,just days,0.15
+abc,twitter,2025-06-26,30-hour,0.15
+abc,twitter,2025-06-26,this spring,0.3
+abc,twitter,2025-06-26,more than a decade,0.3
+abc,twitter,2025-06-26,Oprah Winfrey,0.0
+abc,twitter,2025-06-26,Venice,0.0
+abc,twitter,2025-06-26,Jeff Bezos,0.0
+abc,twitter,2025-06-26,Lauren Sánchez,0.0
+abc,twitter,2025-06-26,Khloe Kardashian,0.5
+abc,twitter,2025-06-26,Oprah Winfrey,0.5
+abc,twitter,2025-06-26,Kris Jenner,0.5
+abc,twitter,2025-06-26,Venice,0.5
+abc,twitter,2025-06-26,Jeff Bezos,0.5
+abc,twitter,2025-06-26,Lauren Sanchez,0.5
+abc,twitter,2025-06-26,Khloe Kardashian,0.25
+abc,twitter,2025-06-26,Venice,0.25
+abc,twitter,2025-06-26,Kris Jenner,0.25
+abc,twitter,2025-06-26,Blue Origin,0.25
+abc,twitter,2025-06-26,Jeff Bezos,0.25
+abc,twitter,2025-06-26,Lauren Sanchez,0.25
+abc,twitter,2025-06-26,North Korean,0.5
+abc,twitter,2025-06-26,Kim Ju,0.5
+abc,twitter,2025-06-26,the Wonsan-Kalma,0.5
+abc,twitter,2025-06-26,Antarctica,0.0
+abc,twitter,2025-06-26,Nearly $300 million,0.07708333333333334
+abc,twitter,2025-06-26,Myanmar,0.07708333333333334
+abc,twitter,2025-06-26,International Day Against Drug Abuse,0.07708333333333334
+abc,twitter,2025-06-26,Illicit Trafficking,0.07708333333333334
+abc,twitter,2025-06-26,Ten years ago,-0.041666666666666664
+abc,twitter,2025-06-26,the U.S. Supreme Court,-0.041666666666666664
+abc,twitter,2025-06-26,the Fourteenth Amendment,-0.041666666666666664
+abc,twitter,2025-06-26,Denis Villeneuve,0.05
+abc,twitter,2025-06-26,Dune,0.05
+abc,twitter,2025-06-26,Amazon MGM Studios,0.05
+abc,twitter,2025-06-26,Villeneuve,0.05
+abc,twitter,2025-06-26,James Bond,0.05
+abc,twitter,2025-06-26,Europeans,0.0
+abc,twitter,2025-06-26,Teslas,0.0
+abc,twitter,2025-06-26,a fifth month in a row,0.0
+abc,twitter,2025-06-26,next week,0.0028409090909090884
+abc,twitter,2025-06-26,east coast,0.0028409090909090884
+abc,twitter,2025-06-26,Zohran Mamdani,0.2681818181818182
+abc,twitter,2025-06-26,ABC News,0.2681818181818182
+abc,twitter,2025-06-26,28%,-0.025
+abc,twitter,2025-06-26,last month,-0.025
+abc,twitter,2025-06-26,the European Automobile Manufacturers’ Association,-0.025
+abc,twitter,2025-06-26,The Advisory Committee for Immunization Practices,0.125
+abc,twitter,2025-06-26,RSV,0.125
+abc,twitter,2025-06-26,COVID-19,0.125
+abc,twitter,2025-06-26,a later date,0.125
+abc,twitter,2025-06-26,Brian Johnson,0.18888888888888888
+abc,twitter,2025-06-26,Liver King,0.18888888888888888
+abc,twitter,2025-06-26,Austin's,0.18888888888888888
+abc,twitter,2025-06-26,Four Seasons Hotel,0.18888888888888888
+abc,twitter,2025-06-26,Joe Rogan,0.18888888888888888
+abc,twitter,2025-06-26,Charles III,0.35714285714285715
+abc,twitter,2025-06-26,George and Amal Clooney,0.35714285714285715
+abc,twitter,2025-06-26,Buckingham Palace,0.35714285714285715
+abc,twitter,2025-06-26,the American Cancer Society,0.05909090909090909
+abc,twitter,2025-06-26,2050,0.05909090909090909
+abc,twitter,2025-06-26,74%,0.05909090909090909
+abc,twitter,2025-06-26,Bryan Kohberger's,-0.075
+abc,twitter,2025-06-26,at least four,-0.075
+abc,twitter,2025-06-26,last year,-0.075
+abc,twitter,2025-06-26,"@ABC
+ News",-0.075
+abc,twitter,2025-06-26,Blake Lively,0.16818181818181818
+abc,twitter,2025-06-26,Justin Baldoni's,0.16818181818181818
+abc,twitter,2025-06-26,@rachelvscott,0.21212121212121215
+abc,twitter,2025-06-26,Zohran Mamdani,0.21212121212121215
+abc,twitter,2025-06-26,nearly a dozen,0.21212121212121215
+abc,twitter,2025-06-26,Andrew Cuomo,0.21212121212121215
+abc,twitter,2025-06-26,Five years,0.15000000000000002
+abc,twitter,2025-06-26,Pres,0.15000000000000002
+abc,twitter,2025-06-26,Amy Coney Barrett,0.15000000000000002
+abc,twitter,2025-06-26,the Supreme Court,0.15000000000000002
+abc,twitter,2025-06-26,At least 34,0.18333333333333335
+abc,twitter,2025-06-26,the Russell Senate Office Building,0.18333333333333335
+abc,twitter,2025-06-26,Beautiful Big Bill,0.18333333333333335
+abc,twitter,2025-06-26,Capitol Police,0.18333333333333335
+abc,twitter,2025-06-26,James Uthmeier,-0.024999999999999994
+abc,twitter,2025-06-26,Alcatraz,-0.024999999999999994
+abc,twitter,2025-06-26,Robert F. Kennedy Jr.,0.25833333333333336
+abc,twitter,2025-06-26,the Health and Human Services Department,0.25833333333333336
+abc,twitter,2025-06-26,ABC News,0.25833333333333336
+abc,twitter,2025-06-26,Idaho State Police,-0.1
+abc,twitter,2025-06-26,the Fundamentalist Church of Jesus Christ of Latter-day Saints,-0.1
+abc,twitter,2025-06-26,Kim Kardashian,0.4
+abc,twitter,2025-06-26,Bratz,0.4
+abc,twitter,2025-06-26,Amazon MGM Studios,0.4
+abc,twitter,2025-06-26,ABC Audio,0.4
+abc,twitter,2025-06-26,Zohran Mamdani,0.2681818181818182
+abc,twitter,2025-06-26,ABC News,0.2681818181818182
+abc,twitter,2025-06-26,ABC News,0.375
+abc,twitter,2025-06-26,At least 34,0.18333333333333335
+abc,twitter,2025-06-26,the Russell Senate Office Building,0.18333333333333335
+abc,twitter,2025-06-26,Pres,0.18333333333333335
+abc,twitter,2025-06-26,Beautiful Big Bill,0.18333333333333335
+abc,twitter,2025-06-26,Capitol Police,0.18333333333333335
+abc,twitter,2025-06-25,James Uthmeier,-0.024999999999999994
+abc,twitter,2025-06-25,Alcatraz,-0.024999999999999994
+abc,twitter,2025-06-25,about 240,-0.05
+abc,twitter,2025-06-25,roughly 30%,-0.05

@@ -1,0 +1,567 @@
+outlet,platform,date,entity,sentiment
+latimes,twitter,2025-07-01,Felix Contreras,-0.0625
+latimes,twitter,2025-07-01,Eaton,-0.07500000000000001
+latimes,twitter,2025-07-01,three weeks ago,-0.2
+latimes,twitter,2025-07-01,Ryan Gosling,0.0
+latimes,twitter,2025-07-01,Dorian Finney-Smith,0.0
+latimes,twitter,2025-07-01,Jake LaRavia,0.0
+latimes,twitter,2025-06-30,National Guard,-0.1
+latimes,twitter,2025-06-30,Kayleigh McEnany,0.18727272727272726
+latimes,twitter,2025-06-30,The Writers Guild of America West,0.2
+latimes,twitter,2025-06-30,Randall Emmett,0.2
+latimes,twitter,2025-06-30,"630,000",0.2
+latimes,twitter,2025-06-30,Alec Baldwin,-0.125
+latimes,twitter,2025-06-30,Nicolas Batum,0.3
+latimes,twitter,2025-06-30,two-year,0.3
+latimes,twitter,2025-06-30,$11.5 million,0.3
+latimes,twitter,2025-06-30,Mt. Whitney,-0.15000000000000002
+latimes,twitter,2025-06-30,120-foot,-0.15000000000000002
+latimes,twitter,2025-06-30,Blue Shield's,0.16666666666666666
+latimes,twitter,2025-06-30,Karen Garcia,0.35
+latimes,twitter,2025-06-30,John Travolta,0.35
+latimes,twitter,2025-06-30,Grease,0.35
+latimes,twitter,2025-06-30,Hollywood Bowl,0.35
+latimes,twitter,2025-06-30,Danny Zuko,0.35
+latimes,twitter,2025-06-30,U.S. Department of Justice,-0.15000000000000002
+latimes,twitter,2025-06-30,Karen Bass,-0.15000000000000002
+latimes,twitter,2025-06-30,Dodgers,0.3
+latimes,twitter,2025-06-30,Max Muncy,0.3
+latimes,twitter,2025-06-29,Mike Lee,0.125
+latimes,twitter,2025-06-29,more than a million,0.125
+latimes,twitter,2025-06-29,last night,0.125
+latimes,twitter,2025-06-29,Hazing,-0.05681818181818182
+latimes,twitter,2025-06-30,Aidan Zingg,0.0
+latimes,twitter,2025-06-30,Dick Van Dyke,-0.2375
+latimes,twitter,2025-06-30,Malik Beasley,0.0
+latimes,twitter,2025-06-30,Manuel Quintero,-0.6666666666666666
+latimes,twitter,2025-06-30,Adrian Quesada,0.13636363636363635
+latimes,twitter,2025-06-30,LP 'Boleros Psicodélicos II',0.13636363636363635
+latimes,twitter,2025-06-30,Angels,0.125
+latimes,twitter,2025-06-30,only five,0.125
+latimes,twitter,2025-06-30,this season,0.125
+latimes,twitter,2025-06-29,Reputed Mexican Mafia,0.0
+latimes,twitter,2025-06-29,Snuffy,0.0
+latimes,twitter,2025-06-30,COVID,-0.15555555555555556
+latimes,twitter,2025-06-30,L.A. County,0.0
+latimes,twitter,2025-06-30,Pat Tillman Award,0.0
+latimes,twitter,2025-06-30,L.A. County,0.35
+latimes,twitter,2025-06-30,Montgomery County,0.4
+latimes,twitter,2025-06-30,Insurer Blue Shield,0.06818181818181818
+latimes,twitter,2025-06-30,Sparks,0.35
+latimes,twitter,2025-06-30,Skelton,0.0
+latimes,twitter,2025-06-30,Lake Tahoe,0.0
+latimes,twitter,2025-06-30,Sean Combs,-0.3333333333333333
+latimes,twitter,2025-06-30,James Harden,0.0
+latimes,twitter,2025-06-30,two-year,0.0
+latimes,twitter,2025-06-30,$81.5 million,0.0
+latimes,twitter,2025-06-29,.500,0.0
+latimes,twitter,2025-06-29,Chicago Sky,0.0
+latimes,twitter,2025-06-29,Candace Parker's,0.0
+latimes,twitter,2025-06-29,MLB,0.5
+latimes,twitter,2025-06-29,48 hours,0.5
+latimes,twitter,2025-06-29,Justin Wrobleski,0.75
+latimes,twitter,2025-06-29,Dodgers,0.75
+latimes,twitter,2025-06-29,Vin Diesel,0.2
+latimes,twitter,2025-06-29,Paul Walker's,0.2
+latimes,twitter,2025-06-29,Brian O'Conner,0.2
+latimes,twitter,2025-06-29,D. Wayne Lukas,0.0
+latimes,twitter,2025-06-29,M3GAN,-0.025000000000000022
+latimes,twitter,2025-06-29,a day,-0.025000000000000022
+latimes,twitter,2025-06-29,Adrien Morot,-0.025000000000000022
+latimes,twitter,2025-06-29,LACMA,0.1431818181818182
+latimes,twitter,2025-06-29,David Geffen,0.1431818181818182
+latimes,twitter,2025-06-29,Chávez,0.5
+latimes,twitter,2025-06-29,Jake Paul,0.5
+latimes,twitter,2025-06-29,YouTuber,0.5
+latimes,twitter,2025-06-29,Montgomery County,0.14285714285714285
+latimes,twitter,2025-06-29,LeBron James,0.25
+latimes,twitter,2025-06-29,$52.6 million,0.25
+latimes,twitter,2025-06-29,Brad Pitt,0.0
+latimes,twitter,2025-06-29,F1 The Movie',0.0
+latimes,twitter,2025-06-29,$55.6 million,0.0
+latimes,twitter,2025-06-29,Snuffy,0.06727272727272726
+latimes,twitter,2025-06-29,the Mexican Mafia’s,0.06727272727272726
+latimes,twitter,2025-06-29,Candace Parker,0.5
+latimes,twitter,2025-06-29,WNBA,0.5
+latimes,twitter,2025-06-29,Rob Pelinka,0.5
+latimes,twitter,2025-06-29,JJ Redick,0.5
+latimes,twitter,2025-06-29,Dodgers,0.5
+latimes,twitter,2025-06-29,RFK Jr.,0.0
+latimes,twitter,2025-06-29,Gen Z,0.0
+latimes,twitter,2025-06-29,Dow Janes,0.0
+latimes,twitter,2025-06-29,478 acres,0.0
+latimes,twitter,2025-06-29,San Bernardino County,0.0
+latimes,twitter,2025-06-29,Palisades,0.13636363636363635
+latimes,twitter,2025-06-29,Santa Barbara,0.0
+latimes,twitter,2025-06-29,100 years ago,0.0
+latimes,twitter,2025-06-29,Luke Fahey,0.38
+latimes,twitter,2025-06-29,477 acres,0.0
+latimes,twitter,2025-06-29,San Bernardino County,0.0
+latimes,twitter,2025-06-29,the L.A. Zoo,0.15
+latimes,twitter,2025-06-29,a few dollars,0.15
+latimes,twitter,2025-06-29,405,0.0
+latimes,twitter,2025-06-29,L.A. County,-0.125
+latimes,twitter,2025-06-28,Evan McCalister,0.04999999999999999
+latimes,twitter,2025-06-28,Valencia,0.04999999999999999
+latimes,twitter,2025-06-28,Shohei Ohtani,-0.125
+latimes,twitter,2025-06-28,Dodgers,-0.125
+latimes,twitter,2025-06-28,Jake Paul,0.0
+latimes,twitter,2025-06-28,Julio César Chávez Jr.,0.0
+latimes,twitter,2025-06-28,CHP,0.0
+latimes,twitter,2025-06-28,M3GAN,0.09
+latimes,twitter,2025-06-28,Getty Villa,0.0
+latimes,twitter,2025-06-28,2050,0.0
+latimes,twitter,2025-06-28,The Social Security Fairness Act,0.03333333333333333
+latimes,twitter,2025-06-28,Lakers and Clippers,0.4
+latimes,twitter,2025-06-28,Dodger Stadium,-0.15555555555555556
+latimes,twitter,2025-06-28,New L.A. Trader Joe's,0.13636363636363635
+latimes,twitter,2025-06-28,Trader Joe's,0.13636363636363635
+latimes,twitter,2025-06-28,Granderson,0.0
+latimes,twitter,2025-06-28,Hims & Hers',-0.35
+latimes,twitter,2025-06-28,Wegovy,-0.35
+latimes,twitter,2025-06-28,LACMA,0.14545454545454548
+latimes,twitter,2025-06-28,Jake Brasch's,-0.6
+latimes,twitter,2025-06-28,Reservoir,-0.6
+latimes,twitter,2025-06-28,the Geffen Playhouse,-0.6
+latimes,twitter,2025-06-28,Deceit,0.0
+latimes,twitter,2025-06-28,Johnnie Cochran,0.0
+latimes,twitter,2025-06-28,Christopher Knight,0.4232323232323232
+latimes,twitter,2025-06-28,LACMA,0.4232323232323232
+latimes,twitter,2025-06-28,Border Patrol,0.0
+latimes,twitter,2025-06-28,Huntington Park,0.0
+latimes,twitter,2025-06-28,Three years,0.0
+latimes,twitter,2025-06-28,Pac-12,0.0
+latimes,twitter,2025-06-28,Texas State,0.0
+latimes,twitter,2025-06-28,MAGA,0.0
+latimes,twitter,2025-06-28,Huntington Beach,0.0
+latimes,twitter,2025-06-28,Wildfire,0.1
+latimes,twitter,2025-06-28,L.A. County,0.1
+latimes,twitter,2025-06-28,Edison,0.03125
+latimes,twitter,2025-06-28,Sylmar,0.03125
+latimes,twitter,2025-06-28,last six years,0.03125
+latimes,twitter,2025-06-28,Julio César Chávez Jr.,0.2
+latimes,twitter,2025-06-28,Jake Paul,0.2
+latimes,twitter,2025-06-28,Ken Holland,0.0
+latimes,twitter,2025-06-28,Dodgers,0.46666666666666673
+latimes,twitter,2025-06-28,MLB,0.46666666666666673
+latimes,twitter,2025-06-28,$200K,0.0
+latimes,twitter,2025-06-28,Jeff Bezos,0.0
+latimes,twitter,2025-06-28,Lauren Sánchez,0.0
+latimes,twitter,2025-06-28,Venice,0.0
+latimes,twitter,2025-06-28,$200K,0.0
+latimes,twitter,2025-06-28,Rebekah Del Rio,0.0
+latimes,twitter,2025-06-28,Mulholland Drive,0.0
+latimes,twitter,2025-06-28,Stan Lee,0.0
+latimes,twitter,2025-06-28,$1.2-million,0.0
+latimes,twitter,2025-06-28,Lisa Kudrow's,0.0
+latimes,twitter,2025-06-28,Ponyboi,0.1787878787878788
+latimes,twitter,2025-06-28,River Gallo,0.1787878787878788
+latimes,twitter,2025-06-28,'The Bear',0.8
+latimes,twitter,2025-06-28,M3GAN,0.5
+latimes,twitter,2025-06-28,Kathy Tse,0.5
+latimes,twitter,2025-06-28,Newsom,-1.0
+latimes,twitter,2025-06-28,several July,0.0
+latimes,twitter,2025-06-28,Christopher Knight,0.1431818181818182
+latimes,twitter,2025-06-28,David Geffen Galleries,0.1431818181818182
+latimes,twitter,2025-06-28,LACMA,0.1431818181818182
+latimes,twitter,2025-06-28,Deommodore Lenoir,0.0
+latimes,twitter,2025-06-28,49ers,0.0
+latimes,twitter,2025-06-28,Anaheim,0.009090909090909087
+latimes,twitter,2025-06-28,Ron Washington,0.009090909090909087
+latimes,twitter,2025-06-28,the 2025 season,0.009090909090909087
+latimes,twitter,2025-06-28,.500,0.009090909090909087
+latimes,twitter,2025-06-27,Paris Fashion,0.3333333333333333
+latimes,twitter,2025-06-27,Chrisleys,0.0
+latimes,twitter,2025-06-27,Lara Trump,0.0
+latimes,twitter,2025-06-27,L.A. Army,0.0
+latimes,twitter,2025-06-27,Purple Heart,0.0
+latimes,twitter,2025-06-27,Angels,0.0
+latimes,twitter,2025-06-27,Ron Washington,0.0
+latimes,twitter,2025-06-27,Peter Zumthor,0.1431818181818182
+latimes,twitter,2025-06-27,LACMA,0.1431818181818182
+latimes,twitter,2025-06-27,Michael Govan,0.1431818181818182
+latimes,twitter,2025-06-27,David Geffen Galleries,0.1431818181818182
+latimes,twitter,2025-06-27,Christopher Knight,0.1431818181818182
+latimes,twitter,2025-06-27,LACMA,0.10909090909090907
+latimes,twitter,2025-06-27,Walter Scott,0.0
+latimes,twitter,2025-06-27,R&B,0.0
+latimes,twitter,2025-06-27,Whispers,0.0
+latimes,twitter,2025-06-27,this weekend,0.07888888888888888
+latimes,twitter,2025-06-27,Eva Victor,0.07888888888888888
+latimes,twitter,2025-06-27,M3GAN,-0.16
+latimes,twitter,2025-06-27,Musk,0.0
+latimes,twitter,2025-06-27,$750 million,0.0
+latimes,twitter,2025-06-27,$330 million,0.0
+latimes,twitter,2025-06-27,Border Patrol,0.0
+latimes,twitter,2025-06-27,Huntington Park,0.0
+latimes,twitter,2025-06-27,Vampires,0.0
+latimes,twitter,2025-06-27,Isabella Lovestory,0.0
+latimes,twitter,2025-06-27,Mookie Betts,-0.3
+latimes,twitter,2025-06-27,Freddie Freeman,-0.3
+latimes,twitter,2025-06-27,Dodgers,-0.3
+latimes,twitter,2025-06-27,69-year-old,-0.10000000000000002
+latimes,twitter,2025-06-27,Ten years,-0.12121212121212122
+latimes,twitter,2025-06-27,the Supreme Court,-0.12121212121212122
+latimes,twitter,2025-06-27,2050,0.5
+latimes,twitter,2025-06-27,Rick Hurst,0.0
+latimes,twitter,2025-06-27,Cletus Hogg,0.0
+latimes,twitter,2025-06-27,'The Dukes of Hazzard',0.0
+latimes,twitter,2025-06-27,Ryan Hurst,0.0
+latimes,twitter,2025-06-27,LACMA,0.19318181818181818
+latimes,twitter,2025-06-27,Three years,0.0
+latimes,twitter,2025-06-27,Pac-12,0.0
+latimes,twitter,2025-06-27,Texas State,0.0
+latimes,twitter,2025-06-27,Marlee Matlin,0.0
+latimes,twitter,2025-06-27,Kathleen Chalfant,0.375
+latimes,twitter,2025-06-27,The Supreme Court,0.21428571428571427
+latimes,twitter,2025-06-27,Dodger,0.34814814814814826
+latimes,twitter,2025-06-27,Dodgers Debate,0.34814814814814826
+latimes,twitter,2025-06-27,@ByJackHarris,0.34814814814814826
+latimes,twitter,2025-06-27,New Fairfax,0.2765151515151515
+latimes,twitter,2025-06-27,Afro,0.2765151515151515
+latimes,twitter,2025-06-27,Romeo,0.3
+latimes,twitter,2025-06-27,Mission Viejo,0.0
+latimes,twitter,2025-06-27,Mater Dei,0.0
+latimes,twitter,2025-06-27,seven-on-seven,0.0
+latimes,twitter,2025-06-27,Victoria Monét,1.0
+latimes,twitter,2025-06-27,Mariska Hargitay,0.0
+latimes,twitter,2025-06-27,CIA Book Club',-0.6
+latimes,twitter,2025-06-27,Bruce Springsteen's ',0.1
+latimes,twitter,2025-06-27,85 koi,0.0
+latimes,twitter,2025-06-27,SoCal,0.0
+latimes,twitter,2025-06-27,Chabria,-0.3
+latimes,twitter,2025-06-27,Zohran Mamdani,-0.3
+latimes,twitter,2025-06-27,Brad Pitt's,0.0
+latimes,twitter,2025-06-27,F1,0.0
+latimes,twitter,2025-06-27,the one day,0.13333333333333333
+latimes,twitter,2025-06-27,the one day,0.13333333333333333
+latimes,twitter,2025-06-27,6-year-old,0.0
+latimes,twitter,2025-06-27,6-year-old,0.0
+latimes,twitter,2025-06-27,Latinos,0.0
+latimes,twitter,2025-06-27,"more than $200,000",0.21212121212121213
+latimes,twitter,2025-06-27,LAFD,0.21212121212121213
+latimes,twitter,2025-06-27,M3GAN 2.0',-0.16666666666666666
+latimes,twitter,2025-06-27,Brian Wilson,-0.05
+latimes,twitter,2025-06-27,Adou Thiero,0.0
+latimes,twitter,2025-06-27,Gascón,0.5
+latimes,twitter,2025-06-27,Bill Moyers,0.0
+latimes,twitter,2025-06-27,PBS,0.0
+latimes,twitter,2025-06-27,Fourth of July,0.25
+latimes,twitter,2025-06-27,Latinos,0.0
+latimes,twitter,2025-06-27,Lalo Schifrin,-0.6666666666666666
+latimes,twitter,2025-06-27,Maxine Waters,0.0
+latimes,twitter,2025-06-26,"more than $200,000",0.21212121212121213
+latimes,twitter,2025-06-26,LAFD,0.21212121212121213
+latimes,twitter,2025-06-26,Jeff Koons,0.425
+latimes,twitter,2025-06-26,37-foot,0.425
+latimes,twitter,2025-06-26,Split-Rocker,0.425
+latimes,twitter,2025-06-26,LACMA,0.425
+latimes,twitter,2025-06-26,"50,000",0.425
+latimes,twitter,2025-06-26,Dwight Howard,0.7
+latimes,twitter,2025-06-26,Emma Stone,0.5
+latimes,twitter,2025-06-26,Jesse Plemons,0.5
+latimes,twitter,2025-06-26,Bugonia,0.5
+latimes,twitter,2025-06-26,Yorgos Lanthimos,0.5
+latimes,twitter,2025-06-26,SoFi Stadium,0.35727272727272724
+latimes,twitter,2025-06-26,four nights,0.35727272727272724
+latimes,twitter,2025-06-26,Clayton Kershaw,0.0
+latimes,twitter,2025-06-26,"3,000",0.0
+latimes,twitter,2025-06-26,Dodgers,0.0
+latimes,twitter,2025-06-26,Rockies,0.0
+latimes,twitter,2025-06-26,Spider-Man 2',0.375
+latimes,twitter,2025-06-26,4K,0.375
+latimes,twitter,2025-06-26,Erewhon,0.35
+latimes,twitter,2025-06-26,Dylan Harper,0.0
+latimes,twitter,2025-06-26,ex-Lakers,0.0
+latimes,twitter,2025-06-26,Ron Harper,0.0
+latimes,twitter,2025-06-26,Palm Springs,0.0
+latimes,twitter,2025-06-26,Muppet,0.35
+latimes,twitter,2025-06-26,M3GAN,0.35
+latimes,twitter,2025-06-26,Gerard Johnstone,0.35
+latimes,twitter,2025-06-26,Ariana Grande,0.0
+latimes,twitter,2025-06-26,Kieran Culkin,0.0
+latimes,twitter,2025-06-26,Jimmy Kimmel,0.0
+latimes,twitter,2025-06-26,534,0.0
+latimes,twitter,2025-06-26,San Gabriel Valley,0.0
+latimes,twitter,2025-06-26,Chicago Bulls,-0.1
+latimes,twitter,2025-06-26,Lilo & Stitch',0.0
+latimes,twitter,2025-06-26,roughly $8.4 million,0.1
+latimes,twitter,2025-06-26,more than $2.7 million,0.1
+latimes,twitter,2025-06-26,last year,0.1
+latimes,twitter,2025-06-26,multimillion-dollar,0.1
+latimes,twitter,2025-06-26,Eva Victor,0.225
+latimes,twitter,2025-06-26,Michelin,0.35000000000000003
+latimes,twitter,2025-06-26,Kobe Bryant,0.25
+latimes,twitter,2025-06-26,National Guard,-0.125
+latimes,twitter,2025-06-26,40%,-0.125
+latimes,twitter,2025-06-26,10 years ago,0.35000000000000003
+latimes,twitter,2025-06-26,Jim Obergefell,0.35000000000000003
+latimes,twitter,2025-06-26,a couple days,0.35000000000000003
+latimes,twitter,2025-06-26,A decade,0.0
+latimes,twitter,2025-06-26,Obergefell,0.0
+latimes,twitter,2025-06-26,The Supreme Court's,0.6
+latimes,twitter,2025-06-26,Mixed Berry Double-,0.0
+latimes,twitter,2025-06-26,Mixed Berry Pie,0.0
+latimes,twitter,2025-06-26,CDC,0.3333333333333333
+latimes,twitter,2025-06-26,COVID,0.3333333333333333
+latimes,twitter,2025-06-26,trillions,0.0
+latimes,twitter,2025-06-26,Mariska Hargitay,-0.4
+latimes,twitter,2025-06-26,Riri Williams,0.0
+latimes,twitter,2025-06-26,Chinaka Hodge,0.0
+latimes,twitter,2025-06-26,Atsuko Okatsuka's,0.2
+latimes,twitter,2025-06-26,Eva Victor,-0.5
+latimes,twitter,2025-06-26,Brad Pitt,-0.07500000000000001
+latimes,twitter,2025-06-26,F1,-0.07500000000000001
+latimes,twitter,2025-06-26,L.A. County,0.0
+latimes,twitter,2025-06-26,Walk of Fame,0.0
+latimes,twitter,2025-06-26,Kobe,0.7
+latimes,twitter,2025-06-26,Gianna Bryant,0.7
+latimes,twitter,2025-06-26,Season 4,0.0
+latimes,twitter,2025-06-26,2025,-0.1
+latimes,twitter,2025-06-26,Penn State,-0.1
+latimes,twitter,2025-06-26,Yanic Konan Niederhauser,-0.1
+latimes,twitter,2025-06-26,Max Muncy,-0.11666666666666665
+latimes,twitter,2025-06-26,Dodgers,-0.11666666666666665
+latimes,twitter,2025-06-26,Rockies,-0.11666666666666665
+latimes,twitter,2025-06-26,Orange County,0.0
+latimes,twitter,2025-06-26,Michelin,0.0
+latimes,twitter,2025-06-26,Michelin,0.0
+latimes,twitter,2025-06-26,at least 38 years,-0.044444444444444446
+latimes,twitter,2025-06-26,Denis Villeneuve,0.05
+latimes,twitter,2025-06-26,James Bond,0.05
+latimes,twitter,2025-06-26,this summer,0.0
+latimes,twitter,2025-06-26,Hailee Catalano's,-0.25625
+latimes,twitter,2025-06-26,Green Turkey Sandwich,-0.25625
+latimes,twitter,2025-06-26,Hailee Catalano's,-0.25625
+latimes,twitter,2025-06-26,Green Turkey Sandwich,-0.25625
+latimes,twitter,2025-06-26,Denis Villeneuve,0.05
+latimes,twitter,2025-06-26,James Bond,0.05
+latimes,twitter,2025-06-26,Camilo,0.18831168831168832
+latimes,twitter,2025-06-26,Maldito,0.18831168831168832
+latimes,twitter,2025-06-26,this summer,0.0
+latimes,twitter,2025-06-26,Sabrina Carpenter,0.0
+latimes,twitter,2025-06-26,Moorpark,0.0
+latimes,twitter,2025-06-26,Nearly 70%,0.26666666666666666
+latimes,twitter,2025-06-26,June 1 to June 10,0.26666666666666666
+latimes,twitter,2025-06-25,South Park',0.0
+latimes,twitter,2025-06-25,Anthropic,0.7
+latimes,twitter,2025-06-25,the San Andreas,-0.075
+latimes,twitter,2025-06-25,M3GAN,0.65
+latimes,twitter,2025-06-25,Adrien Morot,0.65
+latimes,twitter,2025-06-25,Kathy Tse,0.65
+latimes,twitter,2025-06-25,Swans,0.0
+latimes,twitter,2025-06-25,Pedro Pascal,0.0
+latimes,twitter,2025-06-25,Liver King,-0.1
+latimes,twitter,2025-06-25,Joe Rogan,-0.1
+latimes,twitter,2025-06-25,Santa Monica,0.3
+latimes,twitter,2025-06-25,Mike Lee,0.0
+latimes,twitter,2025-06-25,3.3 million acres,0.0
+latimes,twitter,2025-06-25,"the LA Dodgers
+
+Immigration",-0.12133580705009277
+latimes,twitter,2025-06-25,California FAIR Plan's,0.14999999999999997
+latimes,twitter,2025-06-25,Bay Area,0.0
+latimes,twitter,2025-06-25,Taylor Swift,-0.17857142857142858
+latimes,twitter,2025-06-25,Tight End University,-0.17857142857142858
+latimes,twitter,2025-06-25,"More than 1,600",0.25
+latimes,twitter,2025-06-25,this month,0.25
+latimes,twitter,2025-06-25,DHS,0.25
+latimes,twitter,2025-06-25,Ketel Marte,-0.22777777777777777
+latimes,twitter,2025-06-25,L.A. Chamber of Commerce,-0.6999999999999998
+latimes,twitter,2025-06-25,L.A. County,0.0
+latimes,twitter,2025-06-25,$2-billion,0.0
+latimes,twitter,2025-06-25,$50.5 million,0.0
+latimes,twitter,2025-06-25,DoorDash,-0.1
+latimes,twitter,2025-06-25,Tahoe,-0.1
+latimes,twitter,2025-06-25,Lynn Hamilton,0.0
+latimes,twitter,2025-06-25,Redd Foxx,0.0
+latimes,twitter,2025-06-25,Sanford and Son,0.0
+latimes,twitter,2025-06-25,C-SPAN,0.13636363636363635
+latimes,twitter,2025-06-25,California FAIR Plan's,0.09999999999999998
+latimes,twitter,2025-06-25,Jerry Bruckheimer,0.31785714285714284
+latimes,twitter,2025-06-25,L.A. County,-0.125
+latimes,twitter,2025-06-25,Pasadena,0.5
+latimes,twitter,2025-06-25,Jerry Bruckheimer,0.0
+latimes,twitter,2025-06-25,Countdown,0.5
+latimes,twitter,2025-06-25,C-SPAN,0.0
+latimes,twitter,2025-06-25,$25 million,-0.05
+latimes,twitter,2025-06-25,2025,0.55
+latimes,twitter,2025-06-25,Revised LAUSD,0.0
+latimes,twitter,2025-06-25,the L.A. Dodgers,0.0
+latimes,twitter,2025-06-25,Stanford Medicine,0.0
+latimes,twitter,2025-06-25,UC Berkeley,0.0
+latimes,twitter,2025-06-25,Christian Moore's,0.0
+latimes,twitter,2025-06-25,Angels,0.0
+latimes,twitter,2025-06-25,Red Sox,0.0
+latimes,twitter,2025-06-25,Newsom,0.0
+latimes,twitter,2025-06-25,$321-billion,0.0
+latimes,twitter,2025-06-25,Michael Conforto,0.8
+latimes,twitter,2025-06-25,Dodgers,0.8
+latimes,twitter,2025-06-25,Rockies,0.8
+latimes,twitter,2025-06-25,Stockton,0.0
+latimes,twitter,2025-06-25,millions of acres,-0.125
+latimes,twitter,2025-06-25,millions of acres,-0.125
+latimes,twitter,2025-06-25,Orange County D.A.,0.0
+latimes,twitter,2025-06-25,Lake Tahoe',-0.2375
+latimes,twitter,2025-06-25,Cudahy,0.0
+latimes,twitter,2025-06-25,Palm Springs,0.0
+latimes,twitter,2025-06-25,Martin Kove,0.0
+latimes,twitter,2025-06-25,Cobra Kai',0.0
+latimes,twitter,2025-06-25,Alicia Hannah-Kim's,0.0
+latimes,twitter,2025-06-25,MTV,0.0
+latimes,twitter,2025-06-25,Van Toffler,0.0
+latimes,twitter,2025-06-25,Aaron Rodgers,0.0
+latimes,twitter,2025-06-25,next year,0.0
+latimes,twitter,2025-06-24,Liam Payne,0.0
+latimes,twitter,2025-06-24,Building the Band',0.0
+latimes,twitter,2025-06-24,Queer Lens',0.26666666666666666
+latimes,twitter,2025-06-24,Kroger,-0.2833333333333333
+latimes,twitter,2025-06-24,Ralphs,-0.2833333333333333
+latimes,twitter,2025-06-24,Alijah Arenas,0.0
+latimes,twitter,2025-06-24,Cybertruck,0.0
+latimes,twitter,2025-06-24,Erin Krakow,0.0
+latimes,twitter,2025-06-24,Ben Rosenbaum,0.0
+latimes,twitter,2025-06-24,Orange County D.A.,0.0
+latimes,twitter,2025-06-24,Brandy,0.0
+latimes,twitter,2025-06-24,'The Boy Is Mine',0.0
+latimes,twitter,2025-06-24,27 years later,0.0
+latimes,twitter,2025-06-24,Newsom,0.0
+latimes,twitter,2025-06-24,YouTuber,-0.5
+latimes,twitter,2025-06-24,Cristina Saralegui,0.0
+latimes,twitter,2025-06-24,Karol,0.0
+latimes,twitter,2025-06-24,Palm Springs,0.0
+latimes,twitter,2025-06-24,Diego Luna,0.17045454545454544
+latimes,twitter,2025-06-24,Mideast,0.0
+latimes,twitter,2025-06-24,Meghan McCain,-0.5
+latimes,twitter,2025-06-24,Usha Vance,-0.5
+latimes,twitter,2025-06-24,Kobe Bryant's,0.0
+latimes,twitter,2025-06-24,Tyrese Haliburton,0.0
+latimes,twitter,2025-06-24,Bobby Sherman,0.15625
+latimes,twitter,2025-06-24,Here Come the Brides,0.15625
+latimes,twitter,2025-06-24,Little Woman,0.15625
+latimes,twitter,2025-06-24,Latino,0.041666666666666664
+latimes,twitter,2025-06-24,last year,0.1875
+latimes,twitter,2025-06-20,"80,000",0.0
+latimes,twitter,2025-06-24,Lucio Bedon,0.09
+latimes,twitter,2025-06-24,last week,0.09
+latimes,twitter,2025-06-24,the '90s,0.09
+latimes,twitter,2025-06-24,Trattoria,0.09
+latimes,twitter,2025-06-24,JD Vance,0.0
+latimes,twitter,2025-06-24,Robert Glasper,0.0
+latimes,twitter,2025-06-24,Charlie Puth,0.0
+latimes,twitter,2025-06-24,Killer Mike,0.0
+latimes,twitter,2025-06-24,Eaton,0.0
+latimes,twitter,2025-06-24,3-year-old,0.0
+latimes,twitter,2025-06-24,Josés,0.06818181818181818
+latimes,twitter,2025-06-24,Vance,0.06818181818181818
+latimes,twitter,2025-06-24,Padilla,0.06818181818181818
+latimes,twitter,2025-06-24,1.2 million,-0.25
+latimes,twitter,2025-06-24,last year,-0.25
+latimes,twitter,2025-06-24,Lake Tahoe',-0.2375
+latimes,twitter,2025-06-24,National Guard,0.0
+latimes,twitter,2025-06-24,Riverside County,0.0
+latimes,twitter,2025-06-24,Cardi B's,0.0
+latimes,twitter,2025-06-24,this fall,0.0
+latimes,twitter,2025-06-24,B. Simone,0.0
+latimes,twitter,2025-06-24,Irvine,0.0
+latimes,twitter,2025-06-24,San José,0.16
+latimes,twitter,2025-06-24,Chandler,0.16
+latimes,twitter,2025-06-24,L.A. County,0.0
+latimes,twitter,2025-06-24,$2 billion,0.0
+latimes,twitter,2025-06-24,at least 11,-0.3
+latimes,twitter,2025-06-24,Roadless Rule',0.0
+latimes,twitter,2025-06-24,58 million acres,0.0
+latimes,twitter,2025-06-24,Roadless Rule',0.0
+latimes,twitter,2025-06-24,58 million acres,0.0
+latimes,twitter,2025-06-24,Wu-Tang Clan's,0.0
+latimes,twitter,2025-06-24,Ex-Laker Alex Caruso,0.35
+latimes,twitter,2025-06-24,South Sudan,-0.4
+latimes,twitter,2025-06-24,Tyrese,0.5
+latimes,twitter,2025-06-24,Achilles,0.5
+latimes,twitter,2025-06-24,Mick Ralphs,-0.44999999999999996
+latimes,twitter,2025-06-24,Bad Company,-0.44999999999999996
+latimes,twitter,2025-06-24,Mott the Hoople,-0.44999999999999996
+latimes,twitter,2025-06-24,Cardi B's,0.0
+latimes,twitter,2025-06-24,this fall,0.0
+latimes,twitter,2025-06-23,Kamala Harris',0.0
+latimes,twitter,2025-06-23,Doug Emhoff,0.0
+latimes,twitter,2025-06-23,Pixar,-1.0
+latimes,twitter,2025-06-23,"more than 80,000",0.2333333333333333
+latimes,twitter,2025-06-23,B. Simone,0.0
+latimes,twitter,2025-06-23,Steph Tolev,0.20833333333333334
+latimes,twitter,2025-06-23,'Filth Queen,0.20833333333333334
+latimes,twitter,2025-06-23,Irvine,0.0
+latimes,twitter,2025-06-23,Dodgers,0.0
+latimes,twitter,2025-06-23,Shohei Ohtani's,0.0
+latimes,twitter,2025-06-23,Trainer D. Wayne Lukas,0.0
+latimes,twitter,2025-06-23,John Paul Mitchell,0.0
+latimes,twitter,2025-06-22,@GavinNewsom,-0.03181818181818183
+latimes,twitter,2025-06-22,2028,-0.03181818181818183
+latimes,twitter,2025-06-23,Chabria,0.2
+latimes,twitter,2025-06-23,Judy Chu,0.2
+latimes,twitter,2025-06-23,Southbound 405 Freeway,-0.17777777777777778
+latimes,twitter,2025-06-23,LAPD,-0.17777777777777778
+latimes,twitter,2025-06-23,San Fernando,0.1
+latimes,twitter,2025-06-23,Wayne's World',0.1
+latimes,twitter,2025-06-23,nearly 78 years,0.1
+latimes,twitter,2025-06-23,Shaquille O'Neal,0.0
+latimes,twitter,2025-06-23,Reebok,0.0
+latimes,twitter,2025-06-23,Julio César Chávez Jr.,0.0
+latimes,twitter,2025-06-23,Thieb Delaporte-Richard,0.25
+latimes,twitter,2025-06-23,Sparks,0.0
+latimes,twitter,2025-06-23,WNBA,0.0
+latimes,twitter,2025-06-23,Erewhon,0.0
+latimes,twitter,2025-06-23,Mötley Crüe ',0.0
+latimes,twitter,2025-06-23,Jeff Koons,0.13636363636363635
+latimes,twitter,2025-06-23,Split-Rocker',0.13636363636363635
+latimes,twitter,2025-06-23,LACMA,0.13636363636363635
+latimes,twitter,2025-06-23,Altadena,0.0
+latimes,twitter,2025-06-23,LAUSD,0.0
+latimes,twitter,2025-06-23,$18.8-billion,0.0
+latimes,twitter,2025-06-23,Californians,0.5
+latimes,twitter,2025-06-23,Iranians,-0.75
+latimes,twitter,2025-06-23,Marines,-0.8
+latimes,twitter,2025-06-22,Max Muncy,0.8
+latimes,twitter,2025-06-22,Dodgers,0.8
+latimes,twitter,2025-06-22,Isfahan,0.0
+latimes,twitter,2025-06-22,"40,000",0.0
+latimes,twitter,2025-06-22,At least six,-0.25
+latimes,twitter,2025-06-22,Lake Tahoe,-0.25
+latimes,twitter,2025-06-22,Southern California’s,0.13333333333333333
+latimes,twitter,2025-06-22,Iranians,0.0
+latimes,twitter,2025-06-22,L.A. Persian,0.0
+latimes,twitter,2025-06-22,Alibi,-0.2
+latimes,twitter,2025-06-22,a thousand,0.5
+latimes,twitter,2025-06-22,Dodger Stadium,0.3
+latimes,twitter,2025-06-22,Ben Howland,0.07500000000000001
+latimes,twitter,2025-06-22,January 2023,0.0
+latimes,twitter,2025-06-22,Priscilla Presley,0.0
+latimes,twitter,2025-06-22,Brigitte Kruse,0.0
+latimes,twitter,2025-06-22,Priscilla’s,0.0
+latimes,twitter,2025-06-22,Kruse’s Elvis,0.0
+latimes,twitter,2025-06-22,Priscilla,0.0
+latimes,twitter,2025-06-22,Kruse,0.0
+latimes,twitter,2025-06-22,Priscilla,0.0
+latimes,twitter,2025-06-22,Presley,0.0
+latimes,twitter,2025-06-22,Kruse,0.0
+latimes,twitter,2025-06-22,Fialko,0.0
+latimes,twitter,2025-06-22,Priscilla,0.0
+latimes,twitter,2025-06-22,Kruse,0.0
+latimes,twitter,2025-06-22,51%,0.0
+latimes,twitter,2025-06-22,Presley 49%,0.0
+latimes,twitter,2025-06-22,Priscilla Presley Partners LLC,0.0
+latimes,twitter,2025-06-21,Padilla,0.0
+latimes,twitter,2025-06-21,JD Vance,0.0
+latimes,twitter,2025-06-21,Padilla,0.0
+latimes,twitter,2025-06-21,JD Vance,0.0
+latimes,twitter,2025-06-21,Redada,0.0
+latimes,twitter,2025-06-21,autolavado desata,0.0
+latimes,twitter,2025-06-21,Tommy Edman,0.175
+latimes,twitter,2025-06-21,Irvine,0.0
+latimes,twitter,2025-06-21,Pasadena,0.0
+latimes,twitter,2025-06-21,Moo’s Craft Barbecue,0.5
+latimes,twitter,2025-06-21,"18,000",0.5
+latimes,twitter,2025-06-21,a week,0.0
+latimes,twitter,2025-06-21,Dodger Stadium to Lakers,0.0
+latimes,twitter,2025-06-21,Newsom,0.0
+latimes,twitter,2025-06-21,$2.1 million,0.09999999999999999

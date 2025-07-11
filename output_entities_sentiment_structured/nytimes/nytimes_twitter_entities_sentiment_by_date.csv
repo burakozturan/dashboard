@@ -1,0 +1,956 @@
+outlet,platform,date,entity,sentiment
+nytimes,twitter,2025-06-30,several hours,0.0
+nytimes,twitter,2025-06-30,Idaho,0.0
+nytimes,twitter,2025-06-30,Operation Gold Rush,0.21212121212121213
+nytimes,twitter,2025-06-30,more than 1 million,0.21212121212121213
+nytimes,twitter,2025-06-30,Trump’s,0.11111111111111112
+nytimes,twitter,2025-06-30,Muhammad Ali,-0.02500000000000001
+nytimes,twitter,2025-06-30,Michael Jordan,-0.02500000000000001
+nytimes,twitter,2025-06-30,Tiger Woods,-0.02500000000000001
+nytimes,twitter,2025-06-30,Caitlin Clark,-0.02500000000000001
+nytimes,twitter,2025-06-30,John Kosner,-0.02500000000000001
+nytimes,twitter,2025-06-30,the White House,0.0
+nytimes,twitter,2025-06-30,Defending Wimbledon,1.0
+nytimes,twitter,2025-06-30,Carlos Alcaraz,1.0
+nytimes,twitter,2025-06-30,two seconds,1.0
+nytimes,twitter,2025-06-30,The Supreme Court,0.03125
+nytimes,twitter,2025-06-30,WNBA,0.5
+nytimes,twitter,2025-06-30,the coming years,0.5
+nytimes,twitter,2025-06-30,LeBron James,0.1375
+nytimes,twitter,2025-06-30,next summer,0.1375
+nytimes,twitter,2025-06-30,last season,0.1375
+nytimes,twitter,2025-06-30,Luka Dončić,0.1375
+nytimes,twitter,2025-06-30,At least two,-0.25
+nytimes,twitter,2025-06-30,Idaho,-0.25
+nytimes,twitter,2025-06-29,Thom Tillis,0.2
+nytimes,twitter,2025-06-29,at least $3.3 trillion,-0.3
+nytimes,twitter,2025-06-29,a decade,-0.3
+nytimes,twitter,2025-06-29,the Congressional Budget Office,-0.3
+nytimes,twitter,2025-06-29,LeBron James,0.0
+nytimes,twitter,2025-06-29,$52.6 million,0.0
+nytimes,twitter,2025-06-29,@joevardon,0.0
+nytimes,twitter,2025-06-29,Achilles,0.19999999999999998
+nytimes,twitter,2025-06-29,Belarus,-0.23333333333333336
+nytimes,twitter,2025-06-29,Pasha Kritchko,-0.23333333333333336
+nytimes,twitter,2025-06-28,Nicholas Kristof,-0.019999999999999997
+nytimes,twitter,2025-06-28,The Iranian Supreme Leader,0.17777777777777778
+nytimes,twitter,2025-06-28,the American Supreme Leader,0.17777777777777778
+nytimes,twitter,2025-06-28,Maureen Dowd,0.17777777777777778
+nytimes,twitter,2025-06-28,Benfica & Chelsea,-0.08787878787878789
+nytimes,twitter,2025-06-28,Palmeiras,-0.08787878787878789
+nytimes,twitter,2025-06-28,the last eight of this year,-0.08787878787878789
+nytimes,twitter,2025-06-28,Club World Cup,-0.08787878787878789
+nytimes,twitter,2025-06-28,FIFACWC,-0.08787878787878789
+nytimes,twitter,2025-06-28,Lando Norris,0.25
+nytimes,twitter,2025-06-28,Austrian Grand Prix,0.25
+nytimes,twitter,2025-06-28,Charles Leclerc,0.25
+nytimes,twitter,2025-06-28,Oscar Piastri,0.25
+nytimes,twitter,2025-06-28,Max Verstappen,0.25
+nytimes,twitter,2025-06-28,@mwc13_3,0.25
+nytimes,twitter,2025-06-28,a week,0.025
+nytimes,twitter,2025-06-27,2025,0.13636363636363635
+nytimes,twitter,2025-06-27,NHLDraft,0.13636363636363635
+nytimes,twitter,2025-06-27,Matthew Schaefer,0.13636363636363635
+nytimes,twitter,2025-06-28,Don Bacon,0.215625
+nytimes,twitter,2025-06-28,next year,0.215625
+nytimes,twitter,2025-06-27,Sixty,0.16
+nytimes,twitter,2025-06-27,Rubio,0.16
+nytimes,twitter,2025-06-27,the State Dept,0.16
+nytimes,twitter,2025-06-27,"about 2,000",0.16
+nytimes,twitter,2025-06-27,about 700,0.16
+nytimes,twitter,2025-06-28,Flashback,0.25
+nytimes,twitter,2025-06-27,Anna Wintour,0.17424242424242423
+nytimes,twitter,2025-06-27,Vogue,0.17424242424242423
+nytimes,twitter,2025-06-27,Opulent,0.17424242424242423
+nytimes,twitter,2025-06-27,Condé Nast's,0.17424242424242423
+nytimes,twitter,2025-06-28,Don Bacon,0.375
+nytimes,twitter,2025-06-27,The Supreme Court’s,0.1
+nytimes,twitter,2025-06-27,Andrew Cuomo,0.014718614718614714
+nytimes,twitter,2025-06-27,David A. Paterson,0.014718614718614714
+nytimes,twitter,2025-06-27,Cuomo,0.014718614718614714
+nytimes,twitter,2025-06-27,Shane O’Mara,0.13333333333333333
+nytimes,twitter,2025-06-27,Steve Jobs,0.13333333333333333
+nytimes,twitter,2025-06-27,Ernest Hemingway,0.13333333333333333
+nytimes,twitter,2025-06-27,MLB,0.13333333333333333
+nytimes,twitter,2025-06-27,Bruce Bochy,0.13333333333333333
+nytimes,twitter,2025-06-27,Harvey Milk,0.33333333333333337
+nytimes,twitter,2025-06-27,Oscar V. Peterson,0.33333333333333337
+nytimes,twitter,2025-06-27,Pete Hegseth,0.33333333333333337
+nytimes,twitter,2025-06-27,The University of Virginia,0.0
+nytimes,twitter,2025-06-27,James E. Ryan,0.0
+nytimes,twitter,2025-06-27,DEI,0.0
+nytimes,twitter,2025-06-27,The Supreme Court,0.0
+nytimes,twitter,2025-06-27,The Supreme Court,0.0
+nytimes,twitter,2025-06-27,the Affordable Care Act,0.0
+nytimes,twitter,2025-06-27,2025,-0.013888888888888895
+nytimes,twitter,2025-06-27,NBA Draft,-0.013888888888888895
+nytimes,twitter,2025-06-27,The Supreme Court,0.0
+nytimes,twitter,2025-06-27,Islanders,0.19412337662337661
+nytimes,twitter,2025-06-27,The Supreme Court,-0.08571428571428572
+nytimes,twitter,2025-06-27,30 days,-0.08571428571428572
+nytimes,twitter,2025-06-27,Sudanese,0.3666666666666667
+nytimes,twitter,2025-06-27,Sudan,0.3666666666666667
+nytimes,twitter,2025-06-27,Kendrick Lamar’s,0.3666666666666667
+nytimes,twitter,2025-06-27,Super Bowl LIX,0.3666666666666667
+nytimes,twitter,2025-06-27,four months,0.3666666666666667
+nytimes,twitter,2025-06-27,Gavin Newsom,0.0
+nytimes,twitter,2025-06-27,this month,0.0
+nytimes,twitter,2025-06-27,Empty Farms,-0.05
+nytimes,twitter,2025-06-27,Frightened Workers,-0.05
+nytimes,twitter,2025-06-27,Alexandra,-0.05
+nytimes,twitter,2025-06-27,@NYTimes,-0.05
+nytimes,twitter,2025-06-26,Andrew Sullivan,0.2733333333333333
+nytimes,twitter,2025-06-26,Carolyn McCarthy,-0.2
+nytimes,twitter,2025-06-26,Grand Slam,0.37272727272727274
+nytimes,twitter,2025-06-26,Wimbledon,0.37272727272727274
+nytimes,twitter,2025-06-26,Baltimore Ravens,0.25
+nytimes,twitter,2025-06-26,Justin Tucker,0.25
+nytimes,twitter,2025-06-26,10 weeks,0.25
+nytimes,twitter,2025-06-26,Bill Moyers,0.35
+nytimes,twitter,2025-06-26,Lyndon B. Johnson,0.35
+nytimes,twitter,2025-06-26,Travis Kalanick,0.0
+nytimes,twitter,2025-06-26,"@SheilaBair2013
+ 
+https://nytimes.com/2025/06/26/business/fed-banks-capital-rule-change.html",-0.08333333333333333
+nytimes,twitter,2025-06-26,@nytimes,-0.08333333333333333
+nytimes,twitter,2025-06-26,Faith Kipyegon,0.2833333333333333
+nytimes,twitter,2025-06-26,four-minute mile,0.2833333333333333
+nytimes,twitter,2025-06-26,Kipyegon,0.2833333333333333
+nytimes,twitter,2025-06-26,4:06.92,0.2833333333333333
+nytimes,twitter,2025-06-26,Travis Kalanick,0.0
+nytimes,twitter,2025-06-26,Pony AI,0.0
+nytimes,twitter,2025-06-26,The NBA Draft,0.20888888888888885
+nytimes,twitter,2025-06-26,NBA Draftees,0.20888888888888885
+nytimes,twitter,2025-06-26,Zohran Mamdani’s,0.2787878787878788
+nytimes,twitter,2025-06-26,New York’s,0.2787878787878788
+nytimes,twitter,2025-06-26,Eric Adams,0.2787878787878788
+nytimes,twitter,2025-06-26,non-Luka,-0.29
+nytimes,twitter,2025-06-26,at least a decade,-0.29
+nytimes,twitter,2025-06-26,the All England Club,0.0
+nytimes,twitter,2025-06-26,Wimbledon,0.0
+nytimes,twitter,2025-06-26,Cooper Flagg,0.12
+nytimes,twitter,2025-06-26,Only one,0.12
+nytimes,twitter,2025-06-26,The Supreme Court,0.0
+nytimes,twitter,2025-06-26,Planned Parenthood,0.0
+nytimes,twitter,2025-06-26,2025,0.0
+nytimes,twitter,2025-06-26,NBA Draft,0.0
+nytimes,twitter,2025-06-26,two days,0.0
+nytimes,twitter,2025-06-26,Jake Paul,0.25
+nytimes,twitter,2025-06-26,The New York Yankees,-0.06590909090909092
+nytimes,twitter,2025-06-26,Cincinnati Reds,-0.06590909090909092
+nytimes,twitter,2025-06-26,Jose Trevino,-0.06590909090909092
+nytimes,twitter,2025-06-26,4-minute mile,0.25
+nytimes,twitter,2025-06-26,Charlety,0.25
+nytimes,twitter,2025-06-26,Faith Kipyegon,0.25
+nytimes,twitter,2025-06-26,the past three decades,0.185
+nytimes,twitter,2025-06-26,David Webb,0.185
+nytimes,twitter,2025-06-26,Kseniia Petrova,0.25
+nytimes,twitter,2025-06-26,Logan Airport,0.25
+nytimes,twitter,2025-06-26,Harvard Medical School,0.25
+nytimes,twitter,2025-06-26,The Dallas Mavericks,0.13636363636363635
+nytimes,twitter,2025-06-26,Cooper Flagg,0.13636363636363635
+nytimes,twitter,2025-06-26,NBA Draft,0.13636363636363635
+nytimes,twitter,2025-06-25,Venezuelan,0.09568181818181819
+nytimes,twitter,2025-06-25,Ellis Prep,0.09568181818181819
+nytimes,twitter,2025-06-25,Bronx,0.09568181818181819
+nytimes,twitter,2025-06-25,Aaron Rodgers,0.08617424242424242
+nytimes,twitter,2025-06-25,Steelers,0.08617424242424242
+nytimes,twitter,2025-06-25,Ben Roethlisberger,0.08617424242424242
+nytimes,twitter,2025-06-25,Rodgers,0.08617424242424242
+nytimes,twitter,2025-06-25,last two years,0.08617424242424242
+nytimes,twitter,2025-06-25,New York Yankees,-0.05454545454545456
+nytimes,twitter,2025-06-25,Jazz Chisholm Jr.,-0.05454545454545456
+nytimes,twitter,2025-06-25,Title IX,0.0
+nytimes,twitter,2025-06-25,The NBA Draft,0.0
+nytimes,twitter,2025-06-25,At least eight,-0.25
+nytimes,twitter,2025-06-25,The NBA Draft,0.08333333333333333
+nytimes,twitter,2025-06-25,Aaron Rodgers,0.6666666666666666
+nytimes,twitter,2025-06-25,The Washington Post,0.0
+nytimes,twitter,2025-06-25,Matt Murray,0.0
+nytimes,twitter,2025-06-25,Uncle Peyton,0.225
+nytimes,twitter,2025-06-25,Uncle Eli,0.225
+nytimes,twitter,2025-06-25,Arch Manning,0.225
+nytimes,twitter,2025-06-25,at least 58,-0.08181818181818182
+nytimes,twitter,2025-06-25,@NYTimes,0.13636363636363635
+nytimes,twitter,2025-06-25,Thomas Friedman,0.0
+nytimes,twitter,2025-06-23,Best Movies,0.5625
+nytimes,twitter,2025-06-23,Sofia Coppola,0.5625
+nytimes,twitter,2025-06-23,Luca Guadagnino,0.5625
+nytimes,twitter,2025-06-23,John Carpenter’s,0.5625
+nytimes,twitter,2025-06-25,Zohran Mamdani,0.16818181818181818
+nytimes,twitter,2025-06-25,Andrew Cuomo,0.16818181818181818
+nytimes,twitter,2025-06-25,33-year-old,0.16818181818181818
+nytimes,twitter,2025-06-25,CDC,0.016666666666666677
+nytimes,twitter,2025-06-25,RFK,0.016666666666666677
+nytimes,twitter,2025-06-25,New York City's,0.22424242424242424
+nytimes,twitter,2025-06-25,New York City’s,0.1574025974025974
+nytimes,twitter,2025-06-25,Andrew Cuomo,0.1574025974025974
+nytimes,twitter,2025-06-25,Zohran Mamdani,0.1574025974025974
+nytimes,twitter,2025-06-24,The New York Civil Liberties Union,0.07424242424242423
+nytimes,twitter,2025-06-24,Nassau County,0.07424242424242423
+nytimes,twitter,2025-06-24,Long Island,0.07424242424242423
+nytimes,twitter,2025-06-24,Bruck Blakeman,0.07424242424242423
+nytimes,twitter,2025-06-24,Nassau,0.07424242424242423
+nytimes,twitter,2025-06-24,New York City’s,0.13636363636363635
+nytimes,twitter,2025-06-24,Brits,0.25555555555555554
+nytimes,twitter,2025-06-24,only a few months,-0.06666666666666667
+nytimes,twitter,2025-06-24,Bobby Sherman,-0.15
+nytimes,twitter,2025-06-24,the late 1960s,-0.15
+nytimes,twitter,2025-06-24,James Harden,0.1
+nytimes,twitter,2025-06-24,Harris County,0.1
+nytimes,twitter,2025-06-24,Harden,0.1
+nytimes,twitter,2025-06-24,Armani Blackburn,0.1
+nytimes,twitter,2025-06-24,Cooper Flagg,0.3666666666666667
+nytimes,twitter,2025-06-24,the NBA Draft’s,0.3666666666666667
+nytimes,twitter,2025-06-24,Lionel Messi,0.0
+nytimes,twitter,2025-06-24,Inter Miami,0.0
+nytimes,twitter,2025-06-24,UEFA Champions League,0.0
+nytimes,twitter,2025-06-24,Paris Saint-Germain,0.0
+nytimes,twitter,2025-06-24,the last 16,0.0
+nytimes,twitter,2025-06-24,James Harden,0.1
+nytimes,twitter,2025-06-24,Harden,0.1
+nytimes,twitter,2025-06-24,Armani Blackburn,0.1
+nytimes,twitter,2025-06-24,Lionel Messi,0.26666666666666666
+nytimes,twitter,2025-06-24,Inter Miami,0.26666666666666666
+nytimes,twitter,2025-06-24,Allen Frances,0.0
+nytimes,twitter,2025-06-24,Megan Stack,0.0
+nytimes,twitter,2025-06-24,12 days,0.375
+nytimes,twitter,2025-06-23,Trump’s,0.0
+nytimes,twitter,2025-06-23,Jan. 29,0.0
+nytimes,twitter,2025-06-23,Trump’s,-0.0625
+nytimes,twitter,2025-06-23,Iran Attack Illegal,-0.0625
+nytimes,twitter,2025-06-23,Presidential War Powers,-0.0625
+nytimes,twitter,2025-06-24,58 million acres,0.0
+nytimes,twitter,2025-06-24,a quarter century,0.0
+nytimes,twitter,2025-06-23,Scoop,0.0
+nytimes,twitter,2025-06-23,Alcatraz,0.0
+nytimes,twitter,2025-06-23,DHS,0.0
+nytimes,twitter,2025-06-23,FEMA,0.0
+nytimes,twitter,2025-06-23,The Supreme Court,0.10277777777777779
+nytimes,twitter,2025-06-23,Edward Padron,-0.044444444444444446
+nytimes,twitter,2025-06-23,the United States,-0.044444444444444446
+nytimes,twitter,2025-06-23,46 yrs later,-0.044444444444444446
+nytimes,twitter,2025-06-23,Jimmy Carter,-0.044444444444444446
+nytimes,twitter,2025-06-23,more than 7%,0.55
+nytimes,twitter,2025-06-23,F1: The Movie,0.3
+nytimes,twitter,2025-06-23,Brad Pitt,0.3
+nytimes,twitter,2025-06-23,Indiana Pacers,0.03714285714285714
+nytimes,twitter,2025-06-23,Tyrese Haliburton,0.03714285714285714
+nytimes,twitter,2025-06-23,Achilles,0.03714285714285714
+nytimes,twitter,2025-06-23,Game 7 of the NBA Finals,0.03714285714285714
+nytimes,twitter,2025-06-23,next season,0.03714285714285714
+nytimes,twitter,2025-06-23,Al Udeid,-0.34
+nytimes,twitter,2025-06-23,the Middle East,-0.34
+nytimes,twitter,2025-06-23,the Indiana Pacers,-0.15
+nytimes,twitter,2025-06-23,the Oklahoma City Thunder,-0.15
+nytimes,twitter,2025-06-23,Tyrese Haliburton,-0.15
+nytimes,twitter,2025-06-23,the last 16,0.012499999999999997
+nytimes,twitter,2025-06-23,the Club World Cup,0.0
+nytimes,twitter,2025-06-23,Shai Gilgeous-Alexander,0.3333333333333333
+nytimes,twitter,2025-06-23,this season,0.3333333333333333
+nytimes,twitter,2025-06-23,MAHA,0.07714285714285714
+nytimes,twitter,2025-06-23,MAGA,0.07714285714285714
+nytimes,twitter,2025-06-23,Tyrese Haliburton,0.08333333333333331
+nytimes,twitter,2025-06-23,Game 7,0.08333333333333331
+nytimes,twitter,2025-06-23,Haliburton,0.08333333333333331
+nytimes,twitter,2025-06-23,"@ThompsonScribe
+https://nytimes.com/athletic/live-blogs/pacers-vs-thunder-live-updates-nba-finals-game-7-score-result/up9zagGq4jD1/00N3Majm1klG/?utm_medium=social&utm_campaign=twhq&source=twitterhq",0.35
+nytimes,twitter,2025-06-23,the Indiana Pacers,0.625
+nytimes,twitter,2025-06-23,Oklahoma City,0.625
+nytimes,twitter,2025-06-23,Compass,0.20000000000000004
+nytimes,twitter,2025-06-23,Zillow,0.20000000000000004
+nytimes,twitter,2025-06-23,Oklahoma City,0.25
+nytimes,twitter,2025-06-23,Indiana Pacers,-0.03952380952380953
+nytimes,twitter,2025-06-23,Tyrese Haliburton,-0.03952380952380953
+nytimes,twitter,2025-06-23,about five minutes,-0.03952380952380953
+nytimes,twitter,2025-06-23,the first quarter of Game 7,-0.03952380952380953
+nytimes,twitter,2025-06-22,Kevin Durant,0.09999999999999999
+nytimes,twitter,2025-06-22,Suns,0.09999999999999999
+nytimes,twitter,2025-06-22,W.J. Hennigan,-0.25
+nytimes,twitter,2025-06-22,Suns,-0.1
+nytimes,twitter,2025-06-22,Kevin Durant,-0.1
+nytimes,twitter,2025-06-22,Jalen Green,-0.1
+nytimes,twitter,2025-06-22,Dillon Brooks,-0.1
+nytimes,twitter,2025-06-22,Fordo,-0.1625
+nytimes,twitter,2025-06-21,George III,0.0
+nytimes,twitter,2025-06-21,B-2,0.13636363636363635
+nytimes,twitter,2025-06-21,Aaron Hicklin,0.2928571428571428
+nytimes,twitter,2025-06-20,Rays,0.25
+nytimes,twitter,2025-06-20,Jose Soriano,0.25
+nytimes,twitter,2025-06-18,NYFW,0.3
+nytimes,twitter,2025-06-21,Flashback,0.25
+nytimes,twitter,2025-06-18,four years later,0.01607142857142857
+nytimes,twitter,2025-06-20,Harvard University,0.14285714285714285
+nytimes,twitter,2025-06-20,pro-Palestinian,0.0
+nytimes,twitter,2025-06-20,Mahmoud Khalil,0.0
+nytimes,twitter,2025-06-20,10-day,0.0
+nytimes,twitter,2025-06-20,Chicago Cubs,0.25
+nytimes,twitter,2025-06-20,Sammy Sosa,0.25
+nytimes,twitter,2025-06-20,more than 600,0.0654761904761905
+nytimes,twitter,2025-06-20,Voice of America,0.0654761904761905
+nytimes,twitter,2025-06-20,less than 200,0.0654761904761905
+nytimes,twitter,2025-06-20,Dale Scott,0.25
+nytimes,twitter,2025-06-20,MLB,0.25
+nytimes,twitter,2025-06-20,more than 30 years,0.25
+nytimes,twitter,2025-06-20,Juventus,-0.19166666666666665
+nytimes,twitter,2025-06-20,the White House,-0.19166666666666665
+nytimes,twitter,2025-06-20,Pittsburgh Pirates,-0.30000000000000004
+nytimes,twitter,2025-06-20,Dennis Santana,-0.30000000000000004
+nytimes,twitter,2025-06-20,Santana,-0.30000000000000004
+nytimes,twitter,2025-06-20,Kevin Durant,0.15
+nytimes,twitter,2025-06-20,Paris Saint-Germain,0.15
+nytimes,twitter,2025-06-20,PSG,0.15
+nytimes,twitter,2025-06-20,@AdamCrafton,0.15
+nytimes,twitter,2025-06-20,@joevardon,0.15
+nytimes,twitter,2025-06-20,The Los Angeles Dodgers,0.0
+nytimes,twitter,2025-06-20,Dodger Stadium,0.0
+nytimes,twitter,2025-06-20,nine years,0.2833333333333333
+nytimes,twitter,2025-06-20,Game 7,0.2833333333333333
+nytimes,twitter,2025-06-20,the Indiana Pacers,0.2833333333333333
+nytimes,twitter,2025-06-20,Pacers,-0.31851851851851853
+nytimes,twitter,2025-06-20,Game 6,-0.31851851851851853
+nytimes,twitter,2025-06-20,the National Guard,0.0
+nytimes,twitter,2025-06-19,equestrian national champion,-0.03333333333333333
+nytimes,twitter,2025-06-19,eight-year-old,-0.03333333333333333
+nytimes,twitter,2025-06-19,"@Parinlalala
+ & Leily Nikounazar",-0.03333333333333333
+nytimes,twitter,2025-06-19,Fordo,0.21212121212121213
+nytimes,twitter,2025-06-20,the “World’s,0.5
+nytimes,twitter,2025-06-19,Brad Lander's,0.18068181818181817
+nytimes,twitter,2025-06-19,New York City's,0.18068181818181817
+nytimes,twitter,2025-06-19,multi-decade,0.5
+nytimes,twitter,2025-06-19,Lina Khan,0.5
+nytimes,twitter,2025-06-19,Ross Douthat,0.5
+nytimes,twitter,2025-06-19,Interesting Times,0.5
+nytimes,twitter,2025-06-19,The Los Angeles Dodgers,0.0
+nytimes,twitter,2025-06-19,the next two weeks,0.0
+nytimes,twitter,2025-06-19,the White House,0.0
+nytimes,twitter,2025-06-19,Rhian Wilkinson's,0.09999999999999999
+nytimes,twitter,2025-06-19,Snowdon,0.09999999999999999
+nytimes,twitter,2025-06-19,Megan Feringa,0.09999999999999999
+nytimes,twitter,2025-06-19,Wilkinson,0.09999999999999999
+nytimes,twitter,2025-06-19,the last half-decade,0.01727272727272727
+nytimes,twitter,2025-06-19,Buss,0.01727272727272727
+nytimes,twitter,2025-06-19,2023,0.10416666666666667
+nytimes,twitter,2025-06-19,DeWitt,0.10416666666666667
+nytimes,twitter,2025-06-19,IA,0.10416666666666667
+nytimes,twitter,2025-06-19,Jamie Keller Davis,0.10416666666666667
+nytimes,twitter,2025-06-19,"more than 240,000",0.10416666666666667
+nytimes,twitter,2025-06-19,Ukrainians,0.10416666666666667
+nytimes,twitter,2025-06-19,16-minute,0.0
+nytimes,twitter,2025-06-19,the Oval Office,0.0
+nytimes,twitter,2025-06-19,Juventus,0.0
+nytimes,twitter,2025-06-19,U.S. Men's National Team,0.0
+nytimes,twitter,2025-06-19,Weston McKennie,0.0
+nytimes,twitter,2025-06-19,Timothy Weah,0.0
+nytimes,twitter,2025-06-19,the U.S. Civil War,0.0
+nytimes,twitter,2025-06-19,Jonathan Haidt,0.0
+nytimes,twitter,2025-06-19,Will Johnson,0.0
+nytimes,twitter,2025-06-19,Zach Rausch,0.0
+nytimes,twitter,2025-06-18,ATF,0.6
+nytimes,twitter,2025-06-19,FDA,0.0
+nytimes,twitter,2025-06-18,The State Department,0.06666666666666667
+nytimes,twitter,2025-06-18,Rubio,0.06666666666666667
+nytimes,twitter,2025-06-18,nearly a month,0.06666666666666667
+nytimes,twitter,2025-06-18,Ken Martin’s,0.37878787878787873
+nytimes,twitter,2025-06-18,DNC,0.37878787878787873
+nytimes,twitter,2025-06-18,Social Security,0.011111111111111112
+nytimes,twitter,2025-06-18,millions of retirees,0.011111111111111112
+nytimes,twitter,2025-06-18,just eight years,0.011111111111111112
+nytimes,twitter,2025-06-18,five decades,-0.15
+nytimes,twitter,2025-06-18,Buss,-0.15
+nytimes,twitter,2025-06-18,the Los Angeles Lakers,-0.15
+nytimes,twitter,2025-06-18,Mark Walter,-0.15
+nytimes,twitter,2025-06-18,Dodgers,-0.15
+nytimes,twitter,2025-06-18,at least $10 billion,-0.15
+nytimes,twitter,2025-06-18,North American,-0.15
+nytimes,twitter,2025-06-18,five decades,-0.15
+nytimes,twitter,2025-06-18,Buss,-0.15
+nytimes,twitter,2025-06-18,Mark Walter,-0.15
+nytimes,twitter,2025-06-18,Dodgers,-0.15
+nytimes,twitter,2025-06-18,at least $10 billion,-0.15
+nytimes,twitter,2025-06-18,North American,-0.15
+nytimes,twitter,2025-06-18,FIFA,-0.11000000000000001
+nytimes,twitter,2025-06-18,the Club World Cup,-0.11000000000000001
+nytimes,twitter,2025-06-18,International Day,-0.11000000000000001
+nytimes,twitter,2025-06-18,the Indiana Fever-Connecticut Sun,-0.45
+nytimes,twitter,2025-06-18,Caitlin Clark,-0.45
+nytimes,twitter,2025-06-18,Marina Mabrey,-0.45
+nytimes,twitter,2025-06-18,Karen Read,0.25
+nytimes,twitter,2025-06-18,John O’Keefe,0.25
+nytimes,twitter,2025-06-18,Trent Alexander-Arnold,0.2
+nytimes,twitter,2025-06-18,WNBA,0.12857142857142856
+nytimes,twitter,2025-06-18,Stephanie White,0.12857142857142856
+nytimes,twitter,2025-06-18,WNBA,0.12857142857142856
+nytimes,twitter,2025-06-18,the FIFA World Cup,0.225
+nytimes,twitter,2025-06-18,Matthew Wolff,0.225
+nytimes,twitter,2025-06-18,Nike,0.225
+nytimes,twitter,2025-06-18,2025-26,-0.35
+nytimes,twitter,2025-06-18,Manchester United or,-0.35
+nytimes,twitter,2025-06-18,The Supreme Court,-0.041666666666666664
+nytimes,twitter,2025-06-18,over 20,-0.041666666666666664
+nytimes,twitter,2025-06-18,Stanley Cups,0.16666666666666666
+nytimes,twitter,2025-06-18,The Indiana Fever,0.0
+nytimes,twitter,2025-06-18,Caitlin Clark,0.0
+nytimes,twitter,2025-06-18,2025,0.0
+nytimes,twitter,2025-06-18,Commissioner’s Cup,0.0
+nytimes,twitter,2025-06-17,Kevin Krebs,0.5
+nytimes,twitter,2025-06-17,Malvern,0.5
+nytimes,twitter,2025-06-17,more than two dozen,0.5
+nytimes,twitter,2025-06-18,The Florida Panthers,0.2416666666666667
+nytimes,twitter,2025-06-18,the Edmonton Oilers,0.2416666666666667
+nytimes,twitter,2025-06-18,the Stanley Cup Final,0.2416666666666667
+nytimes,twitter,2025-06-18,the second straight year,0.2416666666666667
+nytimes,twitter,2025-06-17,Herkimer,0.05909090909090908
+nytimes,twitter,2025-06-17,@NYTimes,0.05909090909090908
+nytimes,twitter,2025-06-18,Anne Burrell,0.0
+nytimes,twitter,2025-06-17,this month,0.25
+nytimes,twitter,2025-06-17,the first months,0.012499999999999997
+nytimes,twitter,2025-06-17,Cristiano Ronaldo,0.4166666666666667
+nytimes,twitter,2025-06-17,the United States,-0.3333333333333333
+nytimes,twitter,2025-06-17,Reddit,0.06818181818181818
+nytimes,twitter,2025-06-17,La Liga,0.13636363636363635
+nytimes,twitter,2025-06-17,Javier Tebas,0.13636363636363635
+nytimes,twitter,2025-06-17,FIFA,0.13636363636363635
+nytimes,twitter,2025-06-17,Club World Cup,0.13636363636363635
+nytimes,twitter,2025-06-17,Brad Lander,0.043181818181818175
+nytimes,twitter,2025-06-17,at least 14,-0.3
+nytimes,twitter,2025-06-17,Kyiv,0.041666666666666664
+nytimes,twitter,2025-06-17,the Stanley Cup,1.850371707708594e-17
+nytimes,twitter,2025-06-17,two months,1.850371707708594e-17
+nytimes,twitter,2025-06-17,La Liga,0.5
+nytimes,twitter,2025-06-17,Javier Tebas,0.5
+nytimes,twitter,2025-06-17,FIFA,0.5
+nytimes,twitter,2025-06-17,Club World Cup,0.5
+nytimes,twitter,2025-06-17,@Millar_Colin,0.5
+nytimes,twitter,2025-06-17,Kevin Durant,0.3
+nytimes,twitter,2025-06-17,the coming days,0.3
+nytimes,twitter,2025-06-17,the Minnesota Timberwolves,0.3
+nytimes,twitter,2025-06-17,Bernie Sanders,0.13636363636363635
+nytimes,twitter,2025-06-17,Zohran Mamdani,0.13636363636363635
+nytimes,twitter,2025-06-17,Last year,-0.3333333333333333
+nytimes,twitter,2025-06-17,Jessica Pegula,-0.3333333333333333
+nytimes,twitter,2025-06-17,last month,-0.3333333333333333
+nytimes,twitter,2025-06-17,Aryna Sabalenka,0.0
+nytimes,twitter,2025-06-17,Coco Gauff,0.0
+nytimes,twitter,2025-06-17,Jalen Williams,0.2333333333333333
+nytimes,twitter,2025-06-17,the Oklahoma City Thunder,0.2333333333333333
+nytimes,twitter,2025-06-17,the Indiana Pacers,0.2333333333333333
+nytimes,twitter,2025-06-17,Shohei Ohtani,0.11904761904761905
+nytimes,twitter,2025-06-17,100.2 mph,0.11904761904761905
+nytimes,twitter,2025-06-17,the past decade,-0.14431818181818182
+nytimes,twitter,2025-06-17,Kraft Heinz,0.0
+nytimes,twitter,2025-06-17,Kool-Aid,0.0
+nytimes,twitter,2025-06-17,Jell,0.0
+nytimes,twitter,2025-06-17,the next two years,0.0
+nytimes,twitter,2025-06-17,G7,0.0037878787878787845
+nytimes,twitter,2025-06-17,Robert A. Pape,-0.26666666666666666
+nytimes,twitter,2025-06-16,William Langewiesche,-0.05111111111111111
+nytimes,twitter,2025-06-16,R.I.P.,-0.05111111111111111
+nytimes,twitter,2025-06-17,the Middle East,0.13333333333333333
+nytimes,twitter,2025-06-17,patsy,0.13333333333333333
+nytimes,twitter,2025-06-17,Thomas Friedman,0.13333333333333333
+nytimes,twitter,2025-06-17,Salvador Plasencia,0.0
+nytimes,twitter,2025-06-17,up to 40 years,0.0
+nytimes,twitter,2025-06-17,2023,0.0
+nytimes,twitter,2025-06-17,G7,0.11818181818181818
+nytimes,twitter,2025-06-17,"early, hours",0.11818181818181818
+nytimes,twitter,2025-06-16,WH,0.13636363636363635
+nytimes,twitter,2025-06-16,Sean Hayes,0.13636363636363635
+nytimes,twitter,2025-06-16,1M+,0.13636363636363635
+nytimes,twitter,2025-06-16,WilmerHale & Harvard,0.13636363636363635
+nytimes,twitter,2025-06-16,Hayes,0.13636363636363635
+nytimes,twitter,2025-06-16,Mike Lee,0.03333333333333333
+nytimes,twitter,2025-06-16,Van Orden,0.03333333333333333
+nytimes,twitter,2025-06-16,FIFA,0.00833333333333334
+nytimes,twitter,2025-06-16,over $50 million,0.00833333333333334
+nytimes,twitter,2025-06-16,Club World Cup,0.00833333333333334
+nytimes,twitter,2025-06-16,the past month,0.00833333333333334
+nytimes,twitter,2025-06-16,Terry Moran,-0.5
+nytimes,twitter,2025-06-16,@nytimes,-0.5
+nytimes,twitter,2025-06-16,ABC News,-0.5
+nytimes,twitter,2025-06-16,Nezza,0.0
+nytimes,twitter,2025-06-16,Dodger Stadium,0.0
+nytimes,twitter,2025-06-16,El Pendón,0.0
+nytimes,twitter,2025-06-16,Joey Chestnut,0.0
+nytimes,twitter,2025-06-16,"BACK 
+
+H/T",0.0
+nytimes,twitter,2025-06-16,fourth day,-0.028409090909090915
+nytimes,twitter,2025-06-16,Terry Moran’s,-0.25
+nytimes,twitter,2025-06-16,@grynbaum,-0.25
+nytimes,twitter,2025-06-16,J.J. Spaun,0.09142857142857144
+nytimes,twitter,2025-06-16,Sean Combs’s,0.0
+nytimes,twitter,2025-06-16,Auckland City's,0.06818181818181818
+nytimes,twitter,2025-06-16,Bayern Munich,0.06818181818181818
+nytimes,twitter,2025-06-16,the Club World Cup,0.06818181818181818
+nytimes,twitter,2025-06-16,FIFA,0.06818181818181818
+nytimes,twitter,2025-06-16,Gianni Infantino’s,0.06818181818181818
+nytimes,twitter,2025-06-16,Red Sox,0.09999999999999999
+nytimes,twitter,2025-06-16,Shohei Ohtani,0.2
+nytimes,twitter,2025-06-16,the Los Angeles Dodgers,0.2
+nytimes,twitter,2025-06-16,Ohtani,0.2
+nytimes,twitter,2025-06-16,the 2023 season,0.2
+nytimes,twitter,2025-06-16,Florian Wirtz,0.175
+nytimes,twitter,2025-06-16,Bayer Leverkusen,0.175
+nytimes,twitter,2025-06-16,@David_Ornstein,0.175
+nytimes,twitter,2025-06-16,two-day,0.13636363636363635
+nytimes,twitter,2025-06-16,Special Forces,0.35714285714285715
+nytimes,twitter,2025-06-16,Ioan Grillo,0.35714285714285715
+nytimes,twitter,2025-06-16,Rafael Devers,0.0
+nytimes,twitter,2025-06-16,the Boston Red Sox,0.0
+nytimes,twitter,2025-06-16,the San Francisco Giants,0.0
+nytimes,twitter,2025-06-16,J.J. Spaun,0.05892857142857144
+nytimes,twitter,2025-06-16,the U.S. Open,0.05892857142857144
+nytimes,twitter,2025-06-15,Susannah Meadows,0.016666666666666666
+nytimes,twitter,2025-06-15,the last years,0.016666666666666666
+nytimes,twitter,2025-06-15,Nezza,0.0
+nytimes,twitter,2025-06-15,Dodger Stadium Saturday,0.0
+nytimes,twitter,2025-06-15,El Pendón,0.0
+nytimes,twitter,2025-06-15,Grizzlies,0.0
+nytimes,twitter,2025-06-15,Desmond Bane,0.0
+nytimes,twitter,2025-06-15,Kevin Durant,0.075
+nytimes,twitter,2025-06-15,the Phoenix Suns,0.075
+nytimes,twitter,2025-06-15,Kiké Hernández,0.0
+nytimes,twitter,2025-06-15,the United States Immigration and Customs Enforcement,0.0
+nytimes,twitter,2025-06-15,David Wallace-Wells,-0.09999999999999999
+nytimes,twitter,2025-06-14,57-year-old,0.13636363636363635
+nytimes,twitter,2025-06-14,Melissa Hortman,0.0
+nytimes,twitter,2025-06-14,Melissa Hortman,0.09999999999999999
+nytimes,twitter,2025-06-14,the Minnesota House,0.09999999999999999
+nytimes,twitter,2025-06-14,John Hoffman,0.09999999999999999
+nytimes,twitter,2025-06-14,Tim Walz,0.10714285714285714
+nytimes,twitter,2025-06-14,n’t,0.0
+nytimes,twitter,2025-06-14,Michel R. Moore,0.0
+nytimes,twitter,2025-06-14,SCOOP,0.029761904761904757
+nytimes,twitter,2025-06-13,CDC,0.09454545454545454
+nytimes,twitter,2025-06-13,Indian Creek Village,0.1744155844155844
+nytimes,twitter,2025-06-13,Billionaire Bunker,0.1744155844155844
+nytimes,twitter,2025-06-13,Jeff Bezos,0.1744155844155844
+nytimes,twitter,2025-06-13,Tom Brady,0.1744155844155844
+nytimes,twitter,2025-06-13,1/8,0.1744155844155844
+nytimes,twitter,2025-06-14,Flashback,0.25
+nytimes,twitter,2025-06-14,U.S. Steel,0.0
+nytimes,twitter,2025-06-14,Nippon Steel,0.0
+nytimes,twitter,2025-06-13,Zohran Mamdani,0.04924242424242423
+nytimes,twitter,2025-06-13,Brad Lander,0.04924242424242423
+nytimes,twitter,2025-06-13,Andrew Cuomo,0.04924242424242423
+nytimes,twitter,2025-06-13,The National Portrait Gallery,0.0
+nytimes,twitter,2025-06-13,the 1990s,0.05
+nytimes,twitter,2025-06-13,early 2000s,0.05
+nytimes,twitter,2025-06-13,Reebok,0.05
+nytimes,twitter,2025-06-13,nearly two decades,0.05
+nytimes,twitter,2025-06-13,Angel Reese,0.05
+nytimes,twitter,2025-06-13,Major League Baseball’s,0.32395833333333335
+nytimes,twitter,2025-06-13,as many as seven,0.23727272727272725
+nytimes,twitter,2025-06-13,Willkie Farr,0.23727272727272725
+nytimes,twitter,2025-06-13,Cooley,0.23727272727272725
+nytimes,twitter,2025-06-13,Delaney Hall,-0.2318181818181818
+nytimes,twitter,2025-06-13,Newark,-0.2318181818181818
+nytimes,twitter,2025-06-12,Guantanamo Bay,0.5
+nytimes,twitter,2025-06-12,fewer than 200 immigration,0.5
+nytimes,twitter,2025-06-12,New York State,0.19318181818181818
+nytimes,twitter,2025-06-12,NYS,0.19318181818181818
+nytimes,twitter,2025-06-13,the California National Guard,0.13636363636363635
+nytimes,twitter,2025-06-12,Alex Padilla,0.5
+nytimes,twitter,2025-06-12,Kristi Noem,0.5
+nytimes,twitter,2025-06-12,federal immigration enforcement,0.5
+nytimes,twitter,2025-06-12,Global X,0.14166666666666666
+nytimes,twitter,2025-06-12,Guantanamo Bay,0.14166666666666666
+nytimes,twitter,2025-06-12,at least one,-0.03888888888888889
+nytimes,twitter,2025-06-12,Air India,-0.03888888888888889
+nytimes,twitter,2025-06-12,Boeing Dreamliner,-0.03888888888888889
+nytimes,twitter,2025-06-12,Ahmedabad,-0.03888888888888889
+nytimes,twitter,2025-06-12,FTC,0.19999999999999998
+nytimes,twitter,2025-06-12,Cannes,0.19999999999999998
+nytimes,twitter,2025-06-12,USMNT,0.4875
+nytimes,twitter,2025-06-12,the 2026,0.4875
+nytimes,twitter,2025-06-12,2035,0.13636363636363635
+nytimes,twitter,2025-06-12,Air India,-0.01060606060606061
+nytimes,twitter,2025-06-12,Ahmedabad,-0.01060606060606061
+nytimes,twitter,2025-06-12,At least five,-0.01060606060606061
+nytimes,twitter,2025-06-12,June 24,0.1890909090909091
+nytimes,twitter,2025-06-12,New Yorkers,0.1890909090909091
+nytimes,twitter,2025-06-12,New York Times Opinion,0.1890909090909091
+nytimes,twitter,2025-06-12,Air India,0.0
+nytimes,twitter,2025-06-12,Ahmedabad,0.0
+nytimes,twitter,2025-06-11,Newsom,0.35
+nytimes,twitter,2025-06-11,Newsom,0.35
+nytimes,twitter,2025-06-11,@LaurelRosenhall,0.35
+nytimes,twitter,2025-06-12,A.I.,-0.3
+nytimes,twitter,2025-06-12,National Guard,0.05
+nytimes,twitter,2025-06-12,Marines,0.05
+nytimes,twitter,2025-06-12,@NYTimes,0.05
+nytimes,twitter,2025-06-11,David Hogg,0.0
+nytimes,twitter,2025-06-11,DNC,0.0
+nytimes,twitter,2025-06-11,Hogg,0.0
+nytimes,twitter,2025-06-11,DNC,0.0
+nytimes,twitter,2025-06-11,David Hogg,0.0
+nytimes,twitter,2025-06-11,the Democratic National Committee,0.0
+nytimes,twitter,2025-06-11,Scoop,-0.05
+nytimes,twitter,2025-06-11,Robert F. Kennedy Jr.,0.13636363636363635
+nytimes,twitter,2025-06-11,CDC,0.13636363636363635
+nytimes,twitter,2025-06-11,Biden-era,0.13636363636363635
+nytimes,twitter,2025-06-11,Covid,0.13636363636363635
+nytimes,twitter,2025-06-11,Mahmoud Khalil,0.0
+nytimes,twitter,2025-06-11,Khalil,0.0
+nytimes,twitter,2025-06-11,The State Department,0.0
+nytimes,twitter,2025-06-11,Leo XIV,0.02500000000000001
+nytimes,twitter,2025-06-11,St. Peter's Square,0.02500000000000001
+nytimes,twitter,2025-06-11,Harvey Weinstein,0.25
+nytimes,twitter,2025-06-11,a decade,0.4
+nytimes,twitter,2025-06-11,quarter-zips,0.4
+nytimes,twitter,2025-06-11,the Fulbright Program,0.07878787878787878
+nytimes,twitter,2025-06-11,Rubio and Darren Beattie,0.07878787878787878
+nytimes,twitter,2025-06-11,nearly 200,0.07878787878787878
+nytimes,twitter,2025-06-11,Ligaya Mishan,0.13636363636363635
+nytimes,twitter,2025-06-11,Tejal Rao,0.13636363636363635
+nytimes,twitter,2025-06-11,2.4%,0.1761904761904762
+nytimes,twitter,2025-06-11,a year earlier,0.1761904761904762
+nytimes,twitter,2025-06-11,Elon Musk,0.044444444444444446
+nytimes,twitter,2025-06-11,early Wednesday,0.044444444444444446
+nytimes,twitter,2025-06-11,last week,0.044444444444444446
+nytimes,twitter,2025-06-11,Hamed Aleaziz,0.043181818181818175
+nytimes,twitter,2025-06-11,Gavin Newsom,-0.1
+nytimes,twitter,2025-06-11,Mikie Sherrill,0.13636363636363635
+nytimes,twitter,2025-06-11,the Democratic Party’s,0.13636363636363635
+nytimes,twitter,2025-06-11,Jack Ciattarelli,0.13636363636363635
+nytimes,twitter,2025-06-10,Roe v. Wade,0.0
+nytimes,twitter,2025-06-10,Argentina’s Supreme Court,0.0
+nytimes,twitter,2025-06-10,Cristina Fernández de Kirchner’s,0.0
+nytimes,twitter,2025-06-10,Michael Bloomberg,0.018181818181818174
+nytimes,twitter,2025-06-10,Andrew Cuomo,0.018181818181818174
+nytimes,twitter,2025-06-10,Alex Cooper,0.2672727272727273
+nytimes,twitter,2025-06-10,Call Her Daddy,0.2672727272727273
+nytimes,twitter,2025-06-10,Boston University,0.2672727272727273
+nytimes,twitter,2025-06-10,Yale University,0.25
+nytimes,twitter,2025-06-10,the Opdoc “Death of a Fantastic Machine,0.4
+nytimes,twitter,2025-06-10,Maximilien Van Aertryck,0.4
+nytimes,twitter,2025-06-10,Axel Danielson,0.4
+nytimes,twitter,2025-06-10,the World Bank,-0.10625000000000001
+nytimes,twitter,2025-06-10,At least eight,-0.16666666666666666
+nytimes,twitter,2025-06-10,Graz,-0.16666666666666666
+nytimes,twitter,2025-06-10,A.I.,0.0
+nytimes,twitter,2025-06-10,GOPers,0.13636363636363635
+nytimes,twitter,2025-06-10,2026,0.13636363636363635
+nytimes,twitter,2025-06-10,Michelle Goldberg,-0.012500000000000004
+nytimes,twitter,2025-06-09,Elise Stefanik,0.1431818181818182
+nytimes,twitter,2025-06-09,Albany,0.1431818181818182
+nytimes,twitter,2025-06-09,next year,0.1431818181818182
+nytimes,twitter,2025-06-09,Marines,0.018181818181818174
+nytimes,twitter,2025-06-09,Southern Baptist,-0.02121212121212122
+nytimes,twitter,2025-06-09,@KSPrior,-0.02121212121212122
+nytimes,twitter,2025-06-09,Robert F. Kennedy Jr.,0.5
+nytimes,twitter,2025-06-09,CDC,0.5
+nytimes,twitter,2025-06-09,the Family Stone,0.0
+nytimes,twitter,2025-06-09,the 1960s,0.0
+nytimes,twitter,2025-06-09,’70s,0.0
+nytimes,twitter,2025-06-09,the Family Stone,0.0
+nytimes,twitter,2025-06-09,the 1960s,0.0
+nytimes,twitter,2025-06-09,’70s,0.0
+nytimes,twitter,2025-06-09,Justin Baldoni’s,0.0909090909090909
+nytimes,twitter,2025-06-09,Blake Lively,0.0909090909090909
+nytimes,twitter,2025-06-09,the Supreme Court,0.07619047619047618
+nytimes,twitter,2025-06-09,National Guard,0.5
+nytimes,twitter,2025-06-09,Gavin Newsom,0.5
+nytimes,twitter,2025-06-09,Warner Bros. Discovery,0.0
+nytimes,twitter,2025-06-09,Ben Rhodes,0.0
+nytimes,twitter,2025-06-09,Gavin Newsom,0.13636363636363635
+nytimes,twitter,2025-06-09,Pete Hegseth,0.13636363636363635
+nytimes,twitter,2025-06-09,National Guard,0.13636363636363635
+nytimes,twitter,2025-06-08,Ezra Klein,0.5
+nytimes,twitter,2025-06-08,CARLOS ALCARAZ,0.25
+nytimes,twitter,2025-06-08,Spaniard,0.25
+nytimes,twitter,2025-06-08,Jannik Sinner 4-6,0.25
+nytimes,twitter,2025-06-08,Roland Garros,0.25
+nytimes,twitter,2025-06-08,Carlos Alcaraz,0.0625
+nytimes,twitter,2025-06-08,Jannik Sinner,0.0625
+nytimes,twitter,2025-06-08,SanAntonio,0.5454545454545454
+nytimes,twitter,2025-06-08,@rolandopablos,0.5454545454545454
+nytimes,twitter,2025-06-08,@nytimes,0.5454545454545454
+nytimes,twitter,2025-06-08,The Red Sox,0.37
+nytimes,twitter,2025-06-08,every day,0.37
+nytimes,twitter,2025-06-08,Maureen Dowd,0.5
+nytimes,twitter,2025-06-08,"2,000",0.24444444444444446
+nytimes,twitter,2025-06-08,National Guard,0.24444444444444446
+nytimes,twitter,2025-06-08,Gavin Newsom,0.24444444444444446
+nytimes,twitter,2025-06-08,the National Guard,0.06818181818181818
+nytimes,twitter,2025-06-08,a second consecutive day,0.06818181818181818
+nytimes,twitter,2025-06-07,Nicholas Kristof,0.11111111111111112
+nytimes,twitter,2025-06-07,COCO GAUFF,0.09206349206349206
+nytimes,twitter,2025-06-07,Aryna Sabalenka 6-7,0.09206349206349206
+nytimes,twitter,2025-06-07,Grand Slam,0.09206349206349206
+nytimes,twitter,2025-06-07,OpenAI,0.2
+nytimes,twitter,2025-06-07,A.I.,0.2
+nytimes,twitter,2025-06-07,Cristiano Ronaldo,0.12321428571428572
+nytimes,twitter,2025-06-07,Club World Cup,0.12321428571428572
+nytimes,twitter,2025-06-07,@bosherL,0.12321428571428572
+nytimes,twitter,2025-06-06,Warren Schaeffer,-0.16666666666666666
+nytimes,twitter,2025-06-06,DOGE,-0.02322048611111116
+nytimes,twitter,2025-06-06,Pete Wells,-0.02322048611111116
+nytimes,twitter,2025-06-06,Jared Isaacman's,0.13636363636363635
+nytimes,twitter,2025-06-06,these days,0.2
+nytimes,twitter,2025-06-06,Flashback,0.25
+nytimes,twitter,2025-06-06,the Oval Office,0.0
+nytimes,twitter,2025-06-06,Elon Musk,0.0
+nytimes,twitter,2025-06-06,The Supreme Court,0.03333333333333333
+nytimes,twitter,2025-06-06,the Department of Government Efficiency,0.03333333333333333
+nytimes,twitter,2025-06-06,Social Security,0.03333333333333333
+nytimes,twitter,2025-06-06,Kilmar Armando Abrego Garcia,0.037500000000000006
+nytimes,twitter,2025-06-06,El Salvador,0.037500000000000006
+nytimes,twitter,2025-06-06,El Salvador,0.037500000000000006
+nytimes,twitter,2025-06-06,Pam Bondi,0.037500000000000006
+nytimes,twitter,2025-06-06,Beth Hammack,0.3333333333333333
+nytimes,twitter,2025-06-06,Jackie Robinson,0.0
+nytimes,twitter,2025-06-06,Minnie Miñoso,0.0
+nytimes,twitter,2025-06-06,Overtown,0.0
+nytimes,twitter,2025-06-06,graffiti,0.0
+nytimes,twitter,2025-06-06,the 2028 Olympics,0.0
+nytimes,twitter,2025-06-06,"139,000",0.16767676767676767
+nytimes,twitter,2025-06-06,Elon Musk’s,-0.03333333333333333
+nytimes,twitter,2025-06-05,Don Bacon,0.7
+nytimes,twitter,2025-06-06,Harvard University,0.25
+nytimes,twitter,2025-06-06,the last few days,-0.2333333333333333
+nytimes,twitter,2025-06-06,not.‌,-0.2333333333333333
+nytimes,twitter,2025-06-06,Ispace,0.0
+nytimes,twitter,2025-06-06,the moon’s,0.0
+nytimes,twitter,2025-06-06,Sanford Solny,-0.03333333333333333
+nytimes,twitter,2025-06-06,at least 11,-0.03333333333333333
+nytimes,twitter,2025-06-06,Burkina Faso,-0.03333333333333333
+nytimes,twitter,2025-06-05,Shari Redstone,0.05
+nytimes,twitter,2025-06-05,Paramount Global,0.05
+nytimes,twitter,2025-06-05,The Bureau of Labor Statistics,-0.13333333333333333
+nytimes,twitter,2025-06-05,Hamas,0.0
+nytimes,twitter,2025-06-05,last year,0.0
+nytimes,twitter,2025-06-05,The Pittsburgh Steelers,0.0
+nytimes,twitter,2025-06-05,Aaron Rodgers,0.0
+nytimes,twitter,2025-06-05,Elon Musk’s,0.04545454545454545
+nytimes,twitter,2025-06-05,The Supreme Court,0.0
+nytimes,twitter,2025-06-05,The Supreme Court,0.2
+nytimes,twitter,2025-06-05,$61.6 billion,-0.09351851851851851
+nytimes,twitter,2025-06-05,$138.3 billion,-0.09351851851851851
+nytimes,twitter,2025-06-03,Seattle Supersonic:,0.0
+nytimes,twitter,2025-06-03,Cal Raleigh,0.0
+nytimes,twitter,2025-06-04,U.N. Security Council,0.0
+nytimes,twitter,2025-06-04,food & war,0.0
+nytimes,twitter,2025-06-05,Smithsonian,-0.0625
+nytimes,twitter,2025-06-05,Jamelle Bouie,-0.0625
+nytimes,twitter,2025-06-05,Elon’s,0.25
+nytimes,twitter,2025-06-05,the Middle East,0.2
+nytimes,twitter,2025-06-04,Will Cuomo,0.1787878787878788
+nytimes,twitter,2025-06-04,Mamdani,0.1787878787878788
+nytimes,twitter,2025-06-04,Lander,0.1787878787878788
+nytimes,twitter,2025-06-04,7 p.m. Eastern time,0.09318181818181817
+nytimes,twitter,2025-06-04,Andrew Cuomo,0.09318181818181817
+nytimes,twitter,2025-06-04,just 10 days,0.09318181818181817
+nytimes,twitter,2025-06-04,Jeffrey Epstein,-0.03181818181818183
+nytimes,twitter,2025-06-04,Peter Thiel,-0.03181818181818183
+nytimes,twitter,2025-06-04,These next two weeks,0.09659090909090909
+nytimes,twitter,2025-06-04,next dynasty,0.09659090909090909
+nytimes,twitter,2025-06-04,FIFA,-0.25
+nytimes,twitter,2025-06-04,the Club World Cup’s,-0.25
+nytimes,twitter,2025-06-04,Inter Miami,-0.25
+nytimes,twitter,2025-06-04,Lionel Messi,-0.25
+nytimes,twitter,2025-06-04,a quarter-century,0.15641233766233767
+nytimes,twitter,2025-06-04,Knicks,0.15641233766233767
+nytimes,twitter,2025-06-04,Tom Thibodeau,0.15641233766233767
+nytimes,twitter,2025-06-04,$2.4 trillion,0.0
+nytimes,twitter,2025-06-04,the next decade,0.0
+nytimes,twitter,2025-06-04,the Congressional Budget Office,0.0
+nytimes,twitter,2025-06-04,Coco Gauff,0.2340909090909091
+nytimes,twitter,2025-06-04,2025,0.2340909090909091
+nytimes,twitter,2025-06-04,French Open,0.2340909090909091
+nytimes,twitter,2025-06-04,Madison Keys,0.2340909090909091
+nytimes,twitter,2025-06-04,Bruno Fernandes,0.2111111111111111
+nytimes,twitter,2025-06-04,five seasons,0.0
+nytimes,twitter,2025-06-04,Knicks,0.0
+nytimes,twitter,2025-06-04,Tom Thibodeau,0.0
+nytimes,twitter,2025-06-04,50%,-0.125
+nytimes,twitter,2025-06-04,@SangerNYT,0.0
+nytimes,twitter,2025-06-03,NY,0.10595238095238096
+nytimes,twitter,2025-06-03,the past four years,0.10595238095238096
+nytimes,twitter,2025-06-03,Pete Hegseth,0.0
+nytimes,twitter,2025-06-03,Harvey Milk,0.0
+nytimes,twitter,2025-06-03,Harriet Tubman,0.0
+nytimes,twitter,2025-06-03,The Washington Post,0.0
+nytimes,twitter,2025-06-03,Ember,0.0
+nytimes,twitter,2025-06-03,Elon Musk,0.125
+nytimes,twitter,2025-06-03,Louise Perry,0.125
+nytimes,twitter,2025-06-03,last Friday,0.0
+nytimes,twitter,2025-06-03,Wake Forest,-0.4
+nytimes,twitter,2025-06-03,Tom Walter,-0.4
+nytimes,twitter,2025-06-03,the Demon Deacons,-0.4
+nytimes,twitter,2025-06-03,the Tennessee Volunteers,-0.4
+nytimes,twitter,2025-06-03,The New York Knicks,0.19168831168831169
+nytimes,twitter,2025-06-03,Tom Thibodeau,0.19168831168831169
+nytimes,twitter,2025-06-03,Game 6,0.19168831168831169
+nytimes,twitter,2025-06-03,Jalen Brunson,0.19168831168831169
+nytimes,twitter,2025-06-03,Thibodeau,0.19168831168831169
+nytimes,twitter,2025-06-03,The New York Knicks,0.13636363636363635
+nytimes,twitter,2025-06-03,Tom Thibodeau,0.13636363636363635
+nytimes,twitter,2025-06-03,five seasons,0.13636363636363635
+nytimes,twitter,2025-06-03,25 years,0.13636363636363635
+nytimes,twitter,2025-06-03,The New York Knicks,0.2681818181818182
+nytimes,twitter,2025-06-03,Tom Thibodeau,0.2681818181818182
+nytimes,twitter,2025-06-03,Thibodeau,0.2681818181818182
+nytimes,twitter,2025-06-03,Knicks,0.2681818181818182
+nytimes,twitter,2025-06-03,the Eastern Conference,0.2681818181818182
+nytimes,twitter,2025-06-03,this season,0.2681818181818182
+nytimes,twitter,2025-06-03,1999-2000,0.2681818181818182
+nytimes,twitter,2025-06-03,Atletico Madrid,0.15
+nytimes,twitter,2025-06-03,Julian Alvarez’s,0.15
+nytimes,twitter,2025-06-03,Lee Jae-myung,0.0
+nytimes,twitter,2025-06-03,South Korea’s,0.0
+nytimes,twitter,2025-06-03,Ras Baraka,0.06999999999999999
+nytimes,twitter,2025-06-03,Newark,0.06999999999999999
+nytimes,twitter,2025-06-03,Sean McVay,0.020833333333333343
+nytimes,twitter,2025-06-03,just one year,0.020833333333333343
+nytimes,twitter,2025-06-03,Simone Inzaghi,0.0
+nytimes,twitter,2025-06-03,Paris Saint-Germain,0.0
+nytimes,twitter,2025-06-03,Pro League,0.0
+nytimes,twitter,2025-06-03,Al Hilal,0.0
+nytimes,twitter,2025-06-03,Simone Inzaghi,0.16666666666666666
+nytimes,twitter,2025-06-03,Paris Saint-Germain,0.16666666666666666
+nytimes,twitter,2025-06-03,Inzaghi,0.16666666666666666
+nytimes,twitter,2025-06-03,four years,0.16666666666666666
+nytimes,twitter,2025-06-03,Serie,0.16666666666666666
+nytimes,twitter,2025-06-03,2023-24,0.16666666666666666
+nytimes,twitter,2025-06-03,Coppa Italia,0.16666666666666666
+nytimes,twitter,2025-06-03,Jason Collins,0.19583333333333333
+nytimes,twitter,2025-06-03,Sports Illustrated,0.19583333333333333
+nytimes,twitter,2025-06-03,@BuckinBoston,0.19583333333333333
+nytimes,twitter,2025-06-03,32-year,0.2
+nytimes,twitter,2025-06-03,Stanley Cup,0.2
+nytimes,twitter,2025-06-03,Geert Wilders,0.0
+nytimes,twitter,2025-06-03,Lee Jae-myung,0.13333333333333333
+nytimes,twitter,2025-06-03,Gazan,-0.125
+nytimes,twitter,2025-06-03,at least 27,-0.125
+nytimes,twitter,2025-06-02,Jonathan Anderson,0.044642857142857144
+nytimes,twitter,2025-06-02,@NYTimes,0.044642857142857144
+nytimes,twitter,2025-06-03,Shigeo Nagashima,0.425
+nytimes,twitter,2025-06-03,Tokyo Yomiuri Giants,0.425
+nytimes,twitter,2025-06-03,the 1960s,0.425
+nytimes,twitter,2025-06-03,Rachel Louise Snyder,0.1
+nytimes,twitter,2025-06-03,Stephen Miller,0.1590909090909091
+nytimes,twitter,2025-06-03,the White House,0.1590909090909091
+nytimes,twitter,2025-06-02,A.I.,0.11212121212121212
+nytimes,twitter,2025-06-02,Leif Weatherby,0.11212121212121212
+nytimes,twitter,2025-06-02,the Digital Theory Lab,0.11212121212121212
+nytimes,twitter,2025-06-02,New York University,0.11212121212121212
+nytimes,twitter,2025-06-02,Sept. 11,-0.05
+nytimes,twitter,2025-06-02,Guantánamo Bay,-0.05
+nytimes,twitter,2025-06-02,Boulder,0.09375
+nytimes,twitter,2025-06-02,a year,0.09375
+nytimes,twitter,2025-06-02,Antonio Delgado,0.1787878787878788
+nytimes,twitter,2025-06-02,New York’s,0.1787878787878788
+nytimes,twitter,2025-06-02,Kathy Hochul,0.1787878787878788
+nytimes,twitter,2025-06-02,next year,0.1787878787878788
+nytimes,twitter,2025-06-02,The 2000s,0.5
+nytimes,twitter,2025-06-02,@gmraynor,0.5
+nytimes,twitter,2025-06-02,this century,0.5
+nytimes,twitter,2025-06-02,Bryan Mbeumo,0.1
+nytimes,twitter,2025-06-02,MUFC,0.1
+nytimes,twitter,2025-06-02,Brentford,0.1
+nytimes,twitter,2025-06-02,this summer,0.1
+nytimes,twitter,2025-06-02,@David_Ornstein,0.1
+nytimes,twitter,2025-06-02,Tyrese Haliburton,-0.037878787878787894
+nytimes,twitter,2025-06-02,This season,-0.037878787878787894
+nytimes,twitter,2025-06-02,Knicks,-0.037878787878787894
+nytimes,twitter,2025-06-02,Michael Jordan,-0.037878787878787894
+nytimes,twitter,2025-06-02,Reggie Miller,-0.037878787878787894
+nytimes,twitter,2025-06-02,Trae Young,-0.037878787878787894
+nytimes,twitter,2025-06-02,Boulder,-0.8
+nytimes,twitter,2025-06-02,a year,-0.8
+nytimes,twitter,2025-06-02,PSG’s Champions League,0.4
+nytimes,twitter,2025-06-02,Qatari,0.4
+nytimes,twitter,2025-06-02,Boulder,-0.8
+nytimes,twitter,2025-06-02,a year,-0.8
+nytimes,twitter,2025-06-02,Gukesh Dommaraju,0.125
+nytimes,twitter,2025-06-02,Magnus Carlsen,0.125
+nytimes,twitter,2025-06-02,MLB,0.0
+nytimes,twitter,2025-06-02,All-Quarter Century Team,0.0
+nytimes,twitter,2025-06-02,The Supreme Court,0.0
+nytimes,twitter,2025-06-02,Second Amendment,0.0
+nytimes,twitter,2025-06-02,Sandy Hook,0.0
+nytimes,twitter,2025-06-02,AR-15,0.0
+nytimes,twitter,2025-06-02,Shai Gilgeous-Alexander,0.3375
+nytimes,twitter,2025-06-02,2024-2025,0.3375
+nytimes,twitter,2025-06-02,MVP,0.3375
+nytimes,twitter,2025-06-02,Tyrese Haliburton,0.3375
+nytimes,twitter,2025-06-02,19-year-old,0.75
+nytimes,twitter,2025-06-02,Lionel Messi,0.75
+nytimes,twitter,2025-06-02,Kylian Mbappé,0.75
+nytimes,twitter,2025-06-02,Desire Doue,0.75
+nytimes,twitter,2025-06-02,his night,0.75
+nytimes,twitter,2025-06-02,David Beckham,0.085
+nytimes,twitter,2025-06-02,Tom Cruise,0.085
+nytimes,twitter,2025-06-02,the Champions League,0.085
+nytimes,twitter,2025-06-02,Paris Saint-Germain's,0.32916666666666666
+nytimes,twitter,2025-06-02,Karol Nawrocki,0.8
+nytimes,twitter,2025-06-01,Inside the NBA,0.4666666666666666
+nytimes,twitter,2025-06-01,TNT,0.4666666666666666
+nytimes,twitter,2025-06-01,Tyrese Haliburton,0.08121212121212121
+nytimes,twitter,2025-06-01,these Eastern Conference Finals,0.08121212121212121
+nytimes,twitter,2025-05-31,Six years,0.314
+nytimes,twitter,2025-05-31,Xana,0.314
+nytimes,twitter,2025-05-31,Luis Enrique,0.314
+nytimes,twitter,2025-05-31,the White House,0.0
+nytimes,twitter,2025-05-31,Paris Saint-Germain,0.28750000000000003
+nytimes,twitter,2025-05-31,the Champions League,0.28750000000000003
+nytimes,twitter,2025-05-31,Inter 5-0,0.28750000000000003
+nytimes,twitter,2025-05-31,24th,0.28750000000000003
+nytimes,twitter,2025-05-31,UCLfinal,0.28750000000000003
+nytimes,twitter,2025-05-31,DOGE,0.5
+nytimes,twitter,2025-05-31,Muhammad Sinwar,0.024999999999999988
+nytimes,twitter,2025-05-31,Hamas,0.024999999999999988
+nytimes,twitter,2025-05-31,this month,0.024999999999999988
+nytimes,twitter,2025-05-31,Paris Saint-Germain,0.12878787878787878
+nytimes,twitter,2025-05-31,UCLfinal,0.12878787878787878
+nytimes,twitter,2025-05-31,the Allianz Arena,0.12878787878787878
+nytimes,twitter,2025-05-31,$258 million,-0.0625
+nytimes,twitter,2025-05-30,Zion Williamson,0.06818181818181818
+nytimes,twitter,2025-05-30,almost five years,0.06818181818181818
+nytimes,twitter,2025-05-30,Pablo Torre,0.6
+nytimes,twitter,2025-05-30,MSNBC,0.6
+nytimes,twitter,2025-05-30,Torre,0.6
+nytimes,twitter,2025-05-30,at least seven,-0.16666666666666666
+nytimes,twitter,2025-05-30,this morning,-0.16666666666666666
+nytimes,twitter,2025-05-30,Alexander-Arnold,0.10000000000000002
+nytimes,twitter,2025-05-30,$11 million,0.10000000000000002
+nytimes,twitter,2025-05-30,a month early,0.10000000000000002
+nytimes,twitter,2025-05-30,the Club World Cup,0.10000000000000002
+nytimes,twitter,2025-05-30,The Supreme Court,0.0
+nytimes,twitter,2025-05-30,Biden,0.0
+nytimes,twitter,2025-05-30,Knicks,-0.2777777777777778
+nytimes,twitter,2025-05-30,Game 7,-0.2777777777777778
+nytimes,twitter,2025-05-30,Madison Square Garden,-0.2777777777777778
+nytimes,twitter,2025-05-30,Brunson,-0.2777777777777778
+nytimes,twitter,2025-05-30,Knicks,-0.2777777777777778
+nytimes,twitter,2025-05-30,Oilers,0.21153846153846154
+nytimes,twitter,2025-05-30,Connor McDavid,0.21153846153846154
+nytimes,twitter,2025-05-30,Game 5,-0.35555555555555557
+nytimes,twitter,2025-05-30,Knicks,-0.35555555555555557
+nytimes,twitter,2025-05-30,Faizan Zaki,0.0
+nytimes,twitter,2025-05-30,13-year-old,0.0
+nytimes,twitter,2025-05-30,the Scripps National Spelling Bee,0.0
+nytimes,twitter,2025-05-30,last year,0.0
+nytimes,twitter,2025-05-30,Bernard Kerik,0.13636363636363635
+nytimes,twitter,2025-05-30,New York City’s,0.13636363636363635
+nytimes,twitter,2025-05-30,Rudy Giuliani,0.13636363636363635
+nytimes,twitter,2025-05-29,David French,0.18333333333333335
+nytimes,twitter,2025-05-29,only 25,0.25
+nytimes,twitter,2025-05-29,Sydney McLaughlin-Levrone,0.25
+nytimes,twitter,2025-05-29,the 1990s,0.25
+nytimes,twitter,2025-05-29,Rafael Nadal,0.25
+nytimes,twitter,2025-05-29,Novak Djokovic,0.25
+nytimes,twitter,2025-05-29,Only two,0.25
+nytimes,twitter,2025-05-29,the 1990s,0.25
+nytimes,twitter,2025-05-29,New York State,0.11818181818181818
+nytimes,twitter,2025-05-29,53-year-old,0.0
+nytimes,twitter,2025-05-29,earlier this week,0.0
+nytimes,twitter,2025-05-29,nearly $600-million,0.1
+nytimes,twitter,2025-05-29,Moderna,0.1
+nytimes,twitter,2025-05-29,Paris Saint-Germain,0.25
+nytimes,twitter,2025-05-29,Lionel Messi,0.25
+nytimes,twitter,2025-05-29,Kylian Mbappe,0.25
+nytimes,twitter,2025-05-29,Neymar,0.25
