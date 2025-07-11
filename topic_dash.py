@@ -17,11 +17,12 @@ topic_data_root = "data"
 sentiment_data_root = os.path.join("data", "output_entities_sentiment_structured")
 
 platform_folders = {
-    "tiktok": os.path.join("data", "tiktok"),
-    "twitter": os.path.join("data", "twitter"),
-    "youtube": os.path.join("data", "youtube"),
-    "bluesky": os.path.join("data", "bluesky")
+    "tiktok": "tiktok",
+    "twitter": "twitter",
+    "youtube": "youtube",
+    "bluesky": "bluesky"
 }
+
 
 
 date_cols = {
