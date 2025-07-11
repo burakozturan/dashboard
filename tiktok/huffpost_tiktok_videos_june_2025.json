@@ -1,0 +1,380 @@
+{
+  "data": {
+    "videos": [
+      {
+        "region_code": "US",
+        "share_count": 17,
+        "username": "huffpost",
+        "video_description": "A cringey moment from Karoline Leavitt is going viral for all the wrong reasons.",
+        "create_time": 1749047417,
+        "id": 7512101248221318446,
+        "view_count": 156734,
+        "comment_count": 90,
+        "like_count": 2299
+      },
+      {
+        "like_count": 1323,
+        "share_count": 167,
+        "username": "huffpost",
+        "view_count": 36112,
+        "create_time": 1749247804,
+        "id": 7512961962473491754,
+        "video_description": "Alexandria Ocasio-Cortez had just six words to say about the Trump-Musk feud. \ud83c\udfa5: Spectrum News 1; CNN #AOC #Trump #Musk #Feud ",
+        "comment_count": 59,
+        "region_code": "US"
+      },
+      {
+        "like_count": 41,
+        "region_code": "US",
+        "username": "huffpost",
+        "video_description": "Ellie isn\u2019t just a mascot \u2014 she\u2019s a symbol. Inspired by the power of Black women and the culture-shaping energy of the WNBA, she\u2019s here to amplify voices, celebrate community, and help redefine the game on and off the court.",
+        "comment_count": 0,
+        "id": 7514072695391259946,
+        "view_count": 12408,
+        "create_time": 1749506421,
+        "share_count": 4
+      },
+      {
+        "like_count": 106,
+        "username": "huffpost",
+        "view_count": 24260,
+        "comment_count": 4,
+        "create_time": 1749499221,
+        "id": 7514041768288029998,
+        "region_code": "US",
+        "share_count": 4,
+        "video_description": "HuffPost senior producer Ellen Lee sat down with New York Liberty mascot Ellie the Elephant and the team\u2019s chief brand officer Shana Stephenson to explore how Brooklyn\u2019s culture, fashion, and legacy helped bring the WNBA\u2019s most iconic hype queen to life."
+      },
+      {
+        "comment_count": 66,
+        "create_time": 1749491396,
+        "id": 7514008127855938859,
+        "like_count": 399,
+        "username": "huffpost",
+        "video_description": "Trump endorsed arresting Democratic Gov. Gavin Newson after the president ordered the National Guard into Los Angeles.",
+        "region_code": "US",
+        "share_count": 32,
+        "view_count": 31183
+      },
+      {
+        "create_time": 1749587276,
+        "like_count": 8321,
+        "region_code": "US",
+        "share_count": 147,
+        "video_description": "Kristi Noem made a mistake in her plea with Californians to not re-elect Gov. Gavin Newsom \u2014 who can't run again because of term limits.",
+        "comment_count": 3924,
+        "id": 7514419978331016494,
+        "username": "huffpost",
+        "view_count": 454693
+      },
+      {
+        "share_count": 214,
+        "view_count": 42610,
+        "comment_count": 75,
+        "like_count": 1179,
+        "region_code": "US",
+        "video_description": "Trump struck a completely different tone about sending the National Guard into cities back in 2020.",
+        "create_time": 1749560608,
+        "id": 7514305279115152683,
+        "username": "huffpost"
+      },
+      {
+        "id": 7514796516645637419,
+        "region_code": "US",
+        "username": "huffpost",
+        "video_description": "Karoline Leavitt got in a testy exchange with a reporter over Trump's military parade.",
+        "comment_count": 1222,
+        "create_time": 1749674946,
+        "like_count": 14590,
+        "share_count": 407,
+        "view_count": 346592
+      },
+      {
+        "id": 7514779022069386538,
+        "video_description": "Rep. Sydney Kamlager-Dove (D-Calif.) calls out President Donald Trump for \"manufacturing chaos\" in Los Angeles to distract Americans from the effects of his devastating tax bill. \ud83c\udfa5: C-SPAN #LosAngeles #IceRaids #Immigrants #Deportation #GavinNewsom #DonaldTrump ",
+        "region_code": "US",
+        "share_count": 19,
+        "username": "huffpost",
+        "view_count": 18396,
+        "comment_count": 25,
+        "create_time": 1749670877,
+        "like_count": 990
+      },
+      {
+        "create_time": 1749663735,
+        "share_count": 30,
+        "username": "huffpost",
+        "video_description": "As Latino communities continue to come under attack \u2015 with ICE and military agents in tactical gear raiding their places of work and routine immigration check-ins \u2015 whose place is it to question their peaceful means of protest? Head to our link in bio to read more. // \ud83d\udcf7 Getty Images // \ud83d\udd8a Brittany Wong",
+        "view_count": 86539,
+        "comment_count": 258,
+        "id": 7514748346490277166,
+        "like_count": 1576,
+        "region_code": "US"
+      },
+      {
+        "comment_count": 2760,
+        "id": 7515158553540332846,
+        "share_count": 1458,
+        "video_description": "Rep. Maxwell Frost got in a back-and-forth with Marjorie Taylor Greene after he called for Kristi Noem to be subpoenaed. Moments before Sen. Alex Padilla was thrown to the ground and handcuffed for asking a question during Noem\u2019s press conference.",
+        "view_count": 415001,
+        "create_time": 1749759214,
+        "like_count": 36183,
+        "region_code": "US",
+        "username": "huffpost"
+      },
+      {
+        "create_time": 1749753546,
+        "like_count": 1333,
+        "region_code": "US",
+        "view_count": 39877,
+        "comment_count": 184,
+        "id": 7515134216506445098,
+        "share_count": 92,
+        "username": "huffpost",
+        "video_description": "Democratic Sen. Alex Padilla was forcibly removed then handcuffed at Homeland Security Secretary Kristi Noem\u2019s press conference. His staff says all he did was try to ask a question.  \ud83c\udfa5: MSNBC"
+      },
+      {
+        "create_time": 1749736479,
+        "like_count": 72936,
+        "video_description": "Rep. Stacey Plaskett expertly checked Treasury Secretary Scott Bessent for interrupting her during a hearing.",
+        "comment_count": 1879,
+        "id": 7515060894238297390,
+        "region_code": "US",
+        "share_count": 2728,
+        "username": "huffpost",
+        "view_count": 502504
+      },
+      {
+        "create_time": 1749847190,
+        "comment_count": 19,
+        "like_count": 864,
+        "region_code": "US",
+        "share_count": 17,
+        "username": "huffpost",
+        "video_description": "\u201c[It] made me realize something I\u2019d been missing: that the chance of reconciliation \u2014 at least between some people \u2014 might be closer than I think. If that\u2019s even a possibility, it\u2019s worth pursuing,\u201d says HuffPost guest writer Ryan Martin. Link in bio for full story. \ud83d\udd17 @Ryan Martin  #AngerManagement #TrumpSupporters #Trump #Storytime #HuffPostPersonal ",
+        "view_count": 23858,
+        "id": 7515536265333312811
+      },
+      {
+        "id": 7515484274049633582,
+        "share_count": 3261,
+        "video_description": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) made a not-so-subtle jab at Rep. Tim Burchett (R-Tenn.) on Thursday following his \u201cillegal\u201d immigrant ask during a House oversight committee hearing. \u201cThe Republican majority is anti-legal immigration in the United States, I want to make that very clear,\u201d Ocasio-Cortez stressed.",
+        "comment_count": 1486,
+        "create_time": 1749835082,
+        "like_count": 73044,
+        "region_code": "US",
+        "username": "huffpost",
+        "view_count": 660814
+      },
+      {
+        "username": "huffpost",
+        "view_count": 22000,
+        "comment_count": 74,
+        "create_time": 1750184300,
+        "share_count": 95,
+        "video_description": "NYC mayoral candidate Brad Lander was detained at an immigration court in New York after asking to see a judicial warrant. #nyc #ice #fyp",
+        "id": 7516977084422491405,
+        "like_count": 1118,
+        "region_code": "US"
+      },
+      {
+        "id": 7517413497467047182,
+        "like_count": 7765,
+        "region_code": "US",
+        "share_count": 135,
+        "view_count": 111996,
+        "comment_count": 241,
+        "create_time": 1750284258,
+        "username": "huffpost",
+        "video_description": "Two weeks ago, Jen Hamilton, a nurse with a sizable following on TikTok and Instagram, picked up her Bible and made a video that would quickly go viral. \u201cBasically, I sat down at my kitchen table and began to read from Matthew 25 while overlaying MAGA policies that directly oppose the character and nature of Jesus\u2019 teachings,\u201d she told HuffPost. In the comments of the video \u2015 which currently has more than 8.6 million views on TikTok \u2015 many (Christians and atheists alike) applauded Hamilton. Others picked a bone with Christians who uncritically support Trump. \u201cAs a Christian, I don't think you can be both MAGA and Christian,\u201d one person wrote in the comments of the video. But not everyone was a fan. Head to our link in bio to read more. // \ud83d\udcf7 Jen Hamilton/Instagram // \ud83d\udd8a Brittany Wong"
+      },
+      {
+        "like_count": 195710,
+        "share_count": 15131,
+        "username": "huffpost",
+        "video_description": "Sen. Elissa Slotkin (D-Mich.) got into a heated exchange with Defense Secretary Pete Hegseth, who was in Congress to take questions from the Senate Armed Services Committee. #fyp #huffpostpolitics",
+        "view_count": 1257031,
+        "comment_count": 5929,
+        "create_time": 1750277622,
+        "id": 7517384998563908878,
+        "region_code": "US"
+      },
+      {
+        "create_time": 1750208222,
+        "like_count": 63571,
+        "share_count": 2918,
+        "video_description": "Was Trump\u2019s parade a total flop? Reporter Jennifer Bendery explains what it was really like to attend.",
+        "view_count": 1454376,
+        "comment_count": 4081,
+        "id": 7517087012147563831,
+        "region_code": "US",
+        "username": "huffpost"
+      },
+      {
+        "create_time": 1750347909,
+        "id": 7517686837620509966,
+        "region_code": "US",
+        "share_count": 4,
+        "username": "huffpost",
+        "comment_count": 11,
+        "like_count": 661,
+        "video_description": "Sen. Alex Padilla (D-Calif.) called on Republicans and everyday Americans to \u201cwake up,\u201d warning that while Donald Trump is currently scapegoating immigrants to distract from negative headlines, no one is safe from his \u201cpower grabs.\u201d Padilla, who was manhandled, handcuffed forcibly removed from Homeland Security Secretary Kristi Noem\u2019s presser in Los Angeles last week after probing the Trump official\u2019s statements, despite promptly identifying himself as a U.S. senator said his case demonstrates how far the Trump administration is prepared to go to silence dissent. Head to our link in bio to read more. //  \ud83d\udcf7  Getty Images // \ud83d\udd8a Marita Vlachou",
+        "view_count": 9570
+      },
+      {
+        "id": 7518183113659387149,
+        "like_count": 721,
+        "share_count": 4,
+        "comment_count": 3,
+        "create_time": 1750463427,
+        "region_code": "US",
+        "username": "huffpost",
+        "video_description": "Tineke \u201cTini\u201d Younger (@tiniyounger) shares the versatile staples you need in your pantry and freezer. @Tini\ud83d\udc69\ud83c\udffc\u200d\ud83c\udf73\ud83d\udd25  #Tini #Cooking #CookingTikTok #CookingHacks #Pantry #Freezer #Flour #Seasoning #Sugar",
+        "view_count": 37511
+      },
+      {
+        "view_count": 13614,
+        "share_count": 25,
+        "video_description": "It\u2019s the second time this week that Trump has publicly dismissed Director of National Intelligence Tulsi Gabbard\u2019s assessments. \ud83c\udfa5 CNN #Trump #TulsiGabbard #Iran #Israel",
+        "id": 7518163272349011213,
+        "like_count": 215,
+        "region_code": "US",
+        "username": "huffpost",
+        "comment_count": 18,
+        "create_time": 1750458804
+      },
+      {
+        "create_time": 1750457565,
+        "id": 7518157926515707150,
+        "like_count": 2715,
+        "share_count": 7,
+        "video_description": "Shout out @Tini\ud83d\udc69\ud83c\udffc\u200d\ud83c\udf73\ud83d\udd25 for these helpful tips! #Cooking #CookingTikTok #Tini #Tips #CookingHacks",
+        "comment_count": 18,
+        "region_code": "US",
+        "username": "huffpost",
+        "view_count": 63733
+      },
+      {
+        "comment_count": 5,
+        "share_count": 0,
+        "username": "huffpost",
+        "view_count": 10509,
+        "create_time": 1750451386,
+        "id": 7518131408091516173,
+        "like_count": 455,
+        "region_code": "US",
+        "video_description": "Children and pregnant women are liable to pay the highest price for living through the trauma of ICE raids in LA and beyond.  Head to our link in bio to read more. // \ud83d\udcf7 Getty Images // \ud83d\udd8a Edith Bracho-S\u00e1nchez"
+      },
+      {
+        "create_time": 1750773066,
+        "id": 7519512727123938573,
+        "share_count": 3871,
+        "video_description": "Donald Trump ripped apart Israel and Iran after both countries reportedly broke ceasefire agreements.",
+        "comment_count": 1978,
+        "like_count": 21912,
+        "region_code": "US",
+        "username": "huffpost",
+        "view_count": 738338
+      },
+      {
+        "create_time": 1750880703,
+        "id": 7519975209353497911,
+        "like_count": 37,
+        "region_code": "US",
+        "username": "huffpost",
+        "comment_count": 1,
+        "share_count": 0,
+        "video_description": "Ellie the Elephant doesn't just hype up the crowd \u2014 she energizes the players, reflects their style, and fuels the spirit that drives the New York Liberty on and off the court.",
+        "view_count": 2257
+      },
+      {
+        "share_count": 122,
+        "comment_count": 36,
+        "create_time": 1750869869,
+        "region_code": "US",
+        "video_description": "Trump responded to NATO Secretary-General Mark Rutte calling him \"daddy.\"",
+        "view_count": 15210,
+        "id": 7519928772485713207,
+        "like_count": 331,
+        "username": "huffpost"
+      },
+      {
+        "share_count": 6798,
+        "username": "huffpost",
+        "view_count": 780377,
+        "like_count": 129446,
+        "region_code": "US",
+        "video_description": "Rep. Jasmine Crockett took a swipe at Donald Trump and Republicans during a House Judiciary Committee hearing on Wednesday by throwing some pointed shade at first lady Melania Trump and her immigration path to the U.S. \u201cThe idea that Trump and my Republican colleagues want to restore integrity and security in the visa process is actually a joke,\" she said. Watch the moment here. #fyp",
+        "comment_count": 1286,
+        "create_time": 1750980311,
+        "id": 7520403029967818039
+      },
+      {
+        "comment_count": 37,
+        "create_time": 1750955957,
+        "username": "huffpost",
+        "id": 7520298524336983351,
+        "like_count": 497,
+        "region_code": "US",
+        "share_count": 35,
+        "video_description": "NATO had one strategy for dealing with Donald Trump \u2014 and it seemed to work, says White House correspondent S.V. Date.",
+        "view_count": 16027
+      },
+      {
+        "share_count": 637,
+        "video_description": "At a Friday morning press conference at the White House, AG Pam Bondi and President Trump praised the Supreme Court\u2019s \u201cmonumental decision\u201d that threatens to spark chaos on birthright citizenship across the country.",
+        "view_count": 312182,
+        "comment_count": 2837,
+        "create_time": 1751056420,
+        "region_code": "US",
+        "username": "huffpost",
+        "id": 7520729870276562189,
+        "like_count": 10561
+      },
+      {
+        "comment_count": 6,
+        "like_count": 202,
+        "share_count": 15,
+        "video_description": "As violent immigration raids continue to make headlines, fear and anxiety ripple through our communities \u2014 affecting everyone, regardless of status or background. Alejandro Sandoval, a family and relationships therapist who works with Latino communities, shares his best self-care advice for these stressful times. @Alejandro Sandoval, LMFT  #Latino #ICE #IceRaids #SelfCare ",
+        "create_time": 1751052765,
+        "id": 7520714165049199927,
+        "region_code": "US",
+        "username": "huffpost",
+        "view_count": 4488
+      },
+      {
+        "create_time": 1751118772,
+        "id": 7520997538669940023,
+        "like_count": 592,
+        "region_code": "US",
+        "username": "huffpost",
+        "comment_count": 25,
+        "video_description": "The little-known Senate Parliamentarian is riling up Republicans \u2014 and killing key parts of Trump's bill. \ud83c\udfa5: Arthur Delaney",
+        "view_count": 19468,
+        "share_count": 8
+      },
+      {
+        "comment_count": 32,
+        "create_time": 1751075501,
+        "id": 7520811855846051085,
+        "like_count": 970,
+        "region_code": "US",
+        "share_count": 18,
+        "username": "huffpost",
+        "video_description": "MAGA is divided over Trump's attack on Iran \u2014 but will it really make any difference? Reporter Arthur Delaney weighs in.",
+        "view_count": 23385
+      },
+      {
+        "create_time": 1751070818,
+        "id": 7520791757894765837,
+        "like_count": 98,
+        "region_code": "US",
+        "comment_count": 1,
+        "share_count": 0,
+        "username": "huffpost",
+        "video_description": "We \u2764\ufe0f you, too @Tini\ud83d\udc69\ud83c\udffc\u200d\ud83c\udf73\ud83d\udd25 Congrats! \ud83d\udc69\u200d\ud83c\udf7c#Tini #Cooking #GordonRamsay ",
+        "view_count": 3284
+      }
+    ]
+  }
+}
