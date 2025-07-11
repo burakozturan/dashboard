@@ -45,9 +45,10 @@ def load_topic_csv(outlet, platform):
 
     try:
         matched_file = next(
-            (f for f in os.listdir(folder_path) if f.startswith(outlet) and f.endswith("_with_sections.csv")),
-            None
-        )
+    (f for f in os.listdir(folder_path)
+     if f.lower().startswith(outlet.lower()) and platform.lower() in f.lower() and f.endswith("_with_sections.csv")),
+    None
+)
         if not matched_file:
             return pd.DataFrame()
 
