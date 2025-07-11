@@ -13,15 +13,16 @@ from collections import defaultdict
 st.set_page_config(page_title="Media Platform Dashboard", layout="wide")
 
 # ---- PATHS ---- #
-topic_data_root = "/Users/burak/microsoft"
-sentiment_data_root = "/Users/burak/microsoft/output_entities_sentiment_structured"
+topic_data_root = "data"
+sentiment_data_root = os.path.join("data", "output_entities_sentiment_structured")
 
 platform_folders = {
-    "TikTok": "tiktok",
-    "Twitter": "twitter",
-    "YouTube": "codes/youtube",
-    "Bluesky": "bluesky"
+    "TikTok": os.path.join("data", "tiktok"),
+    "Twitter": os.path.join("data", "twitter"),
+    "YouTube": os.path.join("data", "youtube"),
+    "Bluesky": os.path.join("data", "bluesky")
 }
+
 date_cols = {
     "TikTok": "create_time",
     "Twitter": "date",
