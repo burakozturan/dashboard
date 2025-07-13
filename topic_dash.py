@@ -23,8 +23,6 @@ platform_folders = {
     "bluesky": "bluesky"
 }
 
-
-
 date_cols = {
     "TikTok": "create_time",
     "Twitter": "date",
@@ -36,25 +34,20 @@ date_cols = {
 #   Distribution CSV
 # ----------------------
 def load_topic_csv(outlet, platform):
-    # Normalize platform name (case-insensitive lookup)
     platform_lookup = {k.lower(): v for k, v in platform_folders.items()}
     platform_key = platform.lower()
 
     if platform_key not in platform_lookup:
-        return pd.DataFrame()  # Platform not recognized
+        return pd.DataFrame()
 
     folder_path = os.path.join(topic_data_root, platform_lookup[platform_key])
 
     try:
-        print("Files in folder:", os.listdir(folder_path))    
-        print("Looking for:", outlet.lower(), "in start and", platform.lower(), "in filename")
-
         matched_file = next(
-    (f for f in os.listdir(folder_path)
-     if f.lower().startswith(outlet.lower()) and platform.lower() in f.lower() and f.endswith("_with_sections.csv")),
-    None
-)
-        print("Matched file:", matched_file)
+            (f for f in os.listdir(folder_path)
+             if f.lower().startswith(outlet.lower()) and platform.lower() in f.lower() and f.endswith("_with_sections.csv")),
+            None
+        )
 
         if not matched_file:
             return pd.DataFrame()
@@ -72,9 +65,7 @@ def load_topic_csv(outlet, platform):
         return df
 
     except Exception as e:
-        print(f"Error loading topic CSV for {outlet}, {platform}: {e}")
         return pd.DataFrame()
-
 
 # ----------------------
 # Load Sentiment Data
@@ -112,7 +103,7 @@ def load_sentiment_csvs(data_folder):
                         date_ranges[outlet_name][platform] = (min_date, max_date)
                         outlet_platform_map[outlet_name].append(platform)
                     except Exception as e:
-                        print(f"Error reading {filepath}: {e}")
+                        pass
     return dataframes, date_ranges, sorted(outlet_platform_map.keys()), outlet_platform_map
 
 dataframes, file_date_ranges, outlets, outlet_platform_map = load_sentiment_csvs(sentiment_data_root)
@@ -124,7 +115,6 @@ st.sidebar.header("Select First Media Outlet")
 outlet1 = st.sidebar.selectbox("Media Outlet 1", outlets)
 platforms1 = outlet_platform_map[outlet1]
 platform1 = st.sidebar.selectbox("Platform for Outlet 1", sorted(platforms1)).lower()
-
 
 st.sidebar.header("Select Second Media Outlet")
 outlet2 = st.sidebar.selectbox("Media Outlet 2", outlets)
@@ -171,53 +161,46 @@ for idx, (outlet, platform) in enumerate(selected_combinations):
             st.info(f"No data in selected range for {outlet} on {platform}")
             filtered_counts.append(None)
         else:
-            section_counts = df_filtered["merged_section"].value_counts(normalize=True) * 100
+            section_counts = df_filtered["merged_section"].value_counts()
             filtered_counts.append(section_counts)
 
-# Step 2: THRESHOLD FILTERING + PIE CHARTS
+# Step 2: THRESHOLD FILTERING + PIE CHARTS (WITH CONSISTENT COLORS)
 threshold = st.slider("Minimum % to Display in Pie Charts", min_value=0, max_value=20, value=2)
+
+all_labels = set()
+for counts in filtered_counts:
+    if counts is not None:
+        all_labels.update(counts.index)
+
+all_labels = sorted(all_labels)
+cmap = plt.get_cmap("tab20")
+color_map = {label: cmap(i % 20) for i, label in enumerate(all_labels)}
 
 for idx, counts in enumerate(filtered_counts):
     if counts is None:
         continue
-    counts = counts[counts >= threshold]
+
+    total_sum = counts.sum()
+    counts_shown = counts[counts / total_sum * 100 >= threshold]
+    labels = counts_shown.index.tolist()
+    values = counts_shown.values
+    colors = [color_map[label] for label in labels]
+    percent_labels = [f"{label} ({value / total_sum:.1%})" for label, value in zip(labels, values)]
+
     with (col1 if idx == 0 else col2):
         fig, ax = plt.subplots()
-        ax.pie(counts, labels=counts.index, autopct="%1.1f%%", startangle=140)
+        ax.pie(values, labels=percent_labels, startangle=140, colors=colors)
         ax.axis("equal")
         st.pyplot(fig)
 
-  
-
-
-
-
-
 # ----------------------
-# Entity-Level Comparison (Original Dashboard 2 Content)
+# Entity-Level Comparison
 # ----------------------
-
 entity_stopwords = {
-    "unknown",
-    "n/a",
-    "none",
-    "please provide the text",
-    "i'm sorry",
-    "example.com",
-    "#cnn#",
-    'a year',
-    'ABC News'
-    '@ABC News',
-    'BBCNews',
-    'MSNBC',
-     'www.nbcnew.com/politics/tru',
-     '@msnbc.com',
-     "n't",
-     '@NYTimes',
-     'the Reuters World News'
-    # Add your custom garbage/low-quality entities here
+    "unknown", "n/a", "none", "please provide the text", "i'm sorry", "example.com", "#cnn#", 'a year',
+    'ABC News', '@ABC News', 'BBCNews', 'MSNBC', 'www.nbcnew.com/politics/tru', '@msnbc.com', "n't",
+    '@NYTimes', 'the Reuters World News'
 }
-
 
 comparison_data = []
 
