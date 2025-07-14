@@ -45,7 +45,7 @@ def load_topic_csv(outlet, platform):
     try:
         matched_file = next(
             (f for f in os.listdir(folder_path)
-             if f.lower().startswith(outlet.lower()) and platform.lower() in f.lower() and f.endswith("_sections.csv")),
+             if f.lower().startswith(outlet.lower()) and f.endswith("_with_sections.csv")),
             None
         )
 
@@ -65,7 +65,9 @@ def load_topic_csv(outlet, platform):
         return df
 
     except Exception as e:
+        print(f"Error loading topic CSV for {outlet}, {platform}: {e}")
         return pd.DataFrame()
+
 
 # ----------------------
 # Load Sentiment Data
